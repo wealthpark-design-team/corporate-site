@@ -41,10 +41,50 @@ WealthPark株式会社のコーポレートサイト
 
 **現在の状態**: middlewareなしで、ルートページから/jaへリダイレクトする方式で動作中
 
+#### Issue 3: Vercel 404エラー（継続中）
+**問題**: デプロイ後に`404: NOT_FOUND`が発生
+**調査結果**:
+1. ✅ **ローカル環境**: プロダクションビルド（`npm run build && npm start`）で正常動作
+   ```
+   HTTP/1.1 307 Temporary Redirect
+   location: /ja
+   ```
+2. ❌ **Vercel環境**: 同じコードで404エラー
+3. **原因**: Next.js 16とVercelの互換性問題の可能性が高い
+
+**解決策（2つのアプローチ）**:
+
+##### 推奨: Option 1 - Next.js 15へダウングレード
+```bash
+npm install next@15.0.0 react@18.2.0 react-dom@18.2.0
+npm run build  # 動作確認
+git add package.json package-lock.json
+git commit -m "Downgrade to Next.js 15 for Vercel compatibility"
+git push
+```
+**理由**: Next.js 15はVercelで安定動作が確認されています
+
+##### 代替案: Option 2 - vercel.jsonでリダイレクト設定
+プロジェクトルートに`vercel.json`を作成：
+```json
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/ja",
+      "permanent": false
+    }
+  ]
+}
+```
+
+**推奨**: まずOption 1（ダウングレード）を試してください。それで解決しない場合はOption 2を追加してください。
+
 #### 今後の対応が必要な項目
-- [ ] Next.js 16の`proxy.ts`への移行を検討（middlewareの代替）
+- [ ] Vercel 404エラーの解決（上記Option 1または2を実行）
 - [ ] Vercel Deployment Protectionの設定（パスワード保護）
 - [ ] 本番ドメインの設定
+- [ ] Next.js 16への再アップグレード検討（Vercel対応後）
 
 ## サイト構成（サイトマップ）
 
