@@ -1,0 +1,1323 @@
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KH2RPBR');</script>
+<!-- End Google Tag Manager --><meta charset="UTF-8">
+<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' name='viewport' />
+<meta name="apple-itunes-app" content="app-id=1068127268">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<title>Park | WealthParkの温度を伝える</title>
+<meta name="description" content="『WealthParkの “人” が持つ体温や熱量を、正しく広く届ける。』をコンセプトに、採用を目的とした発信をするオウンドメディアです。">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Park | WealthParkの温度を伝える">
+<meta property="og:description" content="『WealthParkの “人” が持つ体温や熱量を、正しく広く届ける。』をコンセプトに、採用を目的とした発信をするオウンドメディアです。">
+<meta property="og:image" content="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/corporate/park/ogp.jpg">
+<link rel="alternate" hreflang="ja" href="http://wealth-park.com/ja/park" />
+<link rel="alternate" hreflang="en" href="http://wealth-park.com/en/park" />
+<link rel="alternate" hreflang="zh" href="http://wealth-park.com/sc/park" />
+<link rel="alternate" hreflang="zh-CN" href="http://wealth-park.com/sc/park" />
+<link rel="alternate" hreflang="zh-HK" href="http://wealth-park.com/tc/park" />
+<link rel="alternate" hreflang="zh-TW" href="http://wealth-park.com/tc/park" />
+<link rel="manifest" href="https://wealth-park.com/wp-content/themes/wp-next-landing-page/manifest.json?20251101-1410">
+<link rel="stylesheet" type="text/css" href="https://wealth-park.com/wp-content/themes/wp-next-landing-page/style.css?20251101-1410">
+<link rel="stylesheet" href="https://wealth-park.com/wp-content/themes/wp-next-landing-page/corporate/css/style.css?20251101-1410">
+<link rel="stylesheet" href="https://wealth-park.com/wp-content/themes/wp-next-landing-page/corporate/css/park.css?20251101-1410">
+<link rel="stylesheet" href="https://wealth-park.com/wp-content/themes/wp-next-landing-page/css/slick.css?20251101-1410" media="screen" />
+<link rel="stylesheet" href="https://wealth-park.com/wp-content/themes/wp-next-landing-page/css/slick-theme.css?20251101-1410" media="screen" />
+<link rel="stylesheet" href="https://wealth-park.com/wp-content/themes/wp-next-landing-page/css/common.css?20251101-1410">
+<link rel="stylesheet" href="https://wealth-park.com/wp-content/themes/wp-next-landing-page/css/megamenu.css?20251101-1410">
+<link rel="stylesheet" href="https://use.typekit.net/kbe8wyi.css?ver=1.0.1">
+<script src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/js/jquery-3.3.1.min.js?20251101-1410"></script>
+<script src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/js/slick.min.js?20251101-1410"></script>
+<script src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/js/rellax.min.js?20251101-1410"></script>
+<script src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/js/megamenu.js?20251101-1410"></script>
+<script src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/js/validation.js?20251101-1410"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/iScroll/5.2.0/iscroll.min.js?20251101-1410"></script>
+<link rel="apple-touch-icon" sizes="180x180" href="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/icon.png">
+<link rel="apple-touch-icon-precomposed" href="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/icon.png">
+<link rel="shortcut icon" href="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/icon.png">
+<link rel="icon" sizes="192x192" href="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/icon.png">
+<!--[if lt IE 9]>
+<script src="/js/html5shiv.js"></script>
+<script src="/js/respond.js"></script>
+<![endif]-->
+
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KH2RPBR"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="page" class="whole-page park-blog">
+	  <!-- CORPORATE NAV -->
+    
+  <!-- CORPORATE ALL PAGES -->
+  <header class="header--corporate header--common header--dark">
+    <!-- DESKTOP -->
+    <nav class="menu__navbar menu__navbar--pc">
+      <div class="menu__navbar__logo">
+        <a href="https://wealth-park.com/ja/"><img loading="lazy" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/app/logo_inverse.svg" alt="WealthPark" /></a>
+      </div>
+      <ul class="menu__list">
+        <li class="menu__list-item menu__first-level menu__parent-dropdown">
+          <a class="menu__list-link menu__dropdown-toggle" href="javascript:void(0)">ニュース</a>
+          <ul class="menu__dropdown">
+            <li class="menu__dropdown-list-item">
+              <a href="https://wealth-park.com/ja/news/" class="menu__dropdown-list-link">
+              ニュース              </a>
+            </li>
+            <li class="menu__dropdown-list-item">
+              <a href="https://wealth-park.com/ja/business/release-note" class="menu__dropdown-list-link">
+                プロダクト新機能・改善              </a>
+            </li>
+            <li class="menu__dropdown-list-item">
+              <a href="https://prtimes.jp/main/html/searchrlp/company_id/40576" target="_blank" class="menu__dropdown-list-link menu__dropdown-list-link--external">
+                プレスリリース              </a>
+            </li>
+          </ul>
+        </li>
+        <li class="menu__list-item menu__first-level menu__parent-dropdown">
+          <a class="menu__list-link menu__dropdown-toggle" href="javascript:void(0)">サービス</a>      
+          <ul class="menu__dropdown">
+            <li class="menu__dropdown-list-item">
+              <a href="https://wealth-park.com/ja/business" class="menu__dropdown-list-link">
+                不動産管理会社向けサービス<br>
+                <small>WealthParkビジネス</small>
+              </a>
+            </li>
+            <li class="menu__dropdown-list-item">
+              <a href="https://owner-app.wealth-park.com" class="menu__dropdown-list-link menu__dropdown-list-link--external" target="_blank">
+                不動産オーナー向けサービス<br>
+                <small>WealthParkオーナーアプリ</small>
+              </a>
+            </li>
+            <li class="menu__dropdown-list-item">
+              <a href="https://wealthpark-ret.com/" class="menu__dropdown-list-link menu__dropdown-list-link--external" target="_blank">
+                海外不動産投資家向けサービス<br>
+                <small>WealthPark RealEstate Technologies</small>
+              </a>
+            </li>
+            <li class="menu__dropdown-list-item">
+              <a href="https://wealthpark-alt.com/" class="menu__dropdown-list-link menu__dropdown-list-link--external" target="_blank">
+                不動産関連の<br>
+  クラウドファンディングサービス<br>
+                <small>WealthPark Investment</small>
+              </a>
+            </li>
+          </ul> 
+        </li>
+        <li class="menu__list-item menu__first-level">
+          <a class="menu__list-link" href="https://wealth-park.com/ja/corporate/company/">会社概要</a>
+        </li>
+        <li class="menu__list-item menu__first-level menu__parent-dropdown">
+          <a class="menu__list-link menu__dropdown-toggle" href="javascript:void(0)">採用</a>      
+          <ul class="menu__dropdown">
+            <li class="menu__dropdown-list-item">
+              <a href="https://wealth-park.com/ja/careers" class="menu__dropdown-list-link">
+                中途採用              </a>
+            </li>
+            <li class="menu__dropdown-list-item">
+              <a href="https://wealth-park.com/ja/park"class="menu__dropdown-list-link"> 
+                採用オウンドメディア「Park」              </a>
+            </li>
+          </ul> 
+        </li>
+        <li class="menu__list-item menu__first-level menu__parent-dropdown">
+          <a class="menu__list-link menu__dropdown-toggle" href="javascript:void(0)">記事</a>
+          <ul class="menu__dropdown menu__dropdown--edge">
+            <li class="menu__dropdown-heading">オウンドメディア</li>
+            <li class="menu__dropdown-list-item">
+              <a href="https://wealth-park.com/ja/wealthpark-blog/" class="menu__dropdown-list-link">
+                WealthParkブログ              </a>
+            </li>
+            <li class="menu__dropdown-list-item">
+              <a href="https://wealthpark-lab.com" target="_blank" class="menu__dropdown-list-link menu__dropdown-list-link--external">
+                WealthPark研究所              </a>
+            </li>
+            <li class="menu__dropdown-list-item">
+              <a href="https://wealth-park.com/ja/park" class="menu__dropdown-list-link">
+                採用オウンドメディア「Park」              </a>
+            </li>
+            <li class="menu__dropdown__divider"></li>
+            <li class="menu__dropdown-heading">特集</li>
+            <li class="menu__dropdown-list-item">
+              <a href="https://wealth-park.com/ja/business/seminar" class="menu__dropdown-list-link">
+                イベント・セミナー              </a>
+            </li>
+            <li class="menu__dropdown-list-item">
+              <a href="https://wealth-park.com/ja/tag/keypersons-voice/" class="menu__dropdown-list-link">
+                Key Person's Voice | 不動産管理会社のトップ対談              </a>
+            </li>
+            <li class="menu__dropdown-list-item">
+              <a href="https://wealth-park.com/ja/park_category/person/" class="menu__dropdown-list-link">
+                社員インタビュー              </a>
+            </li>
+          </ul>
+        </li>
+                  <li class="menu__list-item menu__first-level menu__list-item-btn">
+            <a class="menu__list-link-btn menu__list-link-btn--blue" href="https://wealth-park.com/ja/business/">不動産管理会社の方</a>
+          </li>
+                <li class="menu__list-item menu__first-level menu__list-item-btn">
+          <a class="menu__list-link-btn menu__list-link-btn--white" href="https://owner.wealth-park.com/" target="_blank">
+            パソコン版WealthPark ログイン          </a>
+        </li>
+      </ul>
+    </nav>
+    <!-- MOBILE -->
+    <nav class="menu__navbar menu__navbar--sp">
+      <div class="menu__navbar--mobile">
+        <div class="menu__navbar__logo">
+          <a href="https://wealth-park.com/ja/"><img loading="lazy" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/app/logo_inverse.svg" alt="WealthPark" /></a>
+        </div>
+        <div class="menu__burger">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+      </div>
+      <div class="menu__list-container">
+        <ul class="menu__list--mobile">
+          <li class="menu__list-item menu__first-level">
+            <a class="menu__list-link" href="https://wealth-park.com/ja/">Home</a>
+          </li>
+          <li class="menu__list-item menu__first-level menu__parent-dropdown">
+            <a class="menu__list-link menu__dropdown-toggle" href="javascript:void(0)">ニュース</a>
+            <ul class="menu__dropdown">
+              <li class="menu__dropdown-list-item">
+                <a href="https://wealth-park.com/ja/news/" class="menu__dropdown-list-link">
+                  ニュース                </a>
+              </li>
+              <li class="menu__dropdown-list-item">
+                <a href="https://wealth-park.com/ja/business/release-note" class="menu__dropdown-list-link">
+                  プロダクト新機能・改善                </a>
+              </li>
+              <li class="menu__dropdown-list-item">
+                <a href="https://prtimes.jp/main/html/searchrlp/company_id/40576" target="_blank" class="menu__dropdown-list-link menu__dropdown-list-link--external">
+                  プレスリリース                </a>
+              </li>
+            </ul>
+          </li>
+          <li class="menu__list-item menu__first-level menu__parent-dropdown">
+            <a class="menu__list-link menu__dropdown-toggle" href="javascript:void(0)">サービス</a>      
+            <ul class="menu__dropdown">
+              <li class="menu__dropdown-list-item">
+                <a href="https://wealth-park.com/ja/business" class="menu__dropdown-list-link">
+                  不動産管理会社向けサービス<br>
+                  <small>WealthParkビジネス</small>
+                </a>
+              </li>
+              <li class="menu__dropdown-list-item">
+                <a href="https://owner-app.wealth-park.com" class="menu__dropdown-list-link menu__dropdown-list-link--external" target="_blank">
+                  不動産オーナー向けサービス<br>
+                  <small>WealthParkオーナーアプリ</small>
+                </a>
+              </li>
+              <li class="menu__dropdown-list-item">
+                <a href="https://wealthpark-ret.com/" class="menu__dropdown-list-link menu__dropdown-list-link--external" target="_blank">
+                  海外不動産投資家向けサービス<br>
+                  <small>WealthPark RealEstate Technologies</small>
+                </a>
+              </li>
+              <li class="menu__dropdown-list-item">
+                <a href="https://wealthpark-alt.com/" class="menu__dropdown-list-link menu__dropdown-list-link--external" target="_blank">
+                  不動産関連の<br>
+  クラウドファンディングサービス<br>
+                  <small>WealthPark Investment</small>
+                </a>
+              </li>
+            </ul> 
+          </li>
+          <li class="menu__list-item menu__first-level">
+            <a class="menu__list-link" href="https://wealth-park.com/ja/corporate/company/">会社概要</a>
+          </li>
+          <li class="menu__list-item menu__first-level menu__parent-dropdown">
+            <a class="menu__list-link menu__dropdown-toggle" href="javascript:void(0)">採用</a>      
+            <ul class="menu__dropdown">
+              <li class="menu__dropdown-list-item">
+                <a href="https://wealth-park.com/ja/careers" class="menu__dropdown-list-link">
+                  中途採用                </a>
+              </li>
+              <li class="menu__dropdown-list-item">
+                <a href="https://wealth-park.com/ja/park"class="menu__dropdown-list-link"> 
+                  採用オウンドメディア「Park」                </a>
+              </li>
+            </ul> 
+          </li>
+          <li class="menu__list-item menu__first-level menu__parent-dropdown menu__parent-dropdown--ownedmedia">
+            <a class="menu__list-link menu__dropdown-toggle" href="javascript:void(0)">記事</a>
+            <ul class="menu__dropdown menu__dropdown--edge">
+              <li class="menu__dropdown-heading">オウンドメディア</li>
+              <li class="menu__dropdown-list-item">
+                <a href="https://wealth-park.com/ja/wealthpark-blog/" class="menu__dropdown-list-link">
+                  WealthParkブログ                </a>
+              </li>
+              <li class="menu__dropdown-list-item">
+                <a href="https://wealthpark-lab.com" target="_blank" class="menu__dropdown-list-link menu__dropdown-list-link--external">
+                  WealthPark研究所                </a>
+              </li>
+              <li class="menu__dropdown-list-item">
+                <a href="https://wealth-park.com/ja/park" class="menu__dropdown-list-link">
+                  採用オウンドメディア「Park」                </a>
+              </li>
+              <li class="menu__dropdown-heading">特集</li>
+              <li class="menu__dropdown-list-item">
+                <a href="https://wealth-park.com/ja/business/seminar" class="menu__dropdown-list-link">
+                  イベント・セミナー                </a>
+              </li>
+              <li class="menu__dropdown-list-item">
+                <a href="https://wealth-park.com/ja/tag/keypersons-voice/" class="menu__dropdown-list-link">
+                  Key Person's Voice | 不動産管理会社のトップ対談                </a>
+              </li>
+              <li class="menu__dropdown-list-item">
+                <a href="https://wealth-park.com/ja/park_category/person/" class="menu__dropdown-list-link">
+                  社員インタビュー                </a>
+              </li>
+            </ul>
+          </li>
+                      <li class="menu__list-item menu__first-level menu__list-item-btn">
+              <a class="menu__list-link-btn menu__list-link-btn--blue" href="https://wealth-park.com/ja/business/">
+                不動産管理会社向け                <br>
+                <span>サービスページはこちら</span>
+              </a>
+            </li>
+                    <li class="menu__list-item menu__first-level menu__list-item-btn">
+            <a class="menu__list-link-btn menu__list-link-btn--white" href="https://owner.wealth-park.com/" target="_blank">
+              パソコン版WealthPark <br>
+                              <span>ログインページはこちら</span>
+                          </a>
+          </li>
+          <li class="menu__list-item menu__first-level">
+            <ul class="menu__sns--list">
+              <li>
+                <a href="https://www.facebook.com/WealthPark-Business-WealthPark%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A6%E3%82%A7%E3%83%AB%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2253775971335835/" target="_blank">
+                  <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/ico_facebook.svg" alt="facebook" />
+                </a>
+              </li>
+              <li>
+                <a href="https://www.linkedin.com/company/wealthpark/" target="_blank">
+                  <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/ico_in.svg" alt="in" />
+                </a>
+              </li>
+              <li>
+                <a href="https://www.youtube.com/channel/UCvTChmtXoEokx8vsWda8aNg" target="_blank">
+                  <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/ico_youtube.svg" alt="youtube" />
+                </a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+
+  <section class="breadcrumbs--global breadcrumbs--global-corporate ">
+    <ul>
+      <li>
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/business-icon.svg" alt="icon">
+        <a href="/">WealthPark</a>
+      </li>
+      <li>採用</li><li><a href="/park">採用オウンドメディア「Park」</a></li>    </ul>
+</section>
+
+
+
+
+	<div id="content" class="site-content">
+	<div id="primary" class="content-area blog_page blog">
+    <section class="park-top__hero section-block">
+      <div class="wp_container">
+        <div class="visible-pc">
+            <img loading='lazy' class="park-top__hero--img park-top__hero--img-mountain" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/corporate/park/park-hero-pc-min.png" alt="WealthParkの「温度」を伝える"/>
+        </div>
+        <div class="visible-sp">
+          <img loading='lazy' class="park-top__hero--img park-top__hero--img-mountain" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/corporate/park/park-hero-sp-min.png" alt="WealthParkの「温度」を伝える"/>
+        </div>
+      </div>
+    </section>
+		<main id="main" class="site-main wp_container blog-container" role="main">
+      <section id="section-blog-list">
+            <section class="blog-recommend">
+        <ul class='blog-recommend__list'>
+                            <li class='blog-recommend__item'>
+                              <a class='blog-recommend__thumb' href='https://wealth-park.com/ja/park/hhp/'>
+                                <img loading='lazy' src='https://wealth-park.com/wp-content/uploads/2025/05/hhp_kv.jpg' />
+                              </a>
+                              <div class='blog-recommend__body'>
+                                <div class='blog-recommend__header'>
+                                  <a class='blog-recommend__header-cate' href='https://wealth-park.com/ja/park_category/business/'>Business</a>
+                                  
+                                </div>
+                                <a class='blog-recommend__title' href='https://wealth-park.com/ja/park/hhp/'>阪急阪神不動産 隅田様・河目様に聞く、<br>DXビジョンの実現に向けたロードマップ作成とビジネスアーキテクチャ整理の重要性</a>
+                                <p class='blog-recommend__description'>WealthParkでは「世の中の不動産体験をアップデート」するために不動産業界のDXを推進。業務支援SaaSの提供をはじめソフトウェアだけで解決に至</p>
+                                <ul class='blog-recommend__meta'>
+                                  <li class='blog-recommend__meta-item'>
+                    <a class='blog-recommend__meta-link' href='https://wealth-park.com/ja/park_tag/recommend/'>Recommend</a>
+                  </li><li class='blog-recommend__meta-item'>
+                    <a class='blog-recommend__meta-link' href='https://wealth-park.com/ja/park_tag/dx/'>DX</a>
+                  </li><li class='blog-recommend__meta-item'>
+                    <a class='blog-recommend__meta-link' href='https://wealth-park.com/ja/park_tag/recommend-wpb/'>Recommend WPB</a>
+                  </li><li class='blog-recommend__meta-item'>
+                    <a class='blog-recommend__meta-link' href='https://wealth-park.com/ja/park_tag/dx%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e4%ba%8b%e4%be%8b/'>DXコンサルティングサービス事例</a>
+                  </li>
+                                </ul>
+                                <div class='blog-recommend__footer'>
+                                  <a class='blog-recommend__readmore' href='https://wealth-park.com/ja/park/hhp/'>続きを読む</a>
+                                </div>
+                              </div>
+                            </li>
+                            </ul>      </section>
+      
+      <section class="blog-articles">
+        <div class="blog-articles__header">
+          <h2 class="blog-articles__headline">
+            LATEST ARTICLES
+          </h2>
+        </div>
+        <ul class='blog-articles__list'>
+                <li class='blog-articles__item'>
+                  <a class='blog-articles__item-thumb' href='https://wealth-park.com/ja/park/%e3%82%ab%e3%82%b9%e3%82%bf%e3%83%9e%e3%83%bc%e3%82%b5%e3%82%af%e3%82%bb%e3%82%b9%e3%81%a3%e3%81%a6%e3%81%a9%e3%82%93%e3%81%aa%e4%bb%95%e4%ba%8b%ef%bc%9f/'>
+                    <img loading='lazy' src='https://wealth-park.com/wp-content/uploads/2025/06/retouched_DSC03243-1-scaled.jpg' />
+                  </a>
+                  <div class='blog-articles__item-header'>
+                    <a class='blog-articles__item-category' href='https://wealth-park.com/ja/park_category/person/'>
+                      Person
+                    </a>
+                  </div>
+                  <div class='blog-articles__item-body'>
+                    <p class='blog-articles__item-body--inner'>
+                      カスタマーサクセスってどんな仕事？　新卒向け先輩インタビュー
+                    </p>
+                  </div>
+                  <ul class='blog-articles__meta'>
+                    <li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/customer-success/'>カスタマーサクセス</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/wp/'>WP</a>
+                  </li>
+                  </ul>
+                </li>
+                
+                <li class='blog-articles__item'>
+                  <a class='blog-articles__item-thumb' href='https://wealth-park.com/ja/park/%e4%bb%95%e4%ba%8b%e3%81%af%e9%80%80%e5%b1%88%e3%81%9b%e3%81%9a%e3%81%ab%e4%ba%ba%e7%94%9f%e3%82%92%e9%9d%a2%e7%99%bd%e3%81%8f%e3%81%99%e3%82%8b%e3%81%9f%e3%82%81%e3%81%ae%e6%89%8b%e6%ae%b5/'>
+                    <img loading='lazy' src='https://wealth-park.com/wp-content/uploads/2025/06/IMG_8813-scaled.jpg' />
+                  </a>
+                  <div class='blog-articles__item-header'>
+                    <a class='blog-articles__item-category' href='https://wealth-park.com/ja/park_category/person/'>
+                      Person
+                    </a>
+                  </div>
+                  <div class='blog-articles__item-body'>
+                    <p class='blog-articles__item-body--inner'>
+                      仕事は退屈せずに人生を面白くするための手段　社会人2年目の挑戦
+                    </p>
+                  </div>
+                  <ul class='blog-articles__meta'>
+                    <li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/%e6%96%b0%e5%8d%92/'>新卒</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/wealthpark-alternative-investments/'>WealthPark Alternative Investments</a>
+                  </li>
+                  </ul>
+                </li>
+                
+                <li class='blog-articles__item'>
+                  <a class='blog-articles__item-thumb' href='https://wealth-park.com/ja/park/%e4%bd%95%e4%ba%8b%e3%82%82%e9%9d%a2%e7%99%bd%e3%81%8c%e3%82%8b%e3%81%93%e3%81%a8%e3%81%8c%e6%88%90%e9%95%b7%e3%81%ae%e3%81%8d%e3%81%a3%e3%81%8b%e3%81%91%e3%81%ab%e3%81%aa%e3%82%8b/'>
+                    <img loading='lazy' src='https://wealth-park.com/wp-content/uploads/2025/06/IMG_7783-scaled.jpg' />
+                  </a>
+                  <div class='blog-articles__item-header'>
+                    <a class='blog-articles__item-category' href='https://wealth-park.com/ja/park_category/person/'>
+                      Person
+                    </a>
+                  </div>
+                  <div class='blog-articles__item-body'>
+                    <p class='blog-articles__item-body--inner'>
+                      何事も面白がることが成長のきっかけになる。社会人1年目の挑戦
+                    </p>
+                  </div>
+                  <ul class='blog-articles__meta'>
+                    <li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/%e6%96%b0%e5%8d%92/'>新卒</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/customer-success/'>カスタマーサクセス</a>
+                  </li>
+                  </ul>
+                </li>
+                
+                <li class='blog-articles__item'>
+                  <a class='blog-articles__item-thumb' href='https://wealth-park.com/ja/park/business_chuo-nittochi/'>
+                    <img loading='lazy' src='https://wealth-park.com/wp-content/uploads/2024/07/DSC04428.jpg' />
+                  </a>
+                  <div class='blog-articles__item-header'>
+                    <a class='blog-articles__item-category' href='https://wealth-park.com/ja/park_category/business/'>
+                      Business
+                    </a>
+                  </div>
+                  <div class='blog-articles__item-body'>
+                    <p class='blog-articles__item-body--inner'>
+                      中央日本土地建物 平本様・中瀬様に聞く、データレイクの必要性と目指すデータドリブン経営
+                    </p>
+                  </div>
+                  <ul class='blog-articles__meta'>
+                    <li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/dx/'>DX</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/recommend-wpb/'>Recommend WPB</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/dx%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e4%ba%8b%e4%be%8b/'>DXコンサルティングサービス事例</a>
+                  </li>
+                  </ul>
+                </li>
+                
+                <li class='blog-articles__item'>
+                  <a class='blog-articles__item-thumb' href='https://wealth-park.com/ja/park/business_tokyu-fudosan-hd/'>
+                    <img loading='lazy' src='https://wealth-park.com/wp-content/uploads/2024/05/DSC03433.jpg' />
+                  </a>
+                  <div class='blog-articles__item-header'>
+                    <a class='blog-articles__item-category' href='https://wealth-park.com/ja/park_category/business/'>
+                      Business
+                    </a>
+                  </div>
+                  <div class='blog-articles__item-body'>
+                    <p class='blog-articles__item-body--inner'>
+                      東急不動産ホールディングス 佐藤様・伊藤様に聞く、不動産業界が新たな価値を生み出し続けるために必要な変革
+                    </p>
+                  </div>
+                  <ul class='blog-articles__meta'>
+                    <li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/dx/'>DX</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/recommend-wpb/'>Recommend WPB</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/dx%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e4%ba%8b%e4%be%8b/'>DXコンサルティングサービス事例</a>
+                  </li>
+                  </ul>
+                </li>
+                
+                <li class='blog-articles__item'>
+                  <a class='blog-articles__item-thumb' href='https://wealth-park.com/ja/park/business_mitsubishi-estate/'>
+                    <img loading='lazy' src='https://wealth-park.com/wp-content/uploads/2024/05/DSC02612.jpg' />
+                  </a>
+                  <div class='blog-articles__item-header'>
+                    <a class='blog-articles__item-category' href='https://wealth-park.com/ja/park_category/business/'>
+                      Business
+                    </a>
+                  </div>
+                  <div class='blog-articles__item-body'>
+                    <p class='blog-articles__item-body--inner'>
+                      三菱地所 篠原様に聞く、WealthParkと歩む事業変革の未来
+                    </p>
+                  </div>
+                  <ul class='blog-articles__meta'>
+                    <li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/dx/'>DX</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/recommend-wpb/'>Recommend WPB</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/dx%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e4%ba%8b%e4%be%8b/'>DXコンサルティングサービス事例</a>
+                  </li>
+                  </ul>
+                </li>
+                
+                <li class='blog-articles__item'>
+                  <a class='blog-articles__item-thumb' href='https://wealth-park.com/ja/park/person_mari-ashida/'>
+                    <img loading='lazy' src='https://wealth-park.com/wp-content/uploads/2023/12/ashida-san-001.jpg' />
+                  </a>
+                  <div class='blog-articles__item-header'>
+                    <a class='blog-articles__item-category' href='https://wealth-park.com/ja/park_category/person/'>
+                      Person
+                    </a>
+                  </div>
+                  <div class='blog-articles__item-body'>
+                    <p class='blog-articles__item-body--inner'>
+                      迷ったときの羅針盤になる ”APPRECIATION AND RESPECT”
+                    </p>
+                  </div>
+                  <ul class='blog-articles__meta'>
+                    <li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/behavior-identity/'>Behavior Identity</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/appreciation-and-respect/'>APPRECIATION AND RESPECT</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/corporate/'>Corporate</a>
+                  </li>
+                  </ul>
+                </li>
+                
+                <li class='blog-articles__item'>
+                  <a class='blog-articles__item-thumb' href='https://wealth-park.com/ja/park/person_yumi-mukai/'>
+                    <img loading='lazy' src='https://wealth-park.com/wp-content/uploads/2023/12/mukai-san-001.jpg' />
+                  </a>
+                  <div class='blog-articles__item-header'>
+                    <a class='blog-articles__item-category' href='https://wealth-park.com/ja/park_category/person/'>
+                      Person
+                    </a>
+                  </div>
+                  <div class='blog-articles__item-body'>
+                    <p class='blog-articles__item-body--inner'>
+                      わたしが考えるベストを実現するための ”DO THE RIGHT THING”
+                    </p>
+                  </div>
+                  <ul class='blog-articles__meta'>
+                    <li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/behavior-identity/'>Behavior Identity</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/do-the-right-thing/'>DO THE RIGHT THING</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/customer-success/'>カスタマーサクセス</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/wp/'>WP</a>
+                  </li>
+                  </ul>
+                </li>
+                
+                <li class='blog-articles__item'>
+                  <a class='blog-articles__item-thumb' href='https://wealth-park.com/ja/park/20231227-workshop/'>
+                    <img loading='lazy' src='https://wealth-park.com/wp-content/uploads/2023/12/workshop.png' />
+                  </a>
+                  <div class='blog-articles__item-header'>
+                    <a class='blog-articles__item-category' href='https://wealth-park.com/ja/park_category/culture/'>
+                      Culture
+                    </a>
+                  </div>
+                  <div class='blog-articles__item-body'>
+                    <p class='blog-articles__item-body--inner'>
+                      ブロックを使用して相互理解を深めるワークショップを実施。制限があるコミュニケーションのなかで受講メンバーが得た学びをシェアします
+                    </p>
+                  </div>
+                  <ul class='blog-articles__meta'>
+                    <li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/behavior-identity/'>Behavior Identity</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/learning/'>Learning</a>
+                  </li>
+                  </ul>
+                </li>
+                
+                <li class='blog-articles__item'>
+                  <a class='blog-articles__item-thumb' href='https://wealth-park.com/ja/park/person_mei-iida/'>
+                    <img loading='lazy' src='https://wealth-park.com/wp-content/uploads/2023/09/DSC01852.jpg' />
+                  </a>
+                  <div class='blog-articles__item-header'>
+                    <a class='blog-articles__item-category' href='https://wealth-park.com/ja/park_category/person/'>
+                      Person
+                    </a>
+                  </div>
+                  <div class='blog-articles__item-body'>
+                    <p class='blog-articles__item-body--inner'>
+                      当たり前の正しいことを積み重ねていくと、自ずと結果はついてくる。わたしの人生観と重なる ”DO THE RIGHT THING”
+                    </p>
+                  </div>
+                  <ul class='blog-articles__meta'>
+                    <li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/behavior-identity/'>Behavior Identity</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/wealthpark-lab/'>WealthPark Lab</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/do-the-right-thing/'>DO THE RIGHT THING</a>
+                  </li>
+                  </ul>
+                </li>
+                
+                <li class='blog-articles__item'>
+                  <a class='blog-articles__item-thumb' href='https://wealth-park.com/ja/park/person_kosuke-kinjo/'>
+                    <img loading='lazy' src='https://wealth-park.com/wp-content/uploads/2023/09/DSC01894-1.jpg' />
+                  </a>
+                  <div class='blog-articles__item-header'>
+                    <a class='blog-articles__item-category' href='https://wealth-park.com/ja/park_category/person/'>
+                      Person
+                    </a>
+                  </div>
+                  <div class='blog-articles__item-body'>
+                    <p class='blog-articles__item-body--inner'>
+                      顧客の第一声を受け取る仕事。選択や意思決定の軸となる ”CUSTOMER CENTRIC”
+                    </p>
+                  </div>
+                  <ul class='blog-articles__meta'>
+                    <li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/behavior-identity/'>Behavior Identity</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/wealthpark-realestate-technologies/'>WealthPark RealEstate Technologies</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/customer-centric/'>CUSTOMER CENTRIC</a>
+                  </li>
+                  </ul>
+                </li>
+                
+                <li class='blog-articles__item'>
+                  <a class='blog-articles__item-thumb' href='https://wealth-park.com/ja/park/person_yoshitaka-izumi/'>
+                    <img loading='lazy' src='https://wealth-park.com/wp-content/uploads/2023/08/izumi.png' />
+                  </a>
+                  <div class='blog-articles__item-header'>
+                    <a class='blog-articles__item-category' href='https://wealth-park.com/ja/park_category/person/'>
+                      Person
+                    </a>
+                  </div>
+                  <div class='blog-articles__item-body'>
+                    <p class='blog-articles__item-body--inner'>
+                      不動産管理会社とオーナーの“コミュニケーションインフラ”を目指し、ビジョン・ミッション実現の礎を築く
+                    </p>
+                  </div>
+                  <ul class='blog-articles__meta'>
+                    <li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/sales/'>セールス</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/wp/'>WP</a>
+                  </li>
+                  </ul>
+                </li>
+                
+                <li class='blog-articles__item'>
+                  <a class='blog-articles__item-thumb' href='https://wealth-park.com/ja/park/new-graduates_risa-ota/'>
+                    <img loading='lazy' src='https://wealth-park.com/wp-content/uploads/2023/01/ota-1.png' />
+                  </a>
+                  <div class='blog-articles__item-header'>
+                    <a class='blog-articles__item-category' href='https://wealth-park.com/ja/park_category/person/'>
+                      Person
+                    </a>
+                  </div>
+                  <div class='blog-articles__item-body'>
+                    <p class='blog-articles__item-body--inner'>
+                      「自分の心は自分が一番よく分かっている」私が思う、選択をすることの有難みとは
+                    </p>
+                  </div>
+                  <ul class='blog-articles__meta'>
+                    <li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/%e6%96%b0%e5%8d%92/'>新卒</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/customer-success/'>カスタマーサクセス</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/wp/'>WP</a>
+                  </li>
+                  </ul>
+                </li>
+                
+                <li class='blog-articles__item'>
+                  <a class='blog-articles__item-thumb' href='https://wealth-park.com/ja/park/new-graduates_shunsuke-kuroda/'>
+                    <img loading='lazy' src='https://wealth-park.com/wp-content/uploads/2022/12/kuroda.png' />
+                  </a>
+                  <div class='blog-articles__item-header'>
+                    <a class='blog-articles__item-category' href='https://wealth-park.com/ja/park_category/person/'>
+                      Person
+                    </a>
+                  </div>
+                  <div class='blog-articles__item-body'>
+                    <p class='blog-articles__item-body--inner'>
+                      「殻をやぶり続けたい」休学、起業、売却…そして次のチャレンジへ
+                    </p>
+                  </div>
+                  <ul class='blog-articles__meta'>
+                    <li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/%e6%96%b0%e5%8d%92/'>新卒</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/dx-consulting/'>DX Consulting</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/wp/'>WP</a>
+                  </li>
+                  </ul>
+                </li>
+                
+                <li class='blog-articles__item'>
+                  <a class='blog-articles__item-thumb' href='https://wealth-park.com/ja/park/stories_junji-yanagawa/'>
+                    <img loading='lazy' src='https://wealth-park.com/wp-content/uploads/2023/08/021_001.png' />
+                  </a>
+                  <div class='blog-articles__item-header'>
+                    <a class='blog-articles__item-category' href='https://wealth-park.com/ja/park_category/person/'>
+                      Person
+                    </a>
+                  </div>
+                  <div class='blog-articles__item-body'>
+                    <p class='blog-articles__item-body--inner'>
+                      これまでに身につけたスキルを今いる場所で出し切りたい。プロダクトマネージャー兼コーポレートエンジニアリングチームマネージャーの組織に対する想いとは
+                    </p>
+                  </div>
+                  <ul class='blog-articles__meta'>
+                    <li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/corporate/'>Corporate</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/product-manager/'>プロダクトマネージャー</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/corporate-engineering/'>Corporate Engineering</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/security/'>Security</a>
+                  </li>
+                  </ul>
+                </li>
+                
+                <li class='blog-articles__item'>
+                  <a class='blog-articles__item-thumb' href='https://wealth-park.com/ja/park/person_tomokazu-murakami/'>
+                    <img loading='lazy' src='https://wealth-park.com/wp-content/uploads/2022/06/020_001.png' />
+                  </a>
+                  <div class='blog-articles__item-header'>
+                    <a class='blog-articles__item-category' href='https://wealth-park.com/ja/park_category/person/'>
+                      Person
+                    </a>
+                  </div>
+                  <div class='blog-articles__item-body'>
+                    <p class='blog-articles__item-body--inner'>
+                      新しいソリューションを生み出し、ワクワクするDXがしたい。不動産業界のボトルネックにダイレクトに向き合うDXコンサルタントの挑戦
+                    </p>
+                  </div>
+                  <ul class='blog-articles__meta'>
+                    <li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/dx/'>DX</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/wp/'>WP</a>
+                  </li>
+                  </ul>
+                </li>
+                
+                <li class='blog-articles__item'>
+                  <a class='blog-articles__item-thumb' href='https://wealth-park.com/ja/park/person_yuki-kagaya/'>
+                    <img loading='lazy' src='https://wealth-park.com/wp-content/uploads/2022/02/kagaya_1.png' />
+                  </a>
+                  <div class='blog-articles__item-header'>
+                    <a class='blog-articles__item-category' href='https://wealth-park.com/ja/park_category/person/'>
+                      Person
+                    </a>
+                  </div>
+                  <div class='blog-articles__item-body'>
+                    <p class='blog-articles__item-body--inner'>
+                      WealthParkに携わるすべての人にとっての幸せを追求することが自分の仕事。転職エージェントを経て人事に挑戦した、採用チーム マネージャーの想い
+                    </p>
+                  </div>
+                  <ul class='blog-articles__meta'>
+                    <li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/hr/'>HR</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/talent-acquisition/'>Talent Acquisition</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/wp/'>WP</a>
+                  </li>
+                  </ul>
+                </li>
+                
+                <li class='blog-articles__item'>
+                  <a class='blog-articles__item-thumb' href='https://wealth-park.com/ja/park/new-graduates_takumi-kaneko/'>
+                    <img loading='lazy' src='https://wealth-park.com/wp-content/uploads/2022/02/kane-1.png' />
+                  </a>
+                  <div class='blog-articles__item-header'>
+                    <a class='blog-articles__item-category' href='https://wealth-park.com/ja/park_category/person/'>
+                      Person
+                    </a>
+                  </div>
+                  <div class='blog-articles__item-body'>
+                    <p class='blog-articles__item-body--inner'>
+                      「あらゆる選択が今の自分をつくっている」22年間の軌跡とWealthParkとの出会い
+                    </p>
+                  </div>
+                  <ul class='blog-articles__meta'>
+                    <li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/%e6%96%b0%e5%8d%92/'>新卒</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/wp/'>WP</a>
+                  </li>
+                  </ul>
+                </li>
+                
+                <li class='blog-articles__item'>
+                  <a class='blog-articles__item-thumb' href='https://wealth-park.com/ja/park/behavioridentity_kazuho-hagiwara/'>
+                    <img loading='lazy' src='https://wealth-park.com/wp-content/uploads/2023/09/XGoHLA5.webp' />
+                  </a>
+                  <div class='blog-articles__item-header'>
+                    <a class='blog-articles__item-category' href='https://wealth-park.com/ja/park_category/culture/'>
+                      Culture
+                    </a>
+                  </div>
+                  <div class='blog-articles__item-body'>
+                    <p class='blog-articles__item-body--inner'>
+                      「『道』の真ん中を歩いていけることをやる」固定観念に捉われずに考え抜いた、私なりの”DO THE RIGHT THING”
+                    </p>
+                  </div>
+                  <ul class='blog-articles__meta'>
+                    <li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/behavior-identity/'>Behavior Identity</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/do-the-right-thing/'>DO THE RIGHT THING</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/wealthpark-alternative-investments/'>WealthPark Alternative Investments</a>
+                  </li>
+                  </ul>
+                </li>
+                
+                <li class='blog-articles__item'>
+                  <a class='blog-articles__item-thumb' href='https://wealth-park.com/ja/park/behavioridentity_karan-nose/'>
+                    <img loading='lazy' src='https://wealth-park.com/wp-content/uploads/2023/09/TnXxF8C.webp' />
+                  </a>
+                  <div class='blog-articles__item-header'>
+                    <a class='blog-articles__item-category' href='https://wealth-park.com/ja/park_category/culture/'>
+                      Culture
+                    </a>
+                  </div>
+                  <div class='blog-articles__item-body'>
+                    <p class='blog-articles__item-body--inner'>
+                      「会社とお客様との約束」常に何かに熱中し続ける私がWealthParkで拘る”COMMIT TO RESULTS”
+                    </p>
+                  </div>
+                  <ul class='blog-articles__meta'>
+                    <li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/behavior-identity/'>Behavior Identity</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/sales/'>セールス</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/commit-to-results/'>COMMIT TO RESULTS</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/wp/'>WP</a>
+                  </li>
+                  </ul>
+                </li>
+                
+                <li class='blog-articles__item'>
+                  <a class='blog-articles__item-thumb' href='https://wealth-park.com/ja/park/behavioridentity_yuki-kagaya/'>
+                    <img loading='lazy' src='https://wealth-park.com/wp-content/uploads/2022/01/kagaya-bi.png' />
+                  </a>
+                  <div class='blog-articles__item-header'>
+                    <a class='blog-articles__item-category' href='https://wealth-park.com/ja/park_category/culture/'>
+                      Culture
+                    </a>
+                  </div>
+                  <div class='blog-articles__item-body'>
+                    <p class='blog-articles__item-body--inner'>
+                      「感謝と敬意がない関係には魅力を感じない」私がベトナムで見つけた人生哲学と”APPRECIATION AND RESPECT”
+                    </p>
+                  </div>
+                  <ul class='blog-articles__meta'>
+                    <li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/behavior-identity/'>Behavior Identity</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/appreciation-and-respect/'>APPRECIATION AND RESPECT</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/hr/'>HR</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/talent-acquisition/'>Talent Acquisition</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/wp/'>WP</a>
+                  </li>
+                  </ul>
+                </li>
+                
+                <li class='blog-articles__item'>
+                  <a class='blog-articles__item-thumb' href='https://wealth-park.com/ja/park/behavioridentity_shoumei-yamamoto/'>
+                    <img loading='lazy' src='https://wealth-park.com/wp-content/uploads/2023/08/shoumei.png' />
+                  </a>
+                  <div class='blog-articles__item-header'>
+                    <a class='blog-articles__item-category' href='https://wealth-park.com/ja/park_category/culture/'>
+                      Culture
+                    </a>
+                  </div>
+                  <div class='blog-articles__item-body'>
+                    <p class='blog-articles__item-body--inner'>
+                      「望む変化も、望まない変化も楽しもう」謎解きが大好きな私が仲間と目指す”GO BEYOND”
+                    </p>
+                  </div>
+                  <ul class='blog-articles__meta'>
+                    <li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/behavior-identity/'>Behavior Identity</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/engineer/'>Engineer</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/wealthpark-alternative-investments/'>WealthPark Alternative Investments</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/mobile-engineer/'>モバイルエンジニア</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/go-beyond/'>GO BEYOND</a>
+                  </li>
+                  </ul>
+                </li>
+                
+                <li class='blog-articles__item'>
+                  <a class='blog-articles__item-thumb' href='https://wealth-park.com/ja/park/person_takahiro-fujii/'>
+                    <img loading='lazy' src='https://wealth-park.com/wp-content/uploads/2023/09/nud3bic.webp' />
+                  </a>
+                  <div class='blog-articles__item-header'>
+                    <a class='blog-articles__item-category' href='https://wealth-park.com/ja/park_category/person/'>
+                      Person
+                    </a>
+                  </div>
+                  <div class='blog-articles__item-body'>
+                    <p class='blog-articles__item-body--inner'>
+                      組織が変革されてきた今、次に劇的に成長させるのはプロダクト。グローバルなエンジニア組織を率いるVP of Engineeringの挑戦
+                    </p>
+                  </div>
+                  <ul class='blog-articles__meta'>
+                    <li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/engineering/'>Engineering</a>
+                  </li>
+                  </ul>
+                </li>
+                
+                <li class='blog-articles__item'>
+                  <a class='blog-articles__item-thumb' href='https://wealth-park.com/ja/park/person_yuki-yoshimoto/'>
+                    <img loading='lazy' src='https://wealth-park.com/wp-content/uploads/2021/10/yoshimoto.png' />
+                  </a>
+                  <div class='blog-articles__item-header'>
+                    <a class='blog-articles__item-category' href='https://wealth-park.com/ja/park_category/person/'>
+                      Person
+                    </a>
+                  </div>
+                  <div class='blog-articles__item-body'>
+                    <p class='blog-articles__item-body--inner'>
+                      デザイナーに求められるのは事業に対する深い理解とユーザー視点。創業時から横断的に組織づくりに関与した経験を経て、VP of Designが目指すこれからのデザイン組織とは
+                    </p>
+                  </div>
+                  <ul class='blog-articles__meta'>
+                    <li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/design/'>Design</a>
+                  </li>
+                  </ul>
+                </li>
+                
+                <li class='blog-articles__item'>
+                  <a class='blog-articles__item-thumb' href='https://wealth-park.com/ja/park/person_masayoshi-kikuchi/'>
+                    <img loading='lazy' src='https://wealth-park.com/wp-content/uploads/2023/09/2USynRR.webp' />
+                  </a>
+                  <div class='blog-articles__item-header'>
+                    <a class='blog-articles__item-category' href='https://wealth-park.com/ja/park_category/person/'>
+                      Person
+                    </a>
+                  </div>
+                  <div class='blog-articles__item-body'>
+                    <p class='blog-articles__item-body--inner'>
+                      人々を投資に向かわせるには、投資のメリットを実感できるサービスが必要。これまでの経験や知見を活かして「投資のサイクル」の醸成を目指すVP of Productの挑戦
+                    </p>
+                  </div>
+                  <ul class='blog-articles__meta'>
+                    <li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/product-manager/'>プロダクトマネージャー</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/wealthpark-alternative-investments/'>WealthPark Alternative Investments</a>
+                  </li>
+                  </ul>
+                </li>
+                
+                <li class='blog-articles__item'>
+                  <a class='blog-articles__item-thumb' href='https://wealth-park.com/ja/park/person_kaya-matsumoto/'>
+                    <img loading='lazy' src='https://wealth-park.com/wp-content/uploads/2023/08/gDxfN72.webp' />
+                  </a>
+                  <div class='blog-articles__item-header'>
+                    <a class='blog-articles__item-category' href='https://wealth-park.com/ja/park_category/person/'>
+                      Person
+                    </a>
+                  </div>
+                  <div class='blog-articles__item-body'>
+                    <p class='blog-articles__item-body--inner'>
+                      制約は喜んで受け入れる。ブランドコミュニケーションの設計を担うデザイナーの挑戦
+                    </p>
+                  </div>
+                  <ul class='blog-articles__meta'>
+                    <li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/design/'>Design</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/corporate/'>Corporate</a>
+                  </li>
+                  </ul>
+                </li>
+                
+                <li class='blog-articles__item'>
+                  <a class='blog-articles__item-thumb' href='https://wealth-park.com/ja/park/product_vp2/'>
+                    <img loading='lazy' src='https://wealth-park.com/wp-content/uploads/2020/09/vp1.png' />
+                  </a>
+                  <div class='blog-articles__item-header'>
+                    <a class='blog-articles__item-category' href='https://wealth-park.com/ja/park_category/business/'>
+                      Business
+                    </a>
+                  </div>
+                  <div class='blog-articles__item-body'>
+                    <p class='blog-articles__item-body--inner'>
+                      VPが語る、WealthParkのプロダクト・技術・組織とは【WealthPark VP対談 パート II】
+                    </p>
+                  </div>
+                  <ul class='blog-articles__meta'>
+                    <li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/design/'>Design</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/engineering/'>Engineering</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/product/'>Product</a>
+                  </li>
+                  </ul>
+                </li>
+                
+                <li class='blog-articles__item'>
+                  <a class='blog-articles__item-thumb' href='https://wealth-park.com/ja/park/product_vp1/'>
+                    <img loading='lazy' src='https://wealth-park.com/wp-content/uploads/2020/09/vp1.png' />
+                  </a>
+                  <div class='blog-articles__item-header'>
+                    <a class='blog-articles__item-category' href='https://wealth-park.com/ja/park_category/business/'>
+                      Business
+                    </a>
+                  </div>
+                  <div class='blog-articles__item-body'>
+                    <p class='blog-articles__item-body--inner'>
+                      VPが語る、WealthParkのプロダクト・技術・組織とは【WealthPark VP対談 パート I】
+                    </p>
+                  </div>
+                  <ul class='blog-articles__meta'>
+                    <li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/design/'>Design</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/engineering/'>Engineering</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/product/'>Product</a>
+                  </li>
+                  </ul>
+                </li>
+                
+                <li class='blog-articles__item'>
+                  <a class='blog-articles__item-thumb' href='https://wealth-park.com/ja/park/person_swarna-jana/'>
+                    <img loading='lazy' src='https://wealth-park.com/wp-content/uploads/2023/09/3GbdGU4.webp' />
+                  </a>
+                  <div class='blog-articles__item-header'>
+                    <a class='blog-articles__item-category' href='https://wealth-park.com/ja/park_category/person/'>
+                      Person
+                    </a>
+                  </div>
+                  <div class='blog-articles__item-body'>
+                    <p class='blog-articles__item-body--inner'>
+                      コミュニケーションと透明性が何より大切。地理的に分散したチームでゴールを達成させるQAマネージャーの仕事術
+                    </p>
+                  </div>
+                  <ul class='blog-articles__meta'>
+                    <li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/engineering/'>Engineering</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/qa/'>QA</a>
+                  </li>
+                  </ul>
+                </li>
+                
+                <li class='blog-articles__item'>
+                  <a class='blog-articles__item-thumb' href='https://wealth-park.com/ja/park/person_risa-kobayashi/'>
+                    <img loading='lazy' src='https://wealth-park.com/wp-content/uploads/2023/08/z1Xj4We.webp' />
+                  </a>
+                  <div class='blog-articles__item-header'>
+                    <a class='blog-articles__item-category' href='https://wealth-park.com/ja/park_category/person/'>
+                      Person
+                    </a>
+                  </div>
+                  <div class='blog-articles__item-body'>
+                    <p class='blog-articles__item-body--inner'>
+                      業界の変化の節目に立ち会いたい。営業とカスタマーサクセスの兼務で見えてきた、自分なりの役割と貢献の在り方
+                    </p>
+                  </div>
+                  <ul class='blog-articles__meta'>
+                    <li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/customer-success/'>カスタマーサクセス</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/sales/'>セールス</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/wp/'>WP</a>
+                  </li>
+                  </ul>
+                </li>
+                
+                <li class='blog-articles__item'>
+                  <a class='blog-articles__item-thumb' href='https://wealth-park.com/ja/park/person_tomoko-matsuyama/'>
+                    <img loading='lazy' src='https://wealth-park.com/wp-content/uploads/2019/12/matsuyama_1.png' />
+                  </a>
+                  <div class='blog-articles__item-header'>
+                    <a class='blog-articles__item-category' href='https://wealth-park.com/ja/park_category/person/'>
+                      Person
+                    </a>
+                  </div>
+                  <div class='blog-articles__item-body'>
+                    <p class='blog-articles__item-body--inner'>
+                      「存在感のないチーム」を目指す。ユーザー様の大切な資産の収支管理を担うチームのマネージャーとしての挑戦
+                    </p>
+                  </div>
+                  <ul class='blog-articles__meta'>
+                    <li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/wealthpark-realestate-technologies/'>WealthPark RealEstate Technologies</a>
+                  </li>
+                  </ul>
+                </li>
+                
+                <li class='blog-articles__item'>
+                  <a class='blog-articles__item-thumb' href='https://wealth-park.com/ja/park/person_sota-yamaji/'>
+                    <img loading='lazy' src='https://wealth-park.com/wp-content/uploads/2019/10/yamaji_001.png' />
+                  </a>
+                  <div class='blog-articles__item-header'>
+                    <a class='blog-articles__item-category' href='https://wealth-park.com/ja/park_category/person/'>
+                      Person
+                    </a>
+                  </div>
+                  <div class='blog-articles__item-body'>
+                    <p class='blog-articles__item-body--inner'>
+                      大企業から旅人、そしてスタートアップの事業開発担当に。人生100年時代を見据えた30代の新しいキャリアの作り方
+                    </p>
+                  </div>
+                  <ul class='blog-articles__meta'>
+                    <li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/corporate/'>Corporate</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/corporate-planning/'>経営企画</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/business-development/'>事業開発</a>
+                  </li>
+                  </ul>
+                </li>
+                
+                <li class='blog-articles__item'>
+                  <a class='blog-articles__item-thumb' href='https://wealth-park.com/ja/park/person_shoumei-yamamoto/'>
+                    <img loading='lazy' src='https://wealth-park.com/wp-content/uploads/2019/09/shoumei_001.png' />
+                  </a>
+                  <div class='blog-articles__item-header'>
+                    <a class='blog-articles__item-category' href='https://wealth-park.com/ja/park_category/person/'>
+                      Person
+                    </a>
+                  </div>
+                  <div class='blog-articles__item-body'>
+                    <p class='blog-articles__item-body--inner'>
+                      バイリンガルエンジニアが魅力に思う、WealthParkの多様性
+                    </p>
+                  </div>
+                  <ul class='blog-articles__meta'>
+                    <li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/engineering/'>Engineering</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/wealthpark-alternative-investments/'>WealthPark Alternative Investments</a>
+                  </li><li class='blog-articles__meta-item'>
+                    <a class='blog-articles__meta-link' href='https://wealth-park.com/ja/park_tag/mobile-engineer/'>モバイルエンジニア</a>
+                  </li>
+                  </ul>
+                </li>
+                </ul>      </section>
+		</main><!-- #main -->
+	</div><!-- #primary -->
+  </div>
+	<footer>
+    <div class="container main-footer">
+  <div class="main-footer__contents">
+  <ul class="main-footer__contents--list">
+    <li>
+      <a href="https://wealth-park.com/corporate/careers/">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/banner_careers.jpg" alt="採用情報" />
+      </a>
+    </li>
+    <li>
+      <a href="https://wealth-park.com/park">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/banner_footer_park.png" alt="Park" />
+      </a>
+    </li>
+    <li>
+      <a href="https://wealth-park.com/business/download/wpl-wp002-ja/">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/wpl/GRPS_002_500x200.jpg" alt="WealthPark Global Residential PropTech Study 2022 Vol.2(日本語版)" />
+      </a>
+    </li>
+    <!-- <li>
+      <a href="https://wealth-park.com/business/">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/banner_wpb.jpg" alt="オーナーアプリではじめよう、あたらしい不動産管理 WealthPark Business" />
+      </a>
+    </li> -->
+    <li>
+      <a href="https://wealthpark-lab.com/" target="_blank" rel="noopener noreferrer"><img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/banner_wp-lab_001.jpg" alt="WealthPark研究所" /></a>
+    </li>
+  </ul>
+</div>  <div class="main-footer__inner">
+    <div class="main-footer__logo">
+      <a href="https://wealth-park.com/ja/"><img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/footer_logo_wp.svg" alt="WealthPark" /></a>
+    </div>
+    <div class="main-footer__navigation">
+      <div class="main-footer__navigation-list">
+        <p class="main-footer__navigation-title">サービス</p>
+        <ul>
+          <li><a href="https://wealth-park.com/ja/business/">不動産管理会社向けサービス</a></li>
+          <li><a href="https://owner-app.wealth-park.com" target="_blank" rel="noopener noreferrer">不動産オーナー向けサービス <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/external_link.svg" alt="Open in a new tab" /></a></li>
+          <li><a href="https://wealthpark-ret.com/" target="https://wealthpark-ret.com/">WealthPark RealEstate Technologies <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/external_link.svg" alt="Open in a new tab" /></a></li>
+          <li><a href="https://wealthpark-alt.com/" target="_blank" rel="noopener noreferrer">WealthPark Investment <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/external_link.svg" alt="Open in a new tab" /></a></li>
+          <li><a href="https://wealthpark-lab.com/" target="_blank" rel="noopener noreferrer">WealthPark研究所 </a> <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/external_link.svg" alt="Open in a new tab" /></li>
+          <li><a href="https://wealth-park.com/ja/wealthpark-blog">WealthPark Blog</a></li>
+          <li>
+            <a href="https://wealth-park.com/ja/park">
+              採用オウンドメディア「Park」            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="main-footer__navigation-list">
+        <p class="main-footer__navigation-title">製品</p>
+        <ul>
+          <li><a href="https://itunes.apple.com/jp/app/wealth-park-real-estate-investment/id1068127268" target="_blank" rel="noopener noreferrer">App Store <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/external_link.svg" alt="Open in a new tab" /></a></li>
+          <li><a href="https://play.google.com/store/apps/details?id=com.wealthpark.owner&amp;hl=ja" target="_blank" rel="noopener noreferrer">Google Play <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/external_link.svg" alt="Open in a new tab" /></a></li>
+          <li><a href="https://owner.wealth-park.com/" target="_blank" rel="noopener noreferrer">パソコン版WealthPark <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/external_link.svg" alt="Open in a new tab" /></a></li>
+        </ul>
+      </div>
+      <div class="main-footer__navigation-list">
+        <p class="main-footer__navigation-title">企業情報</p>
+        <ul>
+          <li>
+            <a href="https://wealth-park.com/ja/">
+            企業サイトTOP            </a>
+          </li>
+                      <li><a href="https://wealth-park.com/ja/corporate/company">会社概要</a></li>
+            <li><a href="https://wealth-park.com/ja/asset-management/company-profile/">WealthPark RealEstate Technologiesについて</a></li>
+                    <li><a href="https://wealth-park.com/ja/news">ニュース</a></li>
+          <li><a href="https://prtimes.jp/main/html/searchrlp/company_id/40576" target="_blank" rel="noopener noreferrer">プレスリリース <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/external_link.svg" alt="Open in a new tab" /></a></li>
+          <li><a href="https://wealth-park.com/ja/press-kit">プレスキット</a></li>
+          <li><a href="https://wealth-park.com/ja/tag/event-report/">イベント・セミナー</a></li>
+          <li><a href="https://wealth-park.com/ja/careers">採用</a></li>
+          <li><a href="https://wealth-park.com/ja/corporate/contact/">お問い合わせ</a></li>
+          <li><a href="https://wealth-park.com/ja/corporate/terms-of-use">利用規約</a></li>
+          <li><a href="https://wealth-park.com/ja/corporate/privacy-policy">プライバシーポリシー</a></li>
+          <li><a href="https://wealth-park.com/ja/corporate/external-transmission-of-user-information/">外部送信の利用者に関する情報の取扱い</a></li>
+          <li><a href="https://wealth-park.com/ja/security">情報セキュリティ</a></li>          
+        </ul>
+      </div>
+    </div>
+    <div class="main-footer__banner">
+              <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/logo_isms_2.png" alt="ISMS" />
+        <p>認証範囲: 本社</p>
+          </div>
+  </div>
+</div>
+    <div class="container sub-footer">
+  <div class="sub-footer__inner">
+    <div class="sub-footer__sns">
+      <ul class="sub-footer__sns--list">
+        <li>
+          <a href="https://www.facebook.com/WealthPark-Business-WealthPark%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A6%E3%82%A7%E3%83%AB%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2253775971335835/" target="_blank">
+            <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/ico_facebook.svg" alt="facebook" />
+          </a>
+        </li>
+        <li>
+          <a href="https://www.linkedin.com/company/wealthpark/" target="_blank">
+            <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/ico_in.svg" alt="in" />
+          </a>
+        </li>
+        <li>
+          <a href="https://www.youtube.com/channel/UCvTChmtXoEokx8vsWda8aNg" target="_blank">
+            <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/ico_youtube.svg" alt="youtube" />
+          </a>
+        </li>
+      </ul>
+    </div>
+    <div class="sub-footer__language">
+      <p class="language-icon"><i class="material-icons md-18">language</i>
+        <!-- 言語 -->
+      </p>
+      <form name="sort_form">
+        <select class="language-selector lang-dropdown" name="sort" onchange="dropsort()">
+          <option value="">Language</option>
+          <option value="/en/park/">English</option>
+          <option value="/ja/park/">日本語</option>
+          <option value="/sc/park/">简体中文</option>
+          <option value="/tc/park/">繁體中文</option>
+        </select>
+      </form>
+    </div>
+  </div>
+</div>
+
+	</footer>
+	<script type="text/javascript">
+	  function dropsort() {
+	      var browser = document.sort_form.sort.value;
+	      location.href = browser
+	  }
+	</script>
+	</body>
+	</html>

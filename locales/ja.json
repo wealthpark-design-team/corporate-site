@@ -1,0 +1,287 @@
+{
+  "nav": {
+    "news": "ニュース",
+    "newsLink": "ニュース",
+    "productUpdates": "プロダクト新機能・改善",
+    "pressRelease": "プレスリリース",
+    "services": "サービス",
+    "businessService": "不動産管理会社向けサービス",
+    "businessServiceSub": "WealthParkビジネス",
+    "ownerService": "不動産オーナー向けサービス",
+    "ownerServiceSub": "WealthParkオーナーアプリ",
+    "overseasService": "海外不動産投資家向けサービス",
+    "overseasServiceSub": "WealthPark RealEstate Technologies",
+    "crowdfundingService": "不動産関連のクラウドファンディングサービス",
+    "crowdfundingServiceSub": "WealthPark Investment",
+    "company": "会社概要",
+    "careers": "採用",
+    "careersMid": "中途採用",
+    "careersMedia": "採用オウンドメディア「Park」",
+    "articles": "記事",
+    "ownedMedia": "オウンドメディア",
+    "blog": "WealthParkブログ",
+    "lab": "WealthPark研究所",
+    "parkMedia": "採用オウンドメディア「Park」",
+    "featured": "特集",
+    "events": "イベント・セミナー",
+    "keypersons": "Key Person's Voice | 不動産管理会社のトップ対談",
+    "interviews": "社員インタビュー",
+    "forPropertyManagers": "不動産管理会社の方",
+    "pcVersion": "パソコン版WealthPark"
+  },
+  "hero": {
+    "title1": "すべての人へ",
+    "title2": "オルタナティブ資産への",
+    "title3": "投資機会を。",
+    "description1": "不動産、アート、ワイン、未上場株式、インフラ。",
+    "description2": "WealthParkはグローバルなプラットフォームをつくることで、一部の限られた人にしかアクセスできなかった「オルタナティブ資産への投資」を開放します。テクノロジーを使って、すべての人が平等にオルタナティブ資産への投資機会を得られる社会を目指します。",
+    "cta": "WealthParkについて"
+  },
+  "banners": {
+    "proptech": "不動産テック",
+    "fintech": "フィンテック",
+    "company": "カンパニー",
+    "business": {
+      "title": "ビジネス事業",
+      "description": "不動産管理会社向けサービス"
+    },
+    "assetManagement": {
+      "title": "アセットマネジメント事業",
+      "description": "不動産資産管理サービス"
+    },
+    "investment": {
+      "title": "Investment事業",
+      "description": "クラウドファンディングサービス"
+    },
+    "careers": {
+      "title": "採用情報",
+      "description": "WealthParkで働く"
+    },
+    "lab": {
+      "title": "WealthPark研究所",
+      "description": "不動産テックの研究・情報発信"
+    }
+  },
+  "news": {
+    "title": "ニュース",
+    "readMore": "続きを読む",
+    "allArticles": "すべての記事 →"
+  },
+  "blog": {
+    "title": "WealthParkブログ",
+    "readMore": "続きを読む",
+    "allArticles": "すべての記事 →"
+  },
+  "company": {
+    "title": "会社概要",
+    "vision": {
+      "heading": "Vision",
+      "title": "Be Alternative",
+      "subtitle": "ー 選択の自由が当たり前の世界を創る ー"
+    },
+    "mission": {
+      "heading": "Mission",
+      "title": "オルタナティブ資産への投資機会を\nすべての人へ届ける",
+      "description": "オルタナティブ資産とは、上場株式や債券といった伝統的資産と呼ばれるもの以外の新しい投資対象や投資手法のことをいいます。具体的には不動産、アート、ウイスキーやワイン、未上場株式などの事を指します。\nこういったオルタナティブ資産は、伝統的資産と比較して共通のデータ基盤がなかったり、物理的な期中管理が求められるため、アナログな要素が多く一部の限られた人にしかアクセスができないという古くからの市場課題があります。\nWealthParkは、テクノロジーを通じてオルタナティブ資産のプラットフォームをつくることで、すべての人が平等に投資機会をもてる社会を実現し、オルタナティブ投資の民主化にチャレンジします。"
+    },
+    "profile": {
+      "heading": "Company Profile",
+      "companyName": "会社名",
+      "companyNameValue": "WealthPark株式会社",
+      "capital": "資本金",
+      "capitalValue": "100,000,000円（2024年12月31日時点）",
+      "representative": "代表",
+      "representativeValue": "代表取締役社長　川田 隆太",
+      "employees": "従業員数",
+      "employeesValue": "150名(2025年09月30日時点 グループ会社含む)",
+      "headquarters": "本社所在地",
+      "headquartersValue": "〒150-0011 東京都渋谷区東3丁目14－15 MOビル2階",
+      "mapLink": "地図で見る",
+      "branches": "営業所",
+      "branchesValue": "東北営業所 / 関西営業所 / 九州営業所",
+      "offices": "支社",
+      "officesValue": "香港 / ニューヨーク / 台北",
+      "groupCompanies": "グループ会社"
+    },
+    "team": {
+      "heading": "Team"
+    },
+    "partners": {
+      "heading": "パートナー",
+      "note": "※五十音順"
+    },
+    "media": {
+      "heading": "掲載メディア",
+      "note": "※五十音順"
+    }
+  },
+  "careers": {
+    "title": "採用情報",
+    "hero": {
+      "title": "Careers"
+    },
+    "intro": {
+      "title": "今よりもっと選択の自由がある人生を。",
+      "description": "長い人生において「投資」を正しく扱えるか否かは、人生の豊かさや幸せ大きな影響を与えます。\n\nWealthParkは、すべての人に「投資」の機会と可能性を届けることを通じて、より良い世界を創りたいという想いで、展開する事業に挑戦しています。様々な挑戦と成長を続け、着実に前に進んでいますが、まだまだ道半ばです。\n\n「選択の自由が当たり前の世界を創る」、壮大なビジョンに一緒に挑戦することで、あなたの人生の可能性と選択肢も豊かにしませんか。"
+    },
+    "aboutSection": {
+      "title": "WealthParkについて"
+    },
+    "positions": {
+      "title": "募集職種",
+      "byBusiness": "事業別",
+      "byRole": "職種別",
+      "business": {
+        "title": "ビジネス",
+        "consultant": "コンサルタント",
+        "businessDevelopment": "事業開発",
+        "openPosition": "オープンポジション",
+        "realEstateSpecialist": "不動産専門職"
+      },
+      "engineering": {
+        "title": "エンジニア",
+        "productManager": "プロダクトマネージャー"
+      },
+      "dxConsulting": {
+        "title": "不動産会社向けDX事業",
+        "image": "https://wealth-park.com/wp-content/themes/wp-next-landing-page/corporate/img/careers/thumb_saas-min.jpg"
+      },
+      "fintech": {
+        "title": "フィンテック事業",
+        "image": "https://wealth-park.com/wp-content/themes/wp-next-landing-page/corporate/img/careers/thumb_fintech-min.jpg"
+      },
+      "assetManagement": {
+        "title": "海外投資家向けアセットマネジメント事業",
+        "image": "https://wealth-park.com/wp-content/themes/wp-next-landing-page/corporate/img/careers/thumb_ret.jpg"
+      }
+    },
+    "interviews": {
+      "title": "社員インタビュー",
+      "viewAll": "すべてのインタビュー"
+    },
+    "ceoMessage": {
+      "title": "Founder & CEOからのメッセージ",
+      "subtitle": "WealthPark CEO Message",
+      "description": "CEO／ファウンダーである川田 隆太から、WealthParkへの参画をご検討されている皆様へのメッセージです。"
+    },
+    "vision": {
+      "title": "Vision",
+      "heading": "\"Be Alternative\"",
+      "subtitle": "選択の自由が当たり前の世界を創る",
+      "description": "WealthParkは「オルタナティブ資産への投資機会をすべての人へ届ける」というミッションのもとに、オルタナティブ資産のプラットフォームをつくっています。テクノロジーを通じて、すべての人が平等に投資機会をもてる社会を実現し、オルタナティブ投資の民主化にチャレンジします。"
+    },
+    "mission": {
+      "title": "Mission",
+      "heading": "オルタナティブ資産への投資機会をすべての人へ届ける",
+      "description": "オルタナティブ資産とは、上場株式や債券といった伝統的資産と呼ばれるもの以外の新しい投資対象や投資手法のことをいいます。具体的には不動産、アート、ウイスキーやワイン、未上場株式などの事を指します。\nこういったオルタナティブ資産は、伝統的資産と比較して共通のデータ基盤がなかったり、物理的な期中管理が求められるため、アナログな要素が多く一部の限られた人にしかアクセスができないという古くからの市場課題があります。\nWealthParkは、テクノロジーを通じてオルタナティブ資産のプラットフォームをつくることで、すべての人が平等に投資機会をもてる社会を実現し、オルタナティブ投資の民主化にチャレンジします。"
+    },
+    "behaviorIdentity": {
+      "title": "Behavior Identity",
+      "customerCentric": {
+        "title": "CUSTOMER CENTRIC",
+        "description": "We act and think based on our customers' expectation and needs.\nOur business dedicates to providing and adding values for our customers.",
+        "link": "Learn More"
+      },
+      "goBeyond": {
+        "title": "GO BEYOND",
+        "description": "We go beyond our roles and positions to take actions that we know will help the business as a whole.\nWe are always proactively interacting and helping each other.",
+        "link": "Learn More"
+      },
+      "appreciationRespect": {
+        "title": "APPRECIATION AND RESPECT",
+        "description": "We respect diversity and communicate appreciation to the team, and show it with words and acting.",
+        "link": "Learn More"
+      },
+      "commitResults": {
+        "title": "COMMIT TO RESULTS",
+        "description": "When we commit to something, we will go the distance.\nNo matter what the difficulty is we think about why we can do it, not why we cannot, and stick to delivering the results.",
+        "link": "Learn More"
+      },
+      "doRightThing": {
+        "title": "DO THE RIGHT THING",
+        "description": "We always act with integrity and honesty to the society.\nWe take pride in doing the right things.",
+        "link": "Learn More"
+      }
+    }
+  },
+  "business": {
+    "hero": {
+      "title": "オーナーアプリではじめよう、あたらしい不動産管理",
+      "subtitle1": "スマホでペーパーレスな収支報告",
+      "subtitle2": "チャットでコミュニケーションを見える化",
+      "subtitle3": "入居条件や修繕費見積の承諾をワンクリックで",
+      "annotation": "※1 日本マーケティングリサーチ機構調べ(2021年6月調査)",
+      "cta1": "WealthParkビジネスサービス資料",
+      "cta2": "無料ダウンロード",
+      "phone": "03-6694-2621"
+    },
+    "testimonials": {
+      "managementTitle": "不動産管理会社さまの声",
+      "quote1": "「いつでもどこでも情報が見られる環境」をオーナーさまに提供したい",
+      "ref1": "三井不動産レジデンシャルリース株式会社経営企画部 イノベーション推進課 佐藤 秀洋様",
+      "quote2": "今まで知らなかった、オーナーさまの「顔」が見えてきました",
+      "ref2": "株式会社 コスギ不動産 賃貸管理本部 ＰＭ事業課 課長 友野直寛様",
+      "quote3": "送金明細7割電子化を実現！圧倒的に業務が合理的に",
+      "ref3": "株式会社トラスト 賃貸管理部 副主任 小川洋平様、二瓶優子様",
+      "quote4": "これはもう、全オーナー様に導入すべきだと、売買担当者はこぞって言っています",
+      "ref4": "三菱地所ハウスネット株式会社 企画部長 篠原靖直様",
+      "ownerTitle": "オーナーさまの声",
+      "ownerQuote1": "わざわざ紙を取りに行かなくても、その場で収支情報を見せられるのが良い",
+      "ownerQuote2": "チャットなら、思いついた瞬間にメッセージを送れる",
+      "ownerQuote3": "スマホアプリ自体が初めてだったけど、便利に使わせて頂きました",
+      "ownerQuote4": "管理会社の誰に訊けば良いか分からないとき、このアプリがあればすぐに分かる"
+    },
+    "caseStudies": {
+      "title": "導入事例",
+      "viewAll": "導入事例一覧を見る"
+    },
+    "about": {
+      "title": "WealthParkビジネスで実現する、不動産管理のDX",
+      "description": "WealthParkビジネスは、不動産オーナー様と管理会社をアプリでつなぐ業務支援システムです。不動産管理会社にはクラウド型システムを、オーナー様にはオーナーアプリ(スマホ用アプリやWEBサイト)を提供することで、収支報告や売買提案などのやり取りが簡単かつスピーディになります。",
+      "videoCaption": "2分でわかる、WealthParkビジネス(動画)"
+    },
+    "points": {
+      "point1Title": "アナログ業務を削減。業務効率化とコスト削減へ",
+      "point1Description": "アプリやWebによる収支報告で、印刷・封入・郵送が不要に。オーナーへの報告／承諾がすべてシステムで行えるので、効率化／見える化が実現し、管理業務の生産性が飛躍的に向上します。",
+      "point2Title": "オーナー満足度が向上。管理戸数拡大へ",
+      "point2Description": "オーナー様はいつでもどこからでも資産情報を確認可能、確定申告等に利用できるデータも簡単にダウンロード出来ます。また、管理会社からの確認事項をワンクリックで承諾可能に。オーナー様の利便性向上／満足度アップにより、更なる管理獲得や管理離れ防止に繋がります。",
+      "point3Title": "スマホを活用した、オーナー様への新たな提案機会を",
+      "point3Description": "オーナーアプリがオーナー様との接点となり、セミナーのご案内やオススメ物件の紹介、附帯商品の提案が簡単に出来るようになります。さらに、蓄積されたデータは、事業戦略や販売戦略にも活かせる貴重な資産となるでしょう。"
+    },
+    "features": {
+      "title": "機能一覧",
+      "cashflow": {
+        "title": "収支明細・報告書の電子化",
+        "description": "シンプルで見やすい収支報告書をアプリやWebで共有"
+      },
+      "chat": {
+        "title": "チャットコミュニケーション",
+        "description": "チャットを使って社内での情報共有がよりスムーズに"
+      },
+      "workflow": {
+        "title": "アクティビティ機能",
+        "description": "オーナー様への報告・承諾をシンプルかつ確実に"
+      },
+      "storage": {
+        "title": "オーナーアプリでの情報共有",
+        "description": "物件・テナント情報やローン情報も、オーナー様にアプリで共有"
+      },
+      "language": {
+        "title": "多言語対応",
+        "description": "多言語機能を活用して、海外物件や海外 オーナーにも対応可能"
+      },
+      "security": {
+        "title": "情報セキュリティ対策",
+        "description": "情報資産の機密性、完全性、可用性に係る取り組み"
+      },
+      "pocket": {
+        "title": "不動産管理会社様向けモバイルアプリ",
+        "description": "不動産管理会社向けのアプリ「WPBポケット」について"
+      },
+      "viewDetail": "詳しく見る >"
+    },
+    "productNews": {
+      "title": "プロダクト改善・新機能"
+    }
+  }
+}

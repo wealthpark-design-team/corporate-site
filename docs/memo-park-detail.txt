@@ -1,0 +1,686 @@
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KH2RPBR');</script>
+<!-- End Google Tag Manager --><meta charset="UTF-8">
+<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' name='viewport' />
+<meta name="apple-itunes-app" content="app-id=1068127268">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="alternate" hreflang="ja" href="http://wealth-park.com/ja" />
+<link rel="alternate" hreflang="en" href="http://wealth-park.com/en" />
+<link rel="alternate" hreflang="zh" href="http://wealth-park.com/sc" />
+<link rel="alternate" hreflang="zh-CN" href="http://wealth-park.com/sc" />
+<link rel="alternate" hreflang="zh-HK" href="http://wealth-park.com/tc" />
+<link rel="alternate" hreflang="zh-TW" href="http://wealth-park.com/tc" />
+<link rel="manifest" href="https://wealth-park.com/wp-content/themes/wp-next-landing-page/manifest.json?20251101-1453">
+<link rel="stylesheet" href="https://wealth-park.com/wp-content/themes/wp-next-landing-page/css/slick.css?20251101-1453" media="screen" />
+<link rel="stylesheet" href="https://wealth-park.com/wp-content/themes/wp-next-landing-page/css/slick-theme.css?20251101-1453" media="screen" />
+<link rel="stylesheet" href="https://wealth-park.com/wp-content/themes/wp-next-landing-page/css/common.css?20251101-1453">
+<link rel="stylesheet" href="https://wealth-park.com/wp-content/themes/wp-next-landing-page/css/megamenu.css?20251101-1453">
+<link rel="stylesheet" href="https://use.typekit.net/kbe8wyi.css?ver=1.0.1">
+<script src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/js/jquery-3.3.1.min.js?20251101-1453"></script>
+<script src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/js/slick.min.js?20251101-1453"></script>
+<script src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/js/rellax.min.js?20251101-1453"></script>
+<script src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/js/megamenu.js?20251101-1453"></script>
+<script src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/js/validation.js?20251101-1453"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/iScroll/5.2.0/iscroll.min.js?20251101-1453"></script>
+<link rel="stylesheet" href="https://wealth-park.com/wp-content/themes/wp-next-landing-page/corporate/css/style.css?20251101-1453">
+<link rel="stylesheet" href="https://wealth-park.com/wp-content/themes/wp-next-landing-page/style.css?20251101-1453">
+<link rel="apple-touch-icon" sizes="180x180" href="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/icon.png">
+<link rel="apple-touch-icon-precomposed" href="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/icon.png">
+<link rel="shortcut icon" href="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/icon.png">
+<link rel="icon" sizes="192x192" href="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/icon.png">
+<meta property="og:image" content="https://wealth-park.com/wp-content/uploads/2025/05/hhp_kv.jpg" />
+<meta property="og:title" content="阪急阪神不動産 隅田様・河目様に聞く、<br>DXビジョンの実現に向けたロードマップ作成とビジネスアーキテクチャ整理の重要性" />
+<!--[if lt IE 9]>
+<script src="/js/html5shiv.js"></script>
+<script src="/js/respond.js"></script>
+<![endif]-->
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v26.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>阪急阪神不動産 隅田様・河目様に聞く、DXビジョンの実現に向けたロードマップ作成とビジネスアーキテクチャ整理の重要性 - WealthPark</title>
+	<!-- 管理者の方へ: ページにメタディスクリプションがないため、表示されません。ページ固有に記入するか、[Yoast SEO - 設定] メニューに移動してテンプレートを設定します。 -->
+	<link rel="canonical" href="https://wealth-park.com/en/park/hhp/" />
+	<meta property="og:locale" content="ja_JP" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="阪急阪神不動産 隅田様・河目様に聞く、DXビジョンの実現に向けたロードマップ作成とビジネスアーキテクチャ整理の重要性 - WealthPark" />
+	<meta property="og:description" content="WealthParkでは「世の中の不動産体験をアップデート」するために不動産業界のDXを推進。業務支援SaaSの提供をはじめソフトウェアだけで解決に至らない本質的な課題解決や新規事業開発を担うDXコンサルティングサービスを提供しています。 今回は、DXコンサルティングサービスをご利用いただいている阪急阪神不動産の隅田様・河目様に、同社が掲げるDXビジョンとそ..." />
+	<meta property="og:url" content="https://wealth-park.com/en/park/hhp/" />
+	<meta property="og:site_name" content="WealthPark" />
+	<meta property="og:image" content="https://wealth-park.com/wp-content/uploads/2025/05/hhp_kv.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="675" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://wealth-park.com/en/park/hhp/","url":"https://wealth-park.com/en/park/hhp/","name":"阪急阪神不動産 隅田様・河目様に聞く、 DXビジョンの実現に向けたロードマップ作成とビジネスアーキテクチャ整理の重要性 - WealthPark","isPartOf":{"@id":"https://wealth-park.com/ja/#website"},"primaryImageOfPage":{"@id":"https://wealth-park.com/en/park/hhp/#primaryimage"},"image":{"@id":"https://wealth-park.com/en/park/hhp/#primaryimage"},"thumbnailUrl":"https://wealth-park.com/wp-content/uploads/2025/05/hhp_kv.jpg","datePublished":"2025-05-22T02:00:39+00:00","breadcrumb":{"@id":"https://wealth-park.com/en/park/hhp/#breadcrumb"},"inLanguage":"ja","potentialAction":[{"@type":"ReadAction","target":["https://wealth-park.com/en/park/hhp/"]}]},{"@type":"ImageObject","inLanguage":"ja","@id":"https://wealth-park.com/en/park/hhp/#primaryimage","url":"https://wealth-park.com/wp-content/uploads/2025/05/hhp_kv.jpg","contentUrl":"https://wealth-park.com/wp-content/uploads/2025/05/hhp_kv.jpg","width":1200,"height":675},{"@type":"BreadcrumbList","@id":"https://wealth-park.com/en/park/hhp/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://wealth-park.com/ja/"},{"@type":"ListItem","position":2,"name":"Park","item":"https://wealth-park.com/ja/park/"},{"@type":"ListItem","position":3,"name":"阪急阪神不動産 隅田様・河目様に聞く、DXビジョンの実現に向けたロードマップ作成とビジネスアーキテクチャ整理の重要性"}]},{"@type":"WebSite","@id":"https://wealth-park.com/ja/#website","url":"https://wealth-park.com/ja/","name":"WealthPark","description":"収益不動産の管理をアプリでもっと簡単に","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://wealth-park.com/ja/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"ja"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//static.addtoany.com' />
+<link rel="alternate" type="application/rss+xml" title="WealthPark &raquo; フィード" href="https://wealth-park.com/ja/feed/" />
+<link rel="alternate" type="application/rss+xml" title="WealthPark &raquo; コメントフィード" href="https://wealth-park.com/ja/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/wealth-park.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=2a1d487d827c979f0982bc16f97fb961"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://wealth-park.com/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://wealth-park.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='toc-screen-css' href='https://wealth-park.com/wp-content/plugins/table-of-contents-plus/screen.min.css?ver=2411.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wordfenceAJAXcss-css' href='https://wealth-park.com/wp-content/plugins/wordfence/css/wordfenceBox.1756145765.css?ver=8.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-next-landing-page-style-css' href='https://wealth-park.com/wp-content/themes/wp-next-landing-page/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='addtoany-css' href='https://wealth-park.com/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.16' type='text/css' media='all' />
+<style id='addtoany-inline-css' type='text/css'>
+.a2a_kit a {
+	background-image: none;
+}
+
+.addtoany_list a:first-child {
+	padding-left: 0px;
+}
+</style>
+<script type="text/javascript" id="addtoany-core-js-before">
+/* <![CDATA[ */
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_localize = {
+	Share: "共有",
+	Save: "ブックマーク",
+	Subscribe: "購読",
+	Email: "メール",
+	Bookmark: "ブックマーク",
+	ShowAll: "すべて表示する",
+	ShowLess: "小さく表示する",
+	FindServices: "サービスを探す",
+	FindAnyServiceToAddTo: "追加するサービスを今すぐ探す",
+	PoweredBy: "Powered by",
+	ShareViaEmail: "メールでシェアする",
+	SubscribeViaEmail: "メールで購読する",
+	BookmarkInYourBrowser: "ブラウザにブックマーク",
+	BookmarkInstructions: "このページをブックマークするには、 Ctrl+D または \u2318+D を押下。",
+	AddToYourFavorites: "お気に入りに追加",
+	SendFromWebOrProgram: "任意のメールアドレスまたはメールプログラムから送信",
+	EmailProgram: "メールプログラム",
+	More: "詳細&#8230;",
+	ThanksForSharing: "共有ありがとうございます !",
+	ThanksForFollowing: "フォローありがとうございます !"
+};
+/* ]]> */
+</script>
+<script type="text/javascript" defer src="https://static.addtoany.com/menu/page.js" id="addtoany-core-js"></script>
+<script type="text/javascript" src="https://wealth-park.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://wealth-park.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" defer src="https://wealth-park.com/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1" id="addtoany-jquery-js"></script>
+<script type="text/javascript" id="wfi18njs-js-extra">
+/* <![CDATA[ */
+var WordfenceI18nStrings = {"${totalIPs} addresses in this network":"\u3053\u306e\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u306e\u30a2\u30c9\u30ec\u30b9${totalIPs}\u500b","%s in POST body: %s":"POST \u30dc\u30c7\u30a3\u306b %s \u304c\u3042\u308b: %s","%s in cookie: %s":"Cookie \u306e %s: %s","%s in file: %s":"\u30d5\u30a1\u30a4\u30eb\u5185\u306b %s \u304c\u3042\u308b: %s","%s in query string: %s":"\u30af\u30a8\u30ea\u6587\u5b57\u5217\u5185\u306b %s \u304c\u3042\u308b: %s","%s is not valid hostname":"%s \u306f\u6709\u52b9\u306a\u30db\u30b9\u30c8\u540d\u3067\u306f\u3042\u308a\u307e\u305b\u3093",".htaccess Updated":".htaccess \u3092\u66f4\u65b0\u3057\u307e\u3057\u305f",".htaccess change":".htaccess \u306e\u5909\u66f4","404 Not Found":"404: \u898b\u3064\u304b\u308a\u307e\u305b\u3093\u3067\u3057\u305f","Activity Log Sent":"\u30a2\u30af\u30c6\u30a3\u30d3\u30c6\u30a3\u30ed\u30b0\u3092\u9001\u4fe1\u6e08\u307f","Add action to allowlist":"\u30a2\u30af\u30b7\u30e7\u30f3\u3092\u8a31\u53ef\u30ea\u30b9\u30c8\u306b\u8ffd\u52a0","Add code to .htaccess":".htaccess \u306b\u30b3\u30fc\u30c9\u3092\u8ffd\u52a0","All Hits":"\u3059\u3079\u3066\u306e\u30d2\u30c3\u30c8","All capabilties of admin user %s were successfully revoked.":"\u7ba1\u7406\u8005\u30e6\u30fc\u30b6%s\u306e\u3059\u3079\u3066\u306e\u6a29\u9650\u306e\u524a\u9664\u306b\u6210\u529f\u3057\u307e\u3057\u305f\u3002","An error occurred":"\u30a8\u30e9\u30fc\u304c\u767a\u751f\u3057\u307e\u3057\u305f","An error occurred when adding the request to the allowlist.":"\u30ea\u30af\u30a8\u30b9\u30c8\u3092\u8a31\u53ef\u30ea\u30b9\u30c8\u306b\u8ffd\u52a0\u3059\u308b\u969b\u306b\u30a8\u30e9\u30fc\u304c\u767a\u751f\u3057\u307e\u3057\u305f\u3002","Are you sure you want to allowlist this action?":"\u672c\u5f53\u306b\u3053\u306e\u30a2\u30af\u30b7\u30e7\u30f3\u3092\u8a31\u53ef\u3057\u3066\u3044\u3044\u306e\u3067\u3057\u3087\u3046\u304b ?","Authentication Code":"\u8a8d\u8a3c\u30b3\u30fc\u30c9","Background Request Blocked":"\u30d0\u30c3\u30af\u30b0\u30e9\u30a6\u30f3\u30c9\u30ea\u30af\u30a8\u30b9\u30c8\u304c\u30d6\u30ed\u30c3\u30af\u3055\u308c\u307e\u3057\u305f","Block This Network":"\u3053\u306e\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u3092\u30d6\u30ed\u30c3\u30af","Blocked":"\u30d6\u30ed\u30c3\u30af\u6e08\u307f","Blocked By Firewall":"\u30d5\u30a1\u30a4\u30a2\u30a6\u30a9\u30fc\u30eb\u3067\u30d6\u30ed\u30c3\u30af","Blocked WAF":"WAF \u306b\u3088\u308a\u30d6\u30ed\u30c3\u30af","Blocked by Wordfence":"Wordfence \u306b\u3088\u308a\u30d6\u30ed\u30c3\u30af\u3055\u308c\u307e\u3057\u305f","Blocked by Wordfence plugin settings":"Wordfence \u30d7\u30e9\u30b0\u30a4\u30f3\u8a2d\u5b9a\u3067\u30d6\u30ed\u30c3\u30af","Blocked by the Wordfence Application Firewall and plugin settings":"Wordfence \u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u30d5\u30a1\u30a4\u30a2\u30a6\u30a9\u30fc\u30eb\u3068\u30d7\u30e9\u30b0\u30a4\u30f3\u306e\u8a2d\u5b9a\u3067\u30d6\u30ed\u30c3\u30af","Blocked by the Wordfence Security Network":"Wordfence Security \u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u3067\u30d6\u30ed\u30c3\u30af","Blocked by the Wordfence Web Application Firewall":"Wordfence Web \u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u30d5\u30a1\u30a4\u30a2\u30a6\u30a9\u30fc\u30eb\u3067\u30d6\u30ed\u30c3\u30af","Bot":"Bot","Cancel Changes":"\u5909\u66f4\u3092\u53d6\u308a\u6d88\u3059","Cellphone Sign-In Recovery Codes":"\u643a\u5e2f\u96fb\u8a71\u306e\u30b5\u30a4\u30f3\u30a4\u30f3\u56de\u5fa9\u30b3\u30fc\u30c9","Cellphone Sign-in activated for user.":"\u30e6\u30fc\u30b6\u30fc\u306b\u5bfe\u3057\u3066\u643a\u5e2f\u96fb\u8a71\u306e\u30b5\u30a4\u30f3\u30a4\u30f3\u304c\u6709\u52b9\u5316\u3055\u308c\u307e\u3057\u305f\u3002","Click here to download a backup copy of this file now":"\u3053\u306e\u30d5\u30a1\u30a4\u30eb\u306e\u30d0\u30c3\u30af\u30a2\u30c3\u30d7\u30b3\u30d4\u30fc\u3092\u4eca\u3059\u3050\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u3059\u308b\u306b\u306f\u3001\u3053\u3053\u3092\u30af\u30ea\u30c3\u30af\u3057\u3066\u304f\u3060\u3055\u3044\u3002","Click here to download a backup copy of your .htaccess file now":"\u3053\u3053\u3092\u30af\u30ea\u30c3\u30af\u3057\u3066\u3001\u4eca\u3059\u3050 .htaccess \u30d5\u30a1\u30a4\u30eb\u306e\u30d0\u30c3\u30af\u30a2\u30c3\u30d7\u30b3\u30d4\u30fc\u3092\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u3057\u3066\u304f\u3060\u3055\u3044\u3002","Click to fix .htaccess":"\u30af\u30ea\u30c3\u30af\u3057\u3066 .htaccess \u3092\u4fee\u6b63\u3059\u308b","Close":"\u9589\u3058\u308b","Crawlers":"\u30af\u30ed\u30fc\u30e9\u30fc","Diagnostic report has been sent successfully.":"\u8a3a\u65ad\u30ec\u30dd\u30fc\u30c8\u306e\u9001\u4fe1\u306b\u6210\u529f\u3057\u307e\u3057\u305f\u3002","Directory Listing Disabled":"\u30c7\u30a3\u30ec\u30af\u30c8\u30ea\u30ea\u30b9\u30c8\u304c\u7121\u52b9 ","Directory listing has been disabled on your server.":"\u30b5\u30fc\u30d0\u30fc\u3067\u30c7\u30a3\u30ec\u30af\u30c8\u30ea\u4e00\u89a7\u304c\u7121\u52b9\u306b\u306a\u3063\u3066\u3044\u307e\u3057\u305f\u3002","Disabled":"\u7121\u52b9","Dismiss":"\u975e\u8868\u793a","Don't ask again":"\u4eca\u5f8c\u5c0b\u306d\u306a\u3044","Download":"\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9","Download Backup File":"\u30d0\u30c3\u30af\u30a2\u30c3\u30d7\u30d5\u30a1\u30a4\u30eb\u3092\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u3059\u308b","Each line of 16 letters and numbers is a single recovery code, with optional spaces for readability. When typing your password, enter \"wf\" followed by the entire code like \"mypassword wf1234 5678 90AB CDEF\". If your site shows a separate prompt for entering a code after entering only your username and password, enter only the code like \"1234 5678 90AB CDEF\". Your recovery codes are:":"16\u6587\u5b57\u3068\u6570\u5b57\u306e\u5404\u884c\u306f\u5358\u4e00\u306e\u56de\u5fa9\u30b3\u30fc\u30c9\u3067\u3042\u308a\u3001\u8aad\u307f\u3084\u3059\u304f\u3059\u308b\u305f\u3081\u306b\u30aa\u30d7\u30b7\u30e7\u30f3\u306e\u30b9\u30da\u30fc\u30b9\u304c\u3042\u308a\u307e\u3059\u3002 \u30d1\u30b9\u30ef\u30fc\u30c9\u3092\u5165\u529b\u3059\u308b\u3068\u304d\u306f\u3001\u300cwf\u300d\u306b\u7d9a\u3051\u3066\u300cmypassword wf1234 567890ABCDEF\u300d\u306e\u3088\u3046\u306a\u30b3\u30fc\u30c9\u5168\u4f53\u3092\u5165\u529b\u3057\u307e\u3059\u3002 \u30e6\u30fc\u30b6\u30fc\u540d\u3068\u30d1\u30b9\u30ef\u30fc\u30c9\u306e\u307f\u3092\u5165\u529b\u3057\u305f\u5f8c\u306b\u30b3\u30fc\u30c9\u3092\u5165\u529b\u3059\u308b\u305f\u3081\u306e\u5225\u306e\u30d7\u30ed\u30f3\u30d7\u30c8\u304c\u30b5\u30a4\u30c8\u306b\u8868\u793a\u3055\u308c\u308b\u5834\u5408\u306f\u3001\u300c1234 567890ABCDEF\u300d\u306e\u3088\u3046\u306a\u30b3\u30fc\u30c9\u306e\u307f\u3092\u5165\u529b\u3057\u3066\u304f\u3060\u3055\u3044\u3002 \u30ea\u30ab\u30d0\u30ea\u30b3\u30fc\u30c9\u306f\u6b21\u306e\u3068\u304a\u308a\u3067\u3059. ","Email Diagnostic Report":"\u30e1\u30fc\u30eb\u8a3a\u65ad\u30ec\u30dd\u30fc\u30c8","Email Wordfence Activity Log":"Wordfence \u30a2\u30af\u30c6\u30a3\u30d3\u30c6\u30a3\u30ed\u30b0\u3092\u30e1\u30fc\u30eb\u3059\u308b","Enter a valid IP or domain":"\u6709\u52b9\u306a IP \u307e\u305f\u306f\u30c9\u30e1\u30a4\u30f3\u3092\u5165\u529b\u3057\u3066\u304f\u3060\u3055\u3044","Enter the email address you would like to send the Wordfence activity log to. Note that the activity log may contain thousands of lines of data. This log is usually only sent to a member of the Wordfence support team. It also contains your PHP configuration from the phpinfo() function for diagnostic data.":"Wordfence \u30a2\u30af\u30c6\u30a3\u30d3\u30c6\u30a3\u30ed\u30b0\u3092\u9001\u4fe1\u3059\u308b\u30e1\u30fc\u30eb\u30a2\u30c9\u30ec\u30b9\u3092\u5165\u529b\u3057\u307e\u3059\u3002 \u30a2\u30af\u30c6\u30a3\u30d3\u30c6\u30a3\u30ed\u30b0\u306b\u306f\u6570\u5343\u884c\u306e\u30c7\u30fc\u30bf\u304c\u542b\u307e\u308c\u308b\u5834\u5408\u304c\u3042\u308b\u3053\u3068\u306b\u6ce8\u610f\u3057\u3066\u304f\u3060\u3055\u3044\u3002 \u3053\u306e\u30ed\u30b0\u306f\u901a\u5e38\u3001Wordfence \u30b5\u30dd\u30fc\u30c8\u30c1\u30fc\u30e0\u306e\u30e1\u30f3\u30d0\u30fc\u306b\u306e\u307f\u9001\u4fe1\u3055\u308c\u307e\u3059\u3002 \u307e\u305f\u3001\u8a3a\u65ad\u30c7\u30fc\u30bf\u7528\u306e phpinfo() \u95a2\u6570\u304b\u3089\u306e PHP \u69cb\u6210\u3082\u542b\u307e\u308c\u3066\u3044\u307e\u3059\u3002","Error":"\u30a8\u30e9\u30fc","Error Enabling All Options Page":"\u3059\u3079\u3066\u306e\u30aa\u30d7\u30b7\u30e7\u30f3\u3092\u6709\u52b9\u306b\u3059\u308b\u30da\u30fc\u30b8\u306e\u30a8\u30e9\u30fc","Error Restoring Defaults":"\u30c7\u30d5\u30a9\u30eb\u30c8\u306e\u5fa9\u5143\u30a8\u30e9\u30fc","Error Saving Option":"\u30aa\u30d7\u30b7\u30e7\u30f3\u4fdd\u5b58\u30a8\u30e9\u30fc","Error Saving Options":"\u30aa\u30d7\u30b7\u30e7\u30f3\u4fdd\u5b58\u30a8\u30e9\u30fc","Failed Login":"\u30ed\u30b0\u30a4\u30f3\u306b\u5931\u6557","Failed Login: Invalid Username":"\u30ed\u30b0\u30a4\u30f3\u306b\u5931\u6557\u3057\u307e\u3057\u305f:  \u7121\u52b9\u306a\u30e6\u30fc\u30b6\u30fc\u540d","Failed Login: Valid Username":"\u30ed\u30b0\u30a4\u30f3\u306b\u5931\u6557\u3057\u307e\u3057\u305f:  \u6709\u52b9\u306a\u30e6\u30fc\u30b6\u30fc\u540d","File hidden successfully":"\u30d5\u30a1\u30a4\u30eb\u304c\u6b63\u5e38\u306b\u975e\u8868\u793a\u306b\u306a\u308a\u307e\u3057\u305f","File restored OK":"\u30d5\u30a1\u30a4\u30eb\u5fa9\u5143 OK","Filter Traffic":"\u30c8\u30e9\u30d5\u30a3\u30c3\u30af\u3092\u30d5\u30a3\u30eb\u30bf\u30fc","Firewall Response":"\u30d5\u30a1\u30a4\u30a2\u30a6\u30a9\u30fc\u30eb\u306e\u5fdc\u7b54","Full Path Disclosure":"\u30d5\u30eb\u30d1\u30b9\u958b\u793a","Get a new license":"\u65b0\u3057\u3044\u30e9\u30a4\u30bb\u30f3\u30b9\u3092\u53d6\u5f97","Google Bot":"Google Bot","Google Crawlers":"Google \u30af\u30ed\u30fc\u30e9\u30fc","HTTP Response Code":"HTTP \u30ec\u30b9\u30dd\u30f3\u30b9\u30b3\u30fc\u30c9","Human":"\u4eba\u9593","Humans":"\u4eba\u9593","IP":"IP","Key:":"\u30ad\u30fc:","Last Updated: %s":"\u6700\u7d42\u66f4\u65b0\u65e5: %s","Learn more about repairing modified files.":"\u4fee\u6b63\u3055\u308c\u305f\u30d5\u30a1\u30a4\u30eb\u306e\u4fee\u5fa9\u306b\u3064\u3044\u3066\u306f\u3001\u3053\u3061\u3089\u3092\u3054\u89a7\u304f\u3060\u3055\u3044\u3002","Loading...":"\u8aad\u307f\u8fbc\u307f\u4e2d\u2026","Locked Out":"\u30ed\u30c3\u30af\u30a2\u30a6\u30c8","Locked out from logging in":"\u30ed\u30b0\u30a4\u30f3\u304b\u3089\u30ed\u30c3\u30af\u30a2\u30a6\u30c8","Logged In":"\u30ed\u30b0\u30a4\u30f3\u4e2d","Logins":"\u30ed\u30b0\u30a4\u30f3","Logins and Logouts":"\u30ed\u30b0\u30a4\u30f3\u3068\u30ed\u30b0\u30a2\u30a6\u30c8","Look up IP or Domain":"IP \u307e\u305f\u306f\u30c9\u30e1\u30a4\u30f3\u306e\u691c\u7d22","Manual block by administrator":"\u7ba1\u7406\u8005\u306b\u3088\u308b\u624b\u52d5\u30d6\u30ed\u30c3\u30af","Next Update Check: %s":"\u6b21\u56de\u306e\u66f4\u65b0\u30c1\u30a7\u30c3\u30af: %s","No activity to report yet. Please complete your first scan.":"\u5831\u544a\u3059\u308b\u30a2\u30af\u30c6\u30a3\u30d3\u30c6\u30a3\u306f\u307e\u3060\u3042\u308a\u307e\u305b\u3093\u3002 \u6700\u521d\u306e\u30b9\u30ad\u30e3\u30f3\u3092\u5b8c\u4e86\u3057\u3066\u304f\u3060\u3055\u3044\u3002","No issues have been ignored.":"\u7121\u8996\u3055\u308c\u305f\u554f\u984c\u306f\u3042\u308a\u307e\u305b\u3093\u3002","No new issues have been found.":"\u65b0\u3057\u3044\u554f\u984c\u306f\u898b\u3064\u304b\u3063\u3066\u3044\u307e\u305b\u3093\u3002","No rules were updated. Please verify you have permissions to write to the \/wp-content\/wflogs directory.":"\u66f4\u65b0\u3055\u308c\u305f\u30eb\u30fc\u30eb\u306f\u3042\u308a\u307e\u305b\u3093\u3002\/wp-content\/wflogs \u30c7\u30a3\u30ec\u30af\u30c8\u30ea\u3078\u306e\u66f8\u304d\u8fbc\u307f\u6a29\u9650\u304c\u3042\u308b\u3053\u3068\u3092\u78ba\u8a8d\u3057\u3066\u304f\u3060\u3055\u3044\u3002","No rules were updated. Please verify your website can reach the Wordfence servers.":"\u30eb\u30fc\u30eb\u306f\u66f4\u65b0\u3055\u308c\u307e\u305b\u3093\u3067\u3057\u305f\u3002 \u30b5\u30a4\u30c8\u304c Wordfence \u30b5\u30fc\u30d0\u30fc\u306b\u5230\u9054\u3067\u304d\u308b\u3053\u3068\u3092\u78ba\u8a8d\u3057\u3066\u304f\u3060\u3055\u3044\u3002","No rules were updated. Your website has reached the maximum number of rule update requests. Please try again later.":"\u30eb\u30fc\u30eb\u306f\u66f4\u65b0\u3055\u308c\u307e\u305b\u3093\u3067\u3057\u305f\u3002 \u30b5\u30a4\u30c8\u304c\u30eb\u30fc\u30eb\u66f4\u65b0\u30ea\u30af\u30a8\u30b9\u30c8\u306e\u6700\u5927\u6570\u306b\u9054\u3057\u307e\u3057\u305f\u3002 \u5f8c\u3067\u3082\u3046\u4e00\u5ea6\u3084\u308a\u76f4\u3057\u3066\u304f\u3060\u3055\u3044\u3002","Note: Status will update when changes are saved":"\u6ce8:  \u5909\u66f4\u304c\u4fdd\u5b58\u3055\u308c\u308b\u3068\u30b9\u30c6\u30fc\u30bf\u30b9\u304c\u66f4\u65b0\u3055\u308c\u307e\u3059","OK":"OK","Pages Not Found":"\u30da\u30fc\u30b8\u304c\u898b\u3064\u304b\u308a\u307e\u305b\u3093","Paid Members Only":"\u6709\u6599\u30e1\u30f3\u30d0\u30fc\u5c02\u7528","Please enter a valid IP address or domain name for your whois lookup.":"whois lockup\u306b\u6709\u52b9\u306aIP\u30a2\u30c9\u30ec\u30b9\u307e\u305f\u306f\u30c9\u30e1\u30a4\u30f3\u540d\u3092\u5165\u529b\u3057\u3066\u304f\u3060\u3055\u3044\u3002","Please enter a valid email address.":"\u6709\u52b9\u306a\u30e1\u30fc\u30eb\u30a2\u30c9\u30ec\u30b9\u3092\u5165\u529b\u3057\u3066\u304f\u3060\u3055\u3044\u3002","Please include your support ticket number or forum username.":"\u30b5\u30dd\u30fc\u30c8\u30c1\u30b1\u30c3\u30c8\u756a\u53f7\u307e\u305f\u306f\u30d5\u30a9\u30fc\u30e9\u30e0\u306e\u30e6\u30fc\u30b6\u30fc\u540d\u3092\u3054\u8a18\u5165\u304f\u3060\u3055\u3044\u3002","Please make a backup of this file before proceeding. If you need to restore this backup file, you can copy it to the following path from your site's root:":"\u4f5c\u696d\u3092\u9032\u3081\u308b\u524d\u306b\u3001\u3053\u306e\u30d5\u30a1\u30a4\u30eb\u306e\u30d0\u30c3\u30af\u30a2\u30c3\u30d7\u3092\u53d6\u3063\u3066\u304f\u3060\u3055\u3044\u3002\u3053\u306e\u30d0\u30c3\u30af\u30a2\u30c3\u30d7\u30d5\u30a1\u30a4\u30eb\u3092\u5fa9\u5143\u3059\u308b\u5fc5\u8981\u304c\u3042\u308b\u5834\u5408\u306f\u3001\u30b5\u30a4\u30c8\u306e\u30eb\u30fc\u30c8\u304b\u3089\u4ee5\u4e0b\u306e\u30d1\u30b9\u306b\u30b3\u30d4\u30fc\u3057\u3066\u304f\u3060\u3055\u3044:","Please specify a reason":"\u7406\u7531\u3092\u5165\u529b\u3057\u3066\u304f\u3060\u3055\u3044","Please specify a valid IP address range in the form of \"1.2.3.4 - 1.2.3.5\" without quotes. Make sure the dash between the IP addresses in a normal dash (a minus sign on your keyboard) and not another character that looks like a dash.":"\u6709\u52b9\u306a IP \u30a2\u30c9\u30ec\u30b9\u7bc4\u56f2\u3092\u300c1.2.3.4 - 1.2.3.5\u300d\u306e\u5f62\u5f0f\u3067\u5f15\u7528\u7b26\u306a\u3057\u3067\u6307\u5b9a\u3057\u3066\u304f\u3060\u3055\u3044\u3002 \u30c0\u30c3\u30b7\u30e5\u306e\u3088\u3046\u306b\u898b\u3048\u308b\u5225\u306e\u6587\u5b57\u3067\u306f\u306a\u304f\u3001\u901a\u5e38\u306e\u30c0\u30c3\u30b7\u30e5(\u30ad\u30fc\u30dc\u30fc\u30c9\u306e\u30de\u30a4\u30ca\u30b9\u8a18\u53f7)\u3067\u3042\u308b\u3053\u3068\u3092\u78ba\u8a8d\u3057\u3066\u304f\u3060\u3055\u3044\u3002","Please specify either an IP address range, Hostname or a web browser pattern to match.":"\u4e00\u81f4\u3055\u305b\u308b\u305f\u3081\u306b\u3001IP \u30a2\u30c9\u30ec\u30b9\u306e\u7bc4\u56f2\u3001\u30db\u30b9\u30c8\u540d\u3001\u30a6\u30a7\u30d6\u30d6\u30e9\u30a6\u30b6\u30fc\u306e\u30d1\u30bf\u30fc\u30f3\u306e\u3044\u305a\u308c\u304b\u3092\u6307\u5b9a\u3057\u3066\u304f\u3060\u3055\u3044\u3002","Recent Activity":"\u6700\u8fd1\u306e\u30a2\u30af\u30c6\u30a3\u30d3\u30c6\u30a3","Recovery Codes":"\u30ea\u30ab\u30d0\u30ea\u30fc\u30b3\u30fc\u30c9","Redirected":"\u30ea\u30c0\u30a4\u30ec\u30af\u30c8","Redirected by Country Blocking bypass URL":"\u56fd\u5225\u30d6\u30ed\u30c3\u30af\u306e\u30d0\u30a4\u30d1\u30b9 URL \u3067\u30ea\u30c0\u30a4\u30ec\u30af\u30c8\u3055\u308c\u305f","Referer":"\u30ea\u30d5\u30a1\u30e9\u30fc","Registered Users":"\u767b\u9332\u6e08\u307f\u30e6\u30fc\u30b6\u30fc","Restore Defaults":"\u30c7\u30d5\u30a9\u30eb\u30c8\u306b\u623b\u3059","Rule Update Failed":"\u30eb\u30fc\u30eb\u306e\u66f4\u65b0\u306b\u5931\u6557\u3057\u307e\u3057\u305f","Rules Updated":"\u30eb\u30fc\u30eb\u3092\u66f4\u65b0\u3057\u307e\u3057\u305f","Save Changes":"\u5909\u66f4\u3092\u4fdd\u5b58","Scan Complete.":"\u30b9\u30ad\u30e3\u30f3\u304c\u5b8c\u4e86\u3057\u307e\u3057\u305f\u3002","Scan the code below with your authenticator app to add this account. Some authenticator apps also allow you to type in the text version instead.":"\u3053\u306e\u30a2\u30ab\u30a6\u30f3\u30c8\u3092\u8ffd\u52a0\u3059\u308b\u306b\u306f\u3001\u8a8d\u8a3c\u30b7\u30b9\u30c6\u30e0\u30a2\u30d7\u30ea\u3067\u4ee5\u4e0b\u306e\u30b3\u30fc\u30c9\u3092\u30b9\u30ad\u30e3\u30f3\u3057\u3066\u304f\u3060\u3055\u3044\u3002 \u4e00\u90e8\u306e\u8a8d\u8a3c\u30a2\u30d7\u30ea\u3067\u306f\u3001\u4ee3\u308f\u308a\u306b\u30c6\u30ad\u30b9\u30c8\u30d0\u30fc\u30b8\u30e7\u30f3\u3092\u5165\u529b\u3059\u308b\u3053\u3068\u3082\u3067\u304d\u307e\u3059\u3002","Security Event":"\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u30a4\u30d9\u30f3\u30c8","Send":"\u9001\u4fe1","Sorry, but no data for that IP or domain was found.":"\u7533\u3057\u8a33\u3042\u308a\u307e\u305b\u3093\u304c\u3001\u305d\u306e IP \u3084\u30c9\u30e1\u30a4\u30f3\u306e\u30c7\u30fc\u30bf\u306f\u898b\u3064\u304b\u308a\u307e\u305b\u3093\u3067\u3057\u305f\u3002","Specify a valid IP range":"\u6709\u52b9\u306a IP \u30ec\u30f3\u30b8\u306e\u6307\u5b9a","Specify a valid hostname":"\u6709\u52b9\u306a\u30db\u30b9\u30c8\u540d\u306e\u6307\u5b9a","Specify an IP range, Hostname or Browser pattern":"IP\u30ec\u30f3\u30b8\u3001\u30db\u30b9\u30c8\u30cd\u30fc\u30e0\u3001\u30d6\u30e9\u30a6\u30b6\u30fc\u30d1\u30bf\u30fc\u30f3\u306e\u6307\u5b9a","Success deleting file":"\u30d5\u30a1\u30a4\u30eb\u306e\u524a\u9664\u306b\u6210\u529f","Success removing option":"\u30aa\u30d7\u30b7\u30e7\u30f3\u524a\u9664\u6210\u529f","Success restoring file":"\u30d5\u30a1\u30a4\u30eb\u306e\u5fa9\u5143\u306b\u6210\u529f","Success updating option":"\u66f4\u65b0\u6210\u529f\u30aa\u30d7\u30b7\u30e7\u30f3","Successfully deleted admin":"admin \u306e\u524a\u9664\u306b\u6210\u529f\u3057\u307e\u3057\u305f","Successfully revoked admin":"\u7ba1\u7406\u8005\u304c\u6b63\u5e38\u306b\u53d6\u308a\u6d88\u3055\u308c\u307e\u3057\u305f","Test Email Sent":"\u30c6\u30b9\u30c8\u30e1\u30fc\u30eb\u306e\u9001\u4fe1","The 'How does Wordfence get IPs' option was successfully updated to the recommended value.":"\u300cWordfence \u304c IP \u3092\u53d6\u5f97\u3059\u308b\u65b9\u6cd5\u300d\u30aa\u30d7\u30b7\u30e7\u30f3\u304c\u63a8\u5968\u5024\u306b\u6b63\u5e38\u306b\u66f4\u65b0\u3055\u308c\u307e\u3057\u305f\u3002","The Full Path disclosure issue has been fixed":"\u30d5\u30eb\u30d1\u30b9\u516c\u958b\u306e\u554f\u984c\u304c\u4fee\u6b63\u3055\u308c\u307e\u3057\u305f\u3002","The admin user %s was successfully deleted.":"admin \u30e6\u30fc\u30b6\u30fc%s\u306e\u524a\u9664\u306b\u6210\u529f\u3057\u307e\u3057\u305f\u3002","The file %s was successfully deleted.":"\u30d5\u30a1\u30a4\u30eb%s\u306e\u524a\u9664\u306b\u6210\u529f\u3057\u307e\u3057\u305f\u3002","The file %s was successfully hidden from public view.":"\u30d5\u30a1\u30a4\u30eb%s\u306e\u975e\u8868\u793a\u306b\u6210\u529f\u3057\u307e\u3057\u305f\u3002","The file %s was successfully restored.":"\u30d5\u30a1\u30a4\u30eb%s\u306e\u5fa9\u5143\u306b\u6210\u529f\u3057\u307e\u3057\u305f\u3002","The option %s was successfully removed.":"\u30aa\u30d7\u30b7\u30e7\u30f3%s\u306e\u524a\u9664\u306b\u6210\u529f\u3057\u307e\u3057\u305f\u3002","The request has been allowlisted. Please try it again.":"\u30ea\u30af\u30a8\u30b9\u30c8\u306f\u8a31\u53ef\u3055\u308c\u3066\u3044\u307e\u3059\u3002\u3082\u3046\u4e00\u5ea6\u304a\u8a66\u3057\u304f\u3060\u3055\u3044\u3002","There was an error while downgrading to a free license.":"\u7121\u6599\u30e9\u30a4\u30bb\u30f3\u30b9\u3078\u306e\u30c0\u30a6\u30f3\u30b0\u30ec\u30fc\u30c9\u4e2d\u306b\u30a8\u30e9\u30fc\u304c\u767a\u751f\u3057\u307e\u3057\u305f\u3002","There was an error while sending the email.":"\u30e1\u30fc\u30eb\u9001\u4fe1\u6642\u306b\u30a8\u30e9\u30fc\u304c\u767a\u751f\u3057\u307e\u3057\u305f\u3002","This will be shown only once. Keep these codes somewhere safe.":"\u4e00\u5ea6\u3060\u3051\u8868\u793a\u3055\u308c\u307e\u3059\u3002\u3053\u308c\u3089\u306e\u30b3\u30fc\u30c9\u306f\u5b89\u5168\u306a\u5834\u6240\u306b\u4fdd\u7ba1\u3057\u3066\u304f\u3060\u3055\u3044\u3002","Throttled":"\u30b9\u30ed\u30c3\u30c8\u30eb\u3055\u308c\u305f","Two Factor Status":"2\u8981\u7d20\u30b9\u30c6\u30fc\u30bf\u30b9","Type":"\u30bf\u30a4\u30d7","Type: %s":"\u30bf\u30a4\u30d7: %s","URL":"URL","Unable to automatically hide file":"\u30d5\u30a1\u30a4\u30eb\u3092\u81ea\u52d5\u7684\u306b\u96a0\u3059\u3053\u3068\u304c\u3067\u304d\u306a\u3044","Use one of these %s codes to log in if you are unable to access your phone. Codes are 16 characters long, plus optional spaces. Each one may be used only once.":"\u643a\u5e2f\u96fb\u8a71\u306b\u30a2\u30af\u30bb\u30b9\u3067\u304d\u306a\u3044\u5834\u5408\u306f\u3001\u3053\u308c\u3089\u306e%s\u30b3\u30fc\u30c9\u306e\u3044\u305a\u308c\u304b\u3092\u4f7f\u7528\u3057\u3066\u30ed\u30b0\u30a4\u30f3\u3057\u307e\u3059\u3002\u30b3\u30fc\u30c9\u306f16\u6587\u5b57\u3068\u4efb\u610f\u306e\u30b9\u30da\u30fc\u30b9\u3067\u69cb\u6210\u3055\u308c\u3066\u3044\u307e\u3059\u3002\u5404\u30b3\u30fc\u30c9\u306f1\u56de\u306e\u307f\u4f7f\u7528\u3067\u304d\u307e\u3059\u3002","Use one of these %s codes to log in if you lose access to your authenticator device. Codes are 16 characters long, plus optional spaces. Each one may be used only once.":"\u8a8d\u8a3c\u30c7\u30d0\u30a4\u30b9\u306b\u30a2\u30af\u30bb\u30b9\u3067\u304d\u306a\u304f\u306a\u3063\u305f\u5834\u5408\u306f\u3001\u3053\u308c\u3089\u306e%s\u30b3\u30fc\u30c9\u306e\u3044\u305a\u308c\u304b\u3092\u4f7f\u7528\u3057\u3066\u30ed\u30b0\u30a4\u30f3\u3057\u307e\u3059\u3002\u30b3\u30fc\u30c9\u306f16\u6587\u5b57\u3068\u4efb\u610f\u306e\u30b9\u30da\u30fc\u30b9\u3067\u69cb\u6210\u3055\u308c\u3066\u3044\u307e\u3059\u3002\u5404\u30b3\u30fc\u30c9\u306f1\u56de\u306e\u307f\u4f7f\u7528\u3067\u304d\u307e\u3059\u3002","User Agent":"\u30e6\u30fc\u30b6\u30fc\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8","User ID":"\u30e6\u30fc\u30b6\u30fc ID","Username":"\u30e6\u30fc\u30b6\u30fc\u540d","WHOIS LOOKUP":"WHOIS LOOKUP","We are about to change your <em>.htaccess<\/em> file. Please make a backup of this file before proceeding.":"<em>.htaccess<\/em> \u30d5\u30a1\u30a4\u30eb\u3092\u5909\u66f4\u3057\u3088\u3046\u3068\u3057\u3066\u3044\u307e\u3059\u3002 \u7d9a\u884c\u3059\u308b\u524d\u306b\u3001\u3053\u306e\u30d5\u30a1\u30a4\u30eb\u306e\u30d0\u30c3\u30af\u30a2\u30c3\u30d7\u3092\u4f5c\u6210\u3057\u3066\u304f\u3060\u3055\u3044\u3002","We can't modify your .htaccess file for you because: %s":"\u6b21\u306e\u7406\u7531\u306b\u3088\u308a\u3001.htaccess \u30d5\u30a1\u30a4\u30eb\u3092\u5909\u66f4\u3059\u308b\u3053\u3068\u306f\u3067\u304d\u307e\u305b\u3093: %s","We encountered a problem":"\u554f\u984c\u304c\u767a\u751f\u3057\u307e\u3057\u305f","Wordfence Firewall blocked a background request to WordPress for the URL %s. If this occurred as a result of an intentional action, you may consider allowlisting the request to allow it in the future.":"Wordfence \u30d5\u30a1\u30a4\u30a2\u30a6\u30a9\u30fc\u30eb\u306f\u3001URL %s \u306b\u5bfe\u3059\u308b WordPress \u3078\u306e\u30d0\u30c3\u30af\u30b0\u30e9\u30a6\u30f3\u30c9\u30ea\u30af\u30a8\u30b9\u30c8\u3092\u30d6\u30ed\u30c3\u30af\u3057\u307e\u3057\u305f\u3002 \u3053\u308c\u304c\u610f\u56f3\u7684\u306a\u30a2\u30af\u30b7\u30e7\u30f3\u306e\u7d50\u679c\u3068\u3057\u3066\u767a\u751f\u3057\u305f\u5834\u5408\u306f\u3001\u4eca\u5f8c\u30ea\u30af\u30a8\u30b9\u30c8\u3092\u8a31\u53ef\u3059\u308b\u305f\u3081\u306b\u3001\u305d\u308c\u3092\u8a31\u53ef\u30ea\u30b9\u30c8\u306b\u767b\u9332\u3059\u308b\u3053\u3068\u3092\u691c\u8a0e\u3059\u308b\u3068\u3088\u3044\u3067\u3057\u3087\u3046\u3002","Wordfence is working...":"Wordfence \u306f\u4f5c\u696d\u4e2d...","You are using Nginx as your web server. You'll need to disable autoindexing in your nginx.conf. See the <a target='_blank'  rel='noopener noreferrer' href='https:\/\/nginx.org\/en\/docs\/http\/ngx_http_autoindex_module.html'>Nginx docs for more info<\/a> on how to do this.":"\u30a6\u30a7\u30d6\u30b5\u30fc\u30d0\u30fc\u3068\u3057\u3066 Nginx \u3092\u4f7f\u7528\u3057\u3066\u3044\u307e\u3059\u3002nginx.conf \u3067\u30aa\u30fc\u30c8\u30a4\u30f3\u30c7\u30c3\u30af\u30b9\u3092\u7121\u52b9\u306b\u3059\u308b\u5fc5\u8981\u304c\u3042\u308a\u307e\u3059\u3002\u3053\u306e\u65b9\u6cd5\u306b\u3064\u3044\u3066\u306f\u3001<a target='_blank'  rel='noopener noreferrer' href='https:\/\/nginx.org\/en\/docs\/http\/ngx_http_autoindex_module.html'>Nginx docs for more information<\/a> \u3092\u3054\u89a7\u304f\u3060\u3055\u3044\u3002","You are using an Nginx web server and using a FastCGI processor like PHP5-FPM. You will need to manually delete or hide those files.":"Nginx \u30a6\u30a7\u30d6\u30b5\u30fc\u30d0\u30fc\u3092\u4f7f\u7528\u3057\u3001PHP5-FPM \u306a\u3069\u306e FastCGI \u30d7\u30ed\u30bb\u30c3\u30b5\u3092\u4f7f\u7528\u3057\u3066\u3044\u307e\u3059\u3002\u3053\u308c\u3089\u306e\u30d5\u30a1\u30a4\u30eb\u3092\u624b\u52d5\u3067\u524a\u9664\u307e\u305f\u306f\u975e\u8868\u793a\u306b\u3059\u308b\u5fc5\u8981\u304c\u3042\u308a\u307e\u3059\u3002","You are using an Nginx web server and using a FastCGI processor like PHP5-FPM. You will need to manually modify your php.ini to disable <em>display_error<\/em>":"Nginx \u30a6\u30a7\u30d6\u30b5\u30fc\u30d0\u30fc\u3092\u4f7f\u7528\u3057\u3001PHP5-FPM \u306a\u3069\u306e FastCGI \u30d7\u30ed\u30bb\u30c3\u30b5\u3092\u4f7f\u7528\u3057\u3066\u3044\u307e\u3059\u3002<em>display_error<\/em> \u3092\u7121\u52b9\u306b\u3059\u308b\u306b\u306f\u3001\u624b\u52d5\u3067 php.ini \u3092\u5909\u66f4\u3059\u308b\u5fc5\u8981\u304c\u3042\u308a\u307e\u3059\u3002","You forgot to include a reason you're blocking this IP range. We ask you to include this for your own record keeping.":"\u3053\u306e IP \u30ec\u30f3\u30b8\u3092\u30d6\u30ed\u30c3\u30af\u3057\u3066\u3044\u308b\u7406\u7531\u3092\u5fd8\u308c\u3066\u3044\u307e\u3059\u3002\u3054\u81ea\u8eab\u306e\u8a18\u9332\u306e\u305f\u3081\u306b\u8a18\u8f09\u3057\u3066\u3044\u305f\u3060\u304f\u3088\u3046\u304a\u9858\u3044\u3044\u305f\u3057\u307e\u3059\u3002","You have unsaved changes to your options. If you leave this page, those changes will be lost.":"\u30aa\u30d7\u30b7\u30e7\u30f3\u306e\u5909\u66f4\u304c\u4fdd\u5b58\u3055\u308c\u3066\u3044\u307e\u305b\u3093\u3002\u3053\u306e\u30da\u30fc\u30b8\u3092\u96e2\u308c\u308b\u3068\u3001\u3053\u308c\u3089\u306e\u5909\u66f4\u306f\u5931\u308f\u308c\u307e\u3059\u3002","You may close this alert and try again later, or click the button below to register for a new free Wordfence license.":"\u3053\u306e\u30a2\u30e9\u30fc\u30c8\u3092\u9589\u3058\u3066\u5f8c\u3067\u3082\u3046\u4e00\u5ea6\u8a66\u3059\u304b\u3001\u4e0b\u306e\u30dc\u30bf\u30f3\u3092\u30af\u30ea\u30c3\u30af\u3057\u3066\u65b0\u3057\u3044\u7121\u6599\u306e Wordfence \u30e9\u30a4\u30bb\u30f3\u30b9\u3092\u767b\u9332\u3057\u3066\u304f\u3060\u3055\u3044\u3002","Your .htaccess has been updated successfully. Please verify your site is functioning normally.":"\u3042\u306a\u305f\u306e .htaccess \u306e\u66f4\u65b0\u306b\u6210\u529f\u3057\u307e\u3057\u305f\u3002\u30b5\u30a4\u30c8\u304c\u6b63\u5e38\u306b\u52d5\u4f5c\u3057\u3066\u3044\u308b\u3053\u3068\u3092\u3054\u78ba\u8a8d\u304f\u3060\u3055\u3044\u3002","Your Wordfence activity log was sent to %s":"\u3042\u306a\u305f\u306e Wordfence \u30a2\u30af\u30c6\u30a3\u30d3\u30c6\u30a3\u30ed\u30b0\u3092 %s \u3078\u9001\u4fe1\u3057\u307e\u3057\u305f","Your rules have been updated successfully.":"\u30eb\u30fc\u30eb\u306e\u66f4\u65b0\u306b\u6210\u529f\u3057\u307e\u3057\u305f\u3002","Your rules have been updated successfully. You are currently using the free version of Wordfence. Upgrade to Wordfence premium to have your rules updated automatically as new threats emerge. <a href=\"https:\/\/www.wordfence.com\/wafUpdateRules1\/wordfence-signup\/\">Click here to purchase a premium license<\/a>. <em>Note: Your rules will still update every 30 days as a free user.<\/em>":"\u30eb\u30fc\u30eb\u306e\u66f4\u65b0\u306b\u6210\u529f\u3057\u307e\u3057\u305f\u3002\u73fe\u5728\u3001Wordfence \u306e\u7121\u6599\u7248\u3092\u4f7f\u7528\u3057\u3066\u3044\u307e\u3059\u3002Wordfence \u30d7\u30ec\u30df\u30a2\u30e0\u306b\u30a2\u30c3\u30d7\u30b0\u30ec\u30fc\u30c9\u3059\u308b\u3068\u3001\u65b0\u3057\u3044\u8105\u5a01\u306e\u51fa\u73fe\u306b\u5408\u308f\u305b\u3066\u30eb\u30fc\u30eb\u304c\u81ea\u52d5\u7684\u306b\u66f4\u65b0\u3055\u308c\u307e\u3059\u3002<a href=\"https:\/\/www.wordfence.com\/wafUpdateRules1\/wordfence-signup\/\">\u30d7\u30ec\u30df\u30a2\u30e0\u30e9\u30a4\u30bb\u30f3\u30b9\u306e\u3054\u8cfc\u5165\u306f\u3053\u3061\u3089\u3092\u30af\u30ea\u30c3\u30af<\/a>\u3002<em>\u6ce8:  \u7121\u6599\u30e6\u30fc\u30b6\u30fc\u3082\u3001\u30eb\u30fc\u30eb\u306f30\u65e5\u3054\u3068\u306b\u66f4\u65b0\u3055\u308c\u307e\u3059\u3002<\/em>","Your test email was sent to the requested email address. The result we received from the WordPress wp_mail() function was: %s<br \/><br \/>A 'True' result means WordPress thinks the mail was sent without errors. A 'False' result means that WordPress encountered an error sending your mail. Note that it's possible to get a 'True' response with an error elsewhere in your mail system that may cause emails to not be delivered.":"\u30c6\u30b9\u30c8\u30e1\u30fc\u30eb\u306f\u3001\u30ea\u30af\u30a8\u30b9\u30c8\u3055\u308c\u305f\u30e1\u30fc\u30eb\u30a2\u30c9\u30ec\u30b9\u306b\u9001\u4fe1\u3055\u308c\u307e\u3057\u305f\u3002 WordPress \u306e wp_mail() \u95a2\u6570\u304b\u3089\u53d7\u3051\u53d6\u3063\u305f\u7d50\u679c\u306f\u6b21\u306e\u3068\u304a\u308a\u3067\u3059: %s<br \/> <br \/>\u300cTrue\u300d\u306e\u7d50\u679c\u306f\u3001WordPress \u304c\u30e1\u30fc\u30eb\u304c\u30a8\u30e9\u30fc\u306a\u3057\u3067\u9001\u4fe1\u3055\u308c\u305f\u3068\u898b\u306a\u3059\u3053\u3068\u3092\u610f\u5473\u3057\u307e\u3059\u3002 \u300cFalse\u300d\u306e\u7d50\u679c\u306f\u3001WordPress \u3067\u30e1\u30fc\u30eb\u306e\u9001\u4fe1\u4e2d\u306b\u30a8\u30e9\u30fc\u304c\u767a\u751f\u3057\u305f\u3053\u3068\u3092\u610f\u5473\u3057\u307e\u3059\u3002 \u30e1\u30fc\u30eb\u30b7\u30b9\u30c6\u30e0\u306e\u4ed6\u306e\u5834\u6240\u3067\u30a8\u30e9\u30fc\u304c\u767a\u751f\u3057\u3001\u300cTrue\u300d\u5fdc\u7b54\u304c\u8fd4\u3055\u308c\u3001\u30e1\u30fc\u30eb\u304c\u914d\u4fe1\u3055\u308c\u306a\u3044\u53ef\u80fd\u6027\u304c\u3042\u308b\u3053\u3068\u306b\u6ce8\u610f\u3057\u3066\u304f\u3060\u3055\u3044\u3002","blocked by firewall":"\u30d5\u30a1\u30a4\u30a2\u30a6\u30a9\u30fc\u30eb\u3067\u30d6\u30ed\u30c3\u30af","blocked by firewall for %s":"%s \u306b\u3088\u308a\u30d5\u30a1\u30a4\u30a2\u30a6\u30a9\u30fc\u30eb\u3067\u30d6\u30ed\u30c3\u30af","blocked by real-time IP blocklist":"\u30ea\u30a2\u30eb\u30bf\u30a4\u30e0 IP \u30d6\u30ed\u30c3\u30af\u30ea\u30b9\u30c8\u306b\u3088\u3063\u3066\u30d6\u30ed\u30c3\u30af","blocked by the Wordfence Security Network":"Wordfence Security \u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u3067\u30d6\u30ed\u30c3\u30af\u3055\u308c\u307e\u3057\u305f","blocked for %s":"\u30d6\u30ed\u30c3\u30af: %s","locked out from logging in":"\u30ed\u30b0\u30a4\u30f3\u304b\u3089\u30ed\u30c3\u30af\u30a2\u30a6\u30c8"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://wealth-park.com/wp-content/plugins/wordfence/js/wfi18n.1756145765.js?ver=8.1.0" id="wfi18njs-js"></script>
+<script type="text/javascript" id="wordfenceAJAXjs-js-extra">
+/* <![CDATA[ */
+var WFAJAXWatcherVars = {"nonce":"c20c0040e6"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://wealth-park.com/wp-content/plugins/wordfence/js/admin.ajaxWatcher.1756145765.js?ver=8.1.0" id="wordfenceAJAXjs-js"></script>
+<link rel="https://api.w.org/" href="https://wealth-park.com/ja/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://wealth-park.com/ja/wp-json/wp/v2/park/47185" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://wealth-park.com/xmlrpc.php?rsd" />
+
+<link rel='shortlink' href='https://wealth-park.com/ja/?p=47185' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://wealth-park.com/ja/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwealth-park.com%2Fja%2Fpark%2Fhhp%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://wealth-park.com/ja/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwealth-park.com%2Fja%2Fpark%2Fhhp%2F&#038;format=xml" />
+<!-- Stream WordPress user activity plugin v4.1.1 -->
+<style type="text/css">
+.qtranxs_flag_en {background-image: url(https://wealth-park.com/wp-content/plugins/qtranslate-x/flags/gb.png); background-repeat: no-repeat;}
+.qtranxs_flag_tc {background-image: url(https://wealth-park.com/wp-content/plugins/qtranslate-x/flags/tw.png); background-repeat: no-repeat;}
+.qtranxs_flag_sc {background-image: url(https://wealth-park.com/wp-content/plugins/qtranslate-x/flags/cn.png); background-repeat: no-repeat;}
+.qtranxs_flag_ja {background-image: url(https://wealth-park.com/wp-content/plugins/qtranslate-x/flags/jp.png); background-repeat: no-repeat;}
+</style>
+<link hreflang="en" href="https://wealth-park.com/en/park/hhp/" rel="alternate" />
+<link hreflang="zh_TW" href="https://wealth-park.com/tc/park/hhp/" rel="alternate" />
+<link hreflang="sc" href="https://wealth-park.com/sc/park/hhp/" rel="alternate" />
+<link hreflang="ja" href="https://wealth-park.com/ja/park/hhp/" rel="alternate" />
+<link hreflang="x-default" href="https://wealth-park.com/en/park/hhp/" rel="alternate" />
+<meta name="generator" content="qTranslate-X 3.4.6.8" />
+<link rel="icon" href="https://wealth-park.com/wp-content/uploads/2017/03/cropped-logo-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://wealth-park.com/wp-content/uploads/2017/03/cropped-logo-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://wealth-park.com/wp-content/uploads/2017/03/cropped-logo-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://wealth-park.com/wp-content/uploads/2017/03/cropped-logo-1-270x270.png" />
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KH2RPBR"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><div id="page" class="whole-page">
+    <!-- CORPORATE NAV -->
+    
+  <!-- CORPORATE ALL PAGES -->
+  <header class="header--corporate header--common header--dark">
+    <!-- DESKTOP -->
+    <nav class="menu__navbar menu__navbar--pc">
+      <div class="menu__navbar__logo">
+        <a href="https://wealth-park.com/ja/"><img loading="lazy" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/app/logo_inverse.svg" alt="WealthPark" /></a>
+      </div>
+      <ul class="menu__list">
+        <li class="menu__list-item menu__first-level menu__parent-dropdown">
+          <a class="menu__list-link menu__dropdown-toggle" href="javascript:void(0)">ニュース</a>
+          <ul class="menu__dropdown">
+            <li class="menu__dropdown-list-item">
+              <a href="https://wealth-park.com/ja/news/" class="menu__dropdown-list-link">
+              ニュース              </a>
+            </li>
+            <li class="menu__dropdown-list-item">
+              <a href="https://wealth-park.com/ja/business/release-note" class="menu__dropdown-list-link">
+                プロダクト新機能・改善              </a>
+            </li>
+            <li class="menu__dropdown-list-item">
+              <a href="https://prtimes.jp/main/html/searchrlp/company_id/40576" target="_blank" class="menu__dropdown-list-link menu__dropdown-list-link--external">
+                プレスリリース              </a>
+            </li>
+          </ul>
+        </li>
+        <li class="menu__list-item menu__first-level menu__parent-dropdown">
+          <a class="menu__list-link menu__dropdown-toggle" href="javascript:void(0)">サービス</a>      
+          <ul class="menu__dropdown">
+            <li class="menu__dropdown-list-item">
+              <a href="https://wealth-park.com/ja/business" class="menu__dropdown-list-link">
+                不動産管理会社向けサービス<br>
+                <small>WealthParkビジネス</small>
+              </a>
+            </li>
+            <li class="menu__dropdown-list-item">
+              <a href="https://owner-app.wealth-park.com" class="menu__dropdown-list-link menu__dropdown-list-link--external" target="_blank">
+                不動産オーナー向けサービス<br>
+                <small>WealthParkオーナーアプリ</small>
+              </a>
+            </li>
+            <li class="menu__dropdown-list-item">
+              <a href="https://wealthpark-ret.com/" class="menu__dropdown-list-link menu__dropdown-list-link--external" target="_blank">
+                海外不動産投資家向けサービス<br>
+                <small>WealthPark RealEstate Technologies</small>
+              </a>
+            </li>
+            <li class="menu__dropdown-list-item">
+              <a href="https://wealthpark-alt.com/" class="menu__dropdown-list-link menu__dropdown-list-link--external" target="_blank">
+                不動産関連の<br>
+  クラウドファンディングサービス<br>
+                <small>WealthPark Investment</small>
+              </a>
+            </li>
+          </ul> 
+        </li>
+        <li class="menu__list-item menu__first-level">
+          <a class="menu__list-link" href="https://wealth-park.com/ja/corporate/company/">会社概要</a>
+        </li>
+        <li class="menu__list-item menu__first-level menu__parent-dropdown">
+          <a class="menu__list-link menu__dropdown-toggle" href="javascript:void(0)">採用</a>      
+          <ul class="menu__dropdown">
+            <li class="menu__dropdown-list-item">
+              <a href="https://wealth-park.com/ja/careers" class="menu__dropdown-list-link">
+                中途採用              </a>
+            </li>
+            <li class="menu__dropdown-list-item">
+              <a href="https://wealth-park.com/ja/park"class="menu__dropdown-list-link"> 
+                採用オウンドメディア「Park」              </a>
+            </li>
+          </ul> 
+        </li>
+        <li class="menu__list-item menu__first-level menu__parent-dropdown">
+          <a class="menu__list-link menu__dropdown-toggle" href="javascript:void(0)">記事</a>
+          <ul class="menu__dropdown menu__dropdown--edge">
+            <li class="menu__dropdown-heading">オウンドメディア</li>
+            <li class="menu__dropdown-list-item">
+              <a href="https://wealth-park.com/ja/wealthpark-blog/" class="menu__dropdown-list-link">
+                WealthParkブログ              </a>
+            </li>
+            <li class="menu__dropdown-list-item">
+              <a href="https://wealthpark-lab.com" target="_blank" class="menu__dropdown-list-link menu__dropdown-list-link--external">
+                WealthPark研究所              </a>
+            </li>
+            <li class="menu__dropdown-list-item">
+              <a href="https://wealth-park.com/ja/park" class="menu__dropdown-list-link">
+                採用オウンドメディア「Park」              </a>
+            </li>
+            <li class="menu__dropdown__divider"></li>
+            <li class="menu__dropdown-heading">特集</li>
+            <li class="menu__dropdown-list-item">
+              <a href="https://wealth-park.com/ja/business/seminar" class="menu__dropdown-list-link">
+                イベント・セミナー              </a>
+            </li>
+            <li class="menu__dropdown-list-item">
+              <a href="https://wealth-park.com/ja/tag/keypersons-voice/" class="menu__dropdown-list-link">
+                Key Person's Voice | 不動産管理会社のトップ対談              </a>
+            </li>
+            <li class="menu__dropdown-list-item">
+              <a href="https://wealth-park.com/ja/park_category/person/" class="menu__dropdown-list-link">
+                社員インタビュー              </a>
+            </li>
+          </ul>
+        </li>
+                  <li class="menu__list-item menu__first-level menu__list-item-btn">
+            <a class="menu__list-link-btn menu__list-link-btn--blue" href="https://wealth-park.com/ja/business/">不動産管理会社の方</a>
+          </li>
+                <li class="menu__list-item menu__first-level menu__list-item-btn">
+          <a class="menu__list-link-btn menu__list-link-btn--white" href="https://owner.wealth-park.com/" target="_blank">
+            パソコン版WealthPark ログイン          </a>
+        </li>
+      </ul>
+    </nav>
+    <!-- MOBILE -->
+    <nav class="menu__navbar menu__navbar--sp">
+      <div class="menu__navbar--mobile">
+        <div class="menu__navbar__logo">
+          <a href="https://wealth-park.com/ja/"><img loading="lazy" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/app/logo_inverse.svg" alt="WealthPark" /></a>
+        </div>
+        <div class="menu__burger">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+      </div>
+      <div class="menu__list-container">
+        <ul class="menu__list--mobile">
+          <li class="menu__list-item menu__first-level">
+            <a class="menu__list-link" href="https://wealth-park.com/ja/">Home</a>
+          </li>
+          <li class="menu__list-item menu__first-level menu__parent-dropdown">
+            <a class="menu__list-link menu__dropdown-toggle" href="javascript:void(0)">ニュース</a>
+            <ul class="menu__dropdown">
+              <li class="menu__dropdown-list-item">
+                <a href="https://wealth-park.com/ja/news/" class="menu__dropdown-list-link">
+                  ニュース                </a>
+              </li>
+              <li class="menu__dropdown-list-item">
+                <a href="https://wealth-park.com/ja/business/release-note" class="menu__dropdown-list-link">
+                  プロダクト新機能・改善                </a>
+              </li>
+              <li class="menu__dropdown-list-item">
+                <a href="https://prtimes.jp/main/html/searchrlp/company_id/40576" target="_blank" class="menu__dropdown-list-link menu__dropdown-list-link--external">
+                  プレスリリース                </a>
+              </li>
+            </ul>
+          </li>
+          <li class="menu__list-item menu__first-level menu__parent-dropdown">
+            <a class="menu__list-link menu__dropdown-toggle" href="javascript:void(0)">サービス</a>      
+            <ul class="menu__dropdown">
+              <li class="menu__dropdown-list-item">
+                <a href="https://wealth-park.com/ja/business" class="menu__dropdown-list-link">
+                  不動産管理会社向けサービス<br>
+                  <small>WealthParkビジネス</small>
+                </a>
+              </li>
+              <li class="menu__dropdown-list-item">
+                <a href="https://owner-app.wealth-park.com" class="menu__dropdown-list-link menu__dropdown-list-link--external" target="_blank">
+                  不動産オーナー向けサービス<br>
+                  <small>WealthParkオーナーアプリ</small>
+                </a>
+              </li>
+              <li class="menu__dropdown-list-item">
+                <a href="https://wealthpark-ret.com/" class="menu__dropdown-list-link menu__dropdown-list-link--external" target="_blank">
+                  海外不動産投資家向けサービス<br>
+                  <small>WealthPark RealEstate Technologies</small>
+                </a>
+              </li>
+              <li class="menu__dropdown-list-item">
+                <a href="https://wealthpark-alt.com/" class="menu__dropdown-list-link menu__dropdown-list-link--external" target="_blank">
+                  不動産関連の<br>
+  クラウドファンディングサービス<br>
+                  <small>WealthPark Investment</small>
+                </a>
+              </li>
+            </ul> 
+          </li>
+          <li class="menu__list-item menu__first-level">
+            <a class="menu__list-link" href="https://wealth-park.com/ja/corporate/company/">会社概要</a>
+          </li>
+          <li class="menu__list-item menu__first-level menu__parent-dropdown">
+            <a class="menu__list-link menu__dropdown-toggle" href="javascript:void(0)">採用</a>      
+            <ul class="menu__dropdown">
+              <li class="menu__dropdown-list-item">
+                <a href="https://wealth-park.com/ja/careers" class="menu__dropdown-list-link">
+                  中途採用                </a>
+              </li>
+              <li class="menu__dropdown-list-item">
+                <a href="https://wealth-park.com/ja/park"class="menu__dropdown-list-link"> 
+                  採用オウンドメディア「Park」                </a>
+              </li>
+            </ul> 
+          </li>
+          <li class="menu__list-item menu__first-level menu__parent-dropdown menu__parent-dropdown--ownedmedia">
+            <a class="menu__list-link menu__dropdown-toggle" href="javascript:void(0)">記事</a>
+            <ul class="menu__dropdown menu__dropdown--edge">
+              <li class="menu__dropdown-heading">オウンドメディア</li>
+              <li class="menu__dropdown-list-item">
+                <a href="https://wealth-park.com/ja/wealthpark-blog/" class="menu__dropdown-list-link">
+                  WealthParkブログ                </a>
+              </li>
+              <li class="menu__dropdown-list-item">
+                <a href="https://wealthpark-lab.com" target="_blank" class="menu__dropdown-list-link menu__dropdown-list-link--external">
+                  WealthPark研究所                </a>
+              </li>
+              <li class="menu__dropdown-list-item">
+                <a href="https://wealth-park.com/ja/park" class="menu__dropdown-list-link">
+                  採用オウンドメディア「Park」                </a>
+              </li>
+              <li class="menu__dropdown-heading">特集</li>
+              <li class="menu__dropdown-list-item">
+                <a href="https://wealth-park.com/ja/business/seminar" class="menu__dropdown-list-link">
+                  イベント・セミナー                </a>
+              </li>
+              <li class="menu__dropdown-list-item">
+                <a href="https://wealth-park.com/ja/tag/keypersons-voice/" class="menu__dropdown-list-link">
+                  Key Person's Voice | 不動産管理会社のトップ対談                </a>
+              </li>
+              <li class="menu__dropdown-list-item">
+                <a href="https://wealth-park.com/ja/park_category/person/" class="menu__dropdown-list-link">
+                  社員インタビュー                </a>
+              </li>
+            </ul>
+          </li>
+                      <li class="menu__list-item menu__first-level menu__list-item-btn">
+              <a class="menu__list-link-btn menu__list-link-btn--blue" href="https://wealth-park.com/ja/business/">
+                不動産管理会社向け                <br>
+                <span>サービスページはこちら</span>
+              </a>
+            </li>
+                    <li class="menu__list-item menu__first-level menu__list-item-btn">
+            <a class="menu__list-link-btn menu__list-link-btn--white" href="https://owner.wealth-park.com/" target="_blank">
+              パソコン版WealthPark <br>
+                              <span>ログインページはこちら</span>
+                          </a>
+          </li>
+          <li class="menu__list-item menu__first-level">
+            <ul class="menu__sns--list">
+              <li>
+                <a href="https://www.facebook.com/WealthPark-Business-WealthPark%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A6%E3%82%A7%E3%83%AB%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2253775971335835/" target="_blank">
+                  <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/ico_facebook.svg" alt="facebook" />
+                </a>
+              </li>
+              <li>
+                <a href="https://www.linkedin.com/company/wealthpark/" target="_blank">
+                  <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/ico_in.svg" alt="in" />
+                </a>
+              </li>
+              <li>
+                <a href="https://www.youtube.com/channel/UCvTChmtXoEokx8vsWda8aNg" target="_blank">
+                  <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/ico_youtube.svg" alt="youtube" />
+                </a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+
+  <section class="breadcrumbs--global breadcrumbs--global-corporate ">
+    <ul>
+      <li>
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/business-icon.svg" alt="icon">
+        <a href="/">WealthPark</a>
+      </li>
+      <li>採用</li><li><a href="/park">採用オウンドメディア「Park」</a></li><li><a href=https://wealth-park.com/ja/park/hhp/>阪急阪神不動産 隅田様・河目様に聞く、DXビジョンの実現に向けたロードマップ作成とビジネスアーキテクチャ整理の重要性</a></li>    </ul>
+</section>
+
+
+
+
+	<div id="content" class="site-content">
+	<div id="primary" class="content-area news_page blog hr-blog">
+		<main id="main" class="site-main wp_container wp_container--article" role="main">
+		<section id="section-news-detail">
+    <article class="blog-content">
+            <section class="news-detail-box">
+      <section class="blog-content__header">
+              <a class="blog-content__header-category" href="https://wealth-park.com/ja/park_category/business/">
+          Business        </a>
+                <p class="blog-content__header-date">2025.05.22</p>
+      </section>
+      <h1 class="blog-content__headline">阪急阪神不動産 隅田様・河目様に聞く、<br>DXビジョンの実現に向けたロードマップ作成とビジネスアーキテクチャ整理の重要性</h1>
+      <div class="addtoany_share_save_container addtoany_content addtoany_content_top"><div class="a2a_kit a2a_kit_size_22 addtoany_list" data-a2a-url="https://wealth-park.com/ja/park/hhp/" data-a2a-title="阪急阪神不動産 隅田様・河目様に聞く、DXビジョンの実現に向けたロードマップ作成とビジネスアーキテクチャ整理の重要性"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwealth-park.com%2Fja%2Fpark%2Fhhp%2F&amp;linkname=%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E4%B8%8D%E5%8B%95%E7%94%A3%20%E9%9A%85%E7%94%B0%E6%A7%98%E3%83%BB%E6%B2%B3%E7%9B%AE%E6%A7%98%E3%81%AB%E8%81%9E%E3%81%8F%E3%80%81DX%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%AE%E5%AE%9F%E7%8F%BE%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E3%83%AD%E3%83%BC%E3%83%89%E3%83%9E%E3%83%83%E3%83%97%E4%BD%9C%E6%88%90%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3%E6%95%B4%E7%90%86%E3%81%AE%E9%87%8D%E8%A6%81%E6%80%A7" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwealth-park.com%2Fja%2Fpark%2Fhhp%2F&amp;linkname=%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E4%B8%8D%E5%8B%95%E7%94%A3%20%E9%9A%85%E7%94%B0%E6%A7%98%E3%83%BB%E6%B2%B3%E7%9B%AE%E6%A7%98%E3%81%AB%E8%81%9E%E3%81%8F%E3%80%81DX%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%AE%E5%AE%9F%E7%8F%BE%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E3%83%AD%E3%83%BC%E3%83%89%E3%83%9E%E3%83%83%E3%83%97%E4%BD%9C%E6%88%90%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3%E6%95%B4%E7%90%86%E3%81%AE%E9%87%8D%E8%A6%81%E6%80%A7" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=https%3A%2F%2Fwealth-park.com%2Fja%2Fpark%2Fhhp%2F&amp;linkname=%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E4%B8%8D%E5%8B%95%E7%94%A3%20%E9%9A%85%E7%94%B0%E6%A7%98%E3%83%BB%E6%B2%B3%E7%9B%AE%E6%A7%98%E3%81%AB%E8%81%9E%E3%81%8F%E3%80%81DX%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%AE%E5%AE%9F%E7%8F%BE%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E3%83%AD%E3%83%BC%E3%83%89%E3%83%9E%E3%83%83%E3%83%97%E4%BD%9C%E6%88%90%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3%E6%95%B4%E7%90%86%E3%81%AE%E9%87%8D%E8%A6%81%E6%80%A7" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=https%3A%2F%2Fwealth-park.com%2Fja%2Fpark%2Fhhp%2F&amp;linkname=%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E4%B8%8D%E5%8B%95%E7%94%A3%20%E9%9A%85%E7%94%B0%E6%A7%98%E3%83%BB%E6%B2%B3%E7%9B%AE%E6%A7%98%E3%81%AB%E8%81%9E%E3%81%8F%E3%80%81DX%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%AE%E5%AE%9F%E7%8F%BE%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E3%83%AD%E3%83%BC%E3%83%89%E3%83%9E%E3%83%83%E3%83%97%E4%BD%9C%E6%88%90%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3%E6%95%B4%E7%90%86%E3%81%AE%E9%87%8D%E8%A6%81%E6%80%A7" title="WhatsApp" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fwealth-park.com%2Fja%2Fpark%2Fhhp%2F&amp;linkname=%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E4%B8%8D%E5%8B%95%E7%94%A3%20%E9%9A%85%E7%94%B0%E6%A7%98%E3%83%BB%E6%B2%B3%E7%9B%AE%E6%A7%98%E3%81%AB%E8%81%9E%E3%81%8F%E3%80%81DX%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%AE%E5%AE%9F%E7%8F%BE%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E3%83%AD%E3%83%BC%E3%83%89%E3%83%9E%E3%83%83%E3%83%97%E4%BD%9C%E6%88%90%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3%E6%95%B4%E7%90%86%E3%81%AE%E9%87%8D%E8%A6%81%E6%80%A7" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_hatena" href="https://www.addtoany.com/add_to/hatena?linkurl=https%3A%2F%2Fwealth-park.com%2Fja%2Fpark%2Fhhp%2F&amp;linkname=%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E4%B8%8D%E5%8B%95%E7%94%A3%20%E9%9A%85%E7%94%B0%E6%A7%98%E3%83%BB%E6%B2%B3%E7%9B%AE%E6%A7%98%E3%81%AB%E8%81%9E%E3%81%8F%E3%80%81DX%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%AE%E5%AE%9F%E7%8F%BE%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E3%83%AD%E3%83%BC%E3%83%89%E3%83%9E%E3%83%83%E3%83%97%E4%BD%9C%E6%88%90%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3%E6%95%B4%E7%90%86%E3%81%AE%E9%87%8D%E8%A6%81%E6%80%A7" title="Hatena" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_copy_link" href="https://www.addtoany.com/add_to/copy_link?linkurl=https%3A%2F%2Fwealth-park.com%2Fja%2Fpark%2Fhhp%2F&amp;linkname=%E9%98%AA%E6%80%A5%E9%98%AA%E7%A5%9E%E4%B8%8D%E5%8B%95%E7%94%A3%20%E9%9A%85%E7%94%B0%E6%A7%98%E3%83%BB%E6%B2%B3%E7%9B%AE%E6%A7%98%E3%81%AB%E8%81%9E%E3%81%8F%E3%80%81DX%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%AE%E5%AE%9F%E7%8F%BE%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E3%83%AD%E3%83%BC%E3%83%89%E3%83%9E%E3%83%83%E3%83%97%E4%BD%9C%E6%88%90%E3%81%A8%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3%E6%95%B4%E7%90%86%E3%81%AE%E9%87%8D%E8%A6%81%E6%80%A7" title="Copy Link" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p><span style="font-weight: 400;">WealthPark&#12391;&#12399;&#12300;&#19990;&#12398;&#20013;&#12398;&#19981;&#21205;&#29987;&#20307;&#39443;&#12434;&#12450;&#12483;&#12503;&#12487;&#12540;&#12488;&#12301;&#12377;&#12427;&#12383;&#12417;&#12395;&#19981;&#21205;&#29987;&#26989;&#30028;&#12398;DX&#12434;&#25512;&#36914;&#12290;&#26989;&#21209;&#25903;&#25588;SaaS&#12398;&#25552;&#20379;&#12434;&#12399;&#12376;&#12417;&#12477;&#12501;&#12488;&#12454;&#12455;&#12450;&#12384;&#12369;&#12391;&#35299;&#27770;&#12395;&#33267;&#12425;&#12394;&#12356;&#26412;&#36074;&#30340;&#12394;&#35506;&#38988;&#35299;&#27770;&#12420;&#26032;&#35215;&#20107;&#26989;&#38283;&#30330;&#12434;&#25285;&#12358;DX&#12467;&#12531;&#12469;&#12523;&#12486;&#12451;&#12531;&#12464;&#12469;&#12540;&#12499;&#12473;&#12434;&#25552;&#20379;&#12375;&#12390;&#12356;&#12414;&#12377;&#12290;</span></p>
+<p><span style="font-weight: 400;">&#20170;&#22238;&#12399;&#12289;DX&#12467;&#12531;&#12469;&#12523;&#12486;&#12451;&#12531;&#12464;&#12469;&#12540;&#12499;&#12473;&#12434;&#12372;&#21033;&#29992;&#12356;&#12383;&#12384;&#12356;&#12390;&#12356;&#12427;&#38442;&#24613;&#38442;&#31070;&#19981;&#21205;&#29987;&#12398;&#38533;&#30000;&#27096;&#12539;&#27827;&#30446;&#27096;&#12395;&#12289;&#21516;&#31038;&#12364;&#25522;&#12370;&#12427;DX&#12499;&#12472;&#12519;&#12531;&#12392;&#12381;&#12398;&#19990;&#30028;&#35251;&#12289;&#12469;&#12540;&#12499;&#12473;&#12434;&#21033;&#29992;&#12375;&#12383;&#29575;&#30452;&#12394;&#35413;&#20385;&#12420;&#20170;&#24460;&#26399;&#24453;&#12377;&#12427;&#12371;&#12392;&#12434;&#12362;&#20282;&#12356;&#12375;&#12414;&#12375;&#12383;&#12290;&#31038;&#20869;&#12395;DX&#25512;&#36914;&#37096;&#12364;&#31435;&#12385;&#19978;&#12364;&#12387;&#12383;&#12398;&#12364;2022&#24180;&#12290;&#37096;&#38272;&#35373;&#31435;&#12363;&#12425;4&#24180;&#30446;&#12434;&#36814;&#12360;&#12383;&#20170;&#24180;&#12289;&#26032;&#12383;&#12394;&#25361;&#25126;&#12392;&#12375;&#12390;&#12302;FUTR LABO&#65288;&#12501;&#12517;&#12540;&#12481;&#12515;&#12540;&#12521;&#12508;&#65289;&#12303;&#12364;&#35373;&#31435;&#12373;&#12428;&#12427;&#12394;&#12393;&#12289;&#38442;&#24613;&#38442;&#31070;&#19981;&#21205;&#29987;&#12398;DX&#12399;&#30528;&#23455;&#12395;&#36914;&#21270;&#12434;&#36930;&#12370;&#12390;&#12356;&#12414;&#12377;&#12290;</span></p>
+<p><img decoding="async" class="alignnone size-full wp-image-45955" src="https://wealth-park.com/wp-content/uploads/2025/05/hhp_001.jpg" alt=""></p>
+<blockquote><p>&#12466;&#12473;&#12488;&#12503;&#12525;&#12501;&#12451;&#12540;&#12523;</p>
+<p>&nbsp;</p>
+<p><span style="text-decoration: underline;">&#38442;&#24613;&#38442;&#31070;&#19981;&#21205;&#29987;&#26666;&#24335;&#20250;&#31038; &#32076;&#21942;&#20225;&#30011;&#26412;&#37096; DX&#25512;&#36914;&#37096;&#38263;&#12288;&#38533;&#30000; &#21644;&#21338; &#27096;</span><br>
+1994&#24180;&#38442;&#24613;&#38651;&#37444;&#26666;&#24335;&#20250;&#31038;&#20837;&#31038;&#12290;&#36039;&#37329;&#35519;&#36948;&#25285;&#24403;&#12392;&#12375;&#12390;&#12461;&#12515;&#12522;&#12450;&#12434;&#12473;&#12479;&#12540;&#12488;&#12290;&#32076;&#21942;&#20225;&#30011;&#37096;&#12392;&#12398;&#36899;&#25658;&#12434;&#36890;&#12376;&#12390;&#12501;&#12449;&#12531;&#12489;&#20107;&#26989;&#12420;REIT&#20107;&#26989;&#12398;&#31435;&#12385;&#19978;&#12370;&#12395;&#25658;&#12431;&#12427;&#12290;&#12381;&#12398;&#24460;&#12289;&#38442;&#24613;&#38651;&#37444;&#65288;&#29694;&#22312;&#12398;&#38442;&#24613;&#38442;&#31070;&#12507;&#12540;&#12523;&#12487;&#12451;&#12531;&#12464;&#12473;&#65289;&#12398;&#32076;&#21942;&#20225;&#30011;&#37096;&#12395;&#30064;&#21205;&#12290;2015&#24180;&#12363;&#12425;&#12399;&#19981;&#21205;&#29987;&#20107;&#26989;&#26412;&#37096;&#12395;&#30064;&#21205;&#12375;&#12289;&#19981;&#21205;&#29987;&#20107;&#26989;&#12395;&#12362;&#12369;&#12427;&#25126;&#30053;&#20225;&#30011;&#12395;&#24467;&#20107;&#12375;&#12394;&#12364;&#12425;&#12487;&#12472;&#12479;&#12523;&#21270;&#12398;&#27874;&#12395;&#12418;&#23550;&#24540;&#12290;&#37096;&#38272;&#27178;&#26029;&#12398;&#12503;&#12525;&#12472;&#12455;&#12463;&#12488;&#12434;&#32076;&#12390;2022&#24180;&#12289;&#20986;&#21521;&#20808;&#12398;&#38442;&#24613;&#38442;&#31070;&#19981;&#21205;&#29987;&#12395;&#12390;DX&#25512;&#36914;&#37096;&#12434;&#35373;&#31435;&#12290;2025&#24180;4&#26376;1&#26085;&#12424;&#12426;&#29694;&#32887;&#12290;</p>
+<p>&nbsp;</p>
+<p><span style="text-decoration-line: underline;">&#38442;&#24613;&#38442;&#31070;&#19981;&#21205;&#29987;&#26666;&#24335;&#20250;&#31038; &#32076;&#21942;&#20225;&#30011;&#26412;&#37096; DX&#25512;&#36914;&#37096;&#12288;&#35506;&#38263; &#27827;&#30446; &#28009;&#27193; &#27096;</span><br>
+2003&#24180;&#38442;&#24613;&#38651;&#37444;&#26666;&#24335;&#20250;&#31038;&#20837;&#31038;&#12290;&#19981;&#21205;&#29987;&#37096;&#38272;&#12395;&#37197;&#23646;&#12373;&#12428;&#12289;&#27839;&#32218;&#12398;&#21830;&#26989;&#26045;&#35373;&#31561;&#12398;&#38283;&#30330;&#12395;&#24467;&#20107;&#12290;&#39318;&#37117;&#22287;&#12391;&#12398;&#26032;&#35215;&#38283;&#30330;&#26696;&#20214;&#12394;&#12393;&#12434;&#32076;&#12390;2012&#24180;&#12363;&#12425;3&#24180;&#38291;&#20154;&#20107;&#26989;&#21209;&#12395;&#25658;&#12431;&#12427;&#12290;&#12381;&#12398;&#24460;&#12289;&#37117;&#24066;&#12510;&#12493;&#12472;&#12513;&#12531;&#12488;&#20107;&#26989;&#37096;&#12395;&#12390;&#26757;&#30000;&#12398;&#12456;&#12522;&#12450;&#20385;&#20516;&#21521;&#19978;&#12395;&#21462;&#12426;&#32068;&#12416;&#12290;2022&#24180;&#12363;&#12425;&#12399;DX&#25512;&#36914;&#37096;&#12395;&#25152;&#23646;&#12375;&#12394;&#12364;&#12425;&#12418;&#12473;&#12479;&#12540;&#12488;&#12450;&#12483;&#12503;&#12392;&#12398;&#21332;&#26989;&#12418;&#32153;&#32154;&#12375;&#12390;&#25285;&#24403;&#12375;&#12390;&#12356;&#12427;&#12290;</p></blockquote>
+<blockquote><p>&#12452;&#12531;&#12479;&#12499;&#12517;&#12450;&#12540;&#12503;&#12525;&#12501;&#12451;&#12540;&#12523;</p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;"><span style="text-decoration: underline;">WealthPark&#26666;&#24335;&#20250;&#31038; &#20195;&#34920;&#21462;&#32224;&#24441; COO&#12288;&#25163;&#22618; &#20581;&#20171;</span><br>
+</span><span style="font-weight: 400;">&#23500;&#22763;&#12501;&#12452;&#12523;&#12512;&#26666;&#24335;&#20250;&#31038;&#12539;&#27005;&#22825;&#26666;&#24335;&#20250;&#31038;&#12434;&#32076;&#12390;&#12289;2015&#24180;&#12395;WealthPark&#26666;&#24335;&#20250;&#31038;&#12395;&#20837;&#31038;&#12290;&#20154;&#20107;&#37096;&#12398;&#31435;&#19978;&#12370;&#12289;SaaS&#20107;&#26989;&#12362;&#12424;&#12403;DX&#12467;&#12531;&#12469;&#12523;&#12486;&#12451;&#12531;&#12464;&#20107;&#26989;&#12398;&#31435;&#19978;&#12370;&#12539;&#20107;&#26989;&#36939;&#21942;&#12394;&#12393;&#24133;&#24195;&#12356;&#26989;&#21209;&#12395;&#25658;&#12431;&#12427;&#12290;2020&#24180;7&#26376;&#12395;&#21462;&#32224;&#24441;CBO&#65288;Chief Business Officer&#65289;&#12289;2023&#24180;11&#26376;&#12424;&#12426;&#29694;&#32887;&#12290;</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;"><span style="text-decoration: underline;"> WealthPark&#26666;&#24335;&#20250;&#31038; &#22519;&#34892;&#24441;&#21729; DX&#12467;&#12531;&#12469;&#12523;&#12486;&#12451;&#12531;&#12464;&#20107;&#26989;&#37096; &#20107;&#26989;&#37096;&#38263;&#12288;&#26449;&#19978; &#26397;&#19968;</span><br>
+&#12450;&#12463;&#12475;&#12531;&#12481;&#12517;&#12450;&#12289;&#12464;&#12521;&#12463;&#12477;&#12539;&#12473;&#12511;&#12473;&#12463;&#12521;&#12452;&#12531;&#12289;&#12477;&#12501;&#12488;&#12496;&#12531;&#12463;&#12525;&#12508;&#12486;&#12451;&#12463;&#12473;&#12395;&#12390;&#12289;&#20107;&#26989;&#25126;&#30053;&#12289;&#26989;&#21209;&#25913;&#38761;&#12289;&#12471;&#12473;&#12486;&#12512;&#20225;&#30011;/&#36939;&#29992;&#12394;&#12393;&#12395;&#24467;&#20107;&#12290;WealthPark&#12391;&#12399;&#20107;&#26989;&#22793;&#38761;&#25903;&#25588;&#12469;&#12540;&#12499;&#12473;&#12398;&#36012;&#20219;&#32773;&#12392;&#12375;&#12390;&#12289;&#26032;&#35215;&#20107;&#26989;&#38283;&#30330;&#12289;&#12487;&#12540;&#12479;&#12489;&#12522;&#12502;&#12531;&#32076;&#21942;&#12289;&#26989;&#21209;&#25913;&#38761;&#12289;&#12471;&#12473;&#12486;&#12512;&#21047;&#26032;&#12394;&#12393;&#12434;&#25903;&#25588;&#12290;</span></p></blockquote>
+<section class="toc"><p class="toc__title">&#30446;&#27425;</p><ul class="toc__list"><li class="toc__item"><a class="toc__link" href="#toc_index1">DX&#25512;&#36914;&#37096;&#12364;&#31435;&#12385;&#19978;&#12364;&#12427;&#12414;&#12391;</a><ul class="toc__list--child"></ul></li><li class="toc__item"><a class="toc__link" href="#toc_index2">DX&#12499;&#12472;&#12519;&#12531;&#12392;&#21021;&#26399;&#12398;&#35506;&#38988;&#24863;</a><ul class="toc__list--child"></ul></li><li class="toc__item"><a class="toc__link" href="#toc_index3">&#12499;&#12472;&#12493;&#12473;&#12450;&#12540;&#12461;&#12486;&#12463;&#12481;&#12515;&#12398;&#25972;&#29702;&#12392;&#29702;&#35299;</a><ul class="toc__list--child"></ul></li><li class="toc__item"><a class="toc__link" href="#toc_index4">&#33509;&#25163;&#31038;&#21729;&#20027;&#23566;&#12391;&#29983;&#12414;&#12428;&#12383;&#12300;FUTR LABO&#12301;</a><ul class="toc__list--child"></ul></li><li class="toc__item"><a class="toc__link" href="#toc_index5">&#19981;&#21205;&#29987;&times;DX&#12384;&#12363;&#12425;&#12371;&#12381;&#25552;&#20379;&#12391;&#12365;&#12427;&#20385;&#20516;</a><ul class="toc__list--child"></ul></li></ul></section><h2><span id="toc_index1">DX&#25512;&#36914;&#37096;&#12364;&#31435;&#12385;&#19978;&#12364;&#12427;&#12414;&#12391;</span></h2>
+<p><span style="font-weight: 400;"><span style="color: #0000ff;">&#25163;&#22618;</span>&#65306;</span><span style="font-weight: 400;">&#26412;&#26085;&#12399;&#12362;&#26178;&#38291;&#12354;&#12426;&#12364;&#12392;&#12358;&#12372;&#12374;&#12356;&#12414;&#12377;&#12290;&#12414;&#12378;&#12289;&#38533;&#30000;&#27096;&#12539;&#27827;&#30446;&#27096;&#12398;&#12372;&#32076;&#27508;&#12392;&#29694;&#22312;&#12372;&#25285;&#24403;&#12373;&#12428;&#12390;&#12356;&#12425;&#12387;&#12375;&#12419;&#12427;&#26989;&#21209;&#12395;&#38306;&#12375;&#12390;&#12372;&#32057;&#20171;&#12356;&#12383;&#12384;&#12369;&#12414;&#12377;&#12391;&#12375;&#12423;&#12358;&#12363;&#12290;</span></p>
+<p><img decoding="async" class="alignnone size-full wp-image-45955" src="https://wealth-park.com/wp-content/uploads/2025/05/hhp_002.jpg" alt=""></p>
+<p><span style="font-weight: 400;"><span style="color: #993366;">&#38533;&#30000;&#27096;</span>&#65306;</span>&#12424;&#12429;&#12375;&#12367;&#12362;&#39000;&#12356;&#12356;&#12383;&#12375;&#12414;&#12377;&#12290;&#31169;&#12399;1994&#24180;&#12395;&#20837;&#31038;&#12375;&#12414;&#12375;&#12383;&#12290;&#20837;&#31038;&#26178;&#12399;&#36039;&#37329;&#35519;&#36948;&#12434;&#25285;&#24403;&#12375;&#12289;&#37504;&#34892;&#20132;&#28169;&#12420;IR&#21608;&#36794;&#12395;&#38306;&#12431;&#12387;&#12390;&#12414;&#12356;&#12426;&#12414;&#12375;&#12383;&#12290;&#32076;&#21942;&#20225;&#30011;&#37096;&#12392;&#12398;&#36899;&#25658;&#12418;&#22810;&#12367;&#12289;&#12501;&#12449;&#12531;&#12489;&#20107;&#26989;&#12420;REIT&#20107;&#26989;&#12398;&#31435;&#12385;&#19978;&#12370;&#12395;&#12418;&#25658;&#12431;&#12426;&#12414;&#12375;&#12383;&#12290;2015&#24180;&#12363;&#12425;&#12399;&#19981;&#21205;&#29987;&#37096;&#38272;&#12398;&#32076;&#21942;&#20225;&#30011;&#12434;&#25285;&#24403;&#12290;&#33258;&#31038;&#21336;&#29420;&#12398;&#21462;&#32068;&#12415;&#12363;&#12425;&#22806;&#37096;&#12392;&#12398;&#21332;&#35696;&#12434;&#37325;&#12397;&#12394;&#12364;&#12425;&#20385;&#20516;&#12434;&#29983;&#12415;&#20986;&#12375;&#12390;&#12356;&#12367;&#21205;&#12365;&#12408;&#12392;&#22793;&#38761;&#12434;&#36914;&#12417;&#12390;&#12356;&#12365;&#12414;&#12375;&#12383;&#12290;&#12381;&#12435;&#12394;&#20013;&#12289;&#19981;&#21205;&#29987;&#20107;&#26989;&#12395;&#12418;&#12487;&#12472;&#12479;&#12523;&#21270;&#12398;&#27874;&#12364;&#25276;&#12375;&#23492;&#12379;&#12390;&#12365;&#12414;&#12377;&#12290;&#24403;&#21021;&#12399;&#37096;&#38272;&#27178;&#26029;&#12398;&#12503;&#12525;&#12472;&#12455;&#12463;&#12488;&#12391;&#23550;&#24540;&#12375;&#12390;&#12356;&#12383;&#12398;&#12391;&#12377;&#12364;&#12289;&#26412;&#26684;&#30340;&#12395;&#21462;&#12426;&#32068;&#12416;&#24517;&#35201;&#12364;&#12354;&#12427;&#12392;&#32076;&#21942;&#38499;&#12418;&#21028;&#26029;&#12375;&#12289;2022&#24180;&#12395;DX&#25512;&#36914;&#37096;&#12434;&#31435;&#12385;&#19978;&#12370;&#12427;&#12395;&#33267;&#12426;&#12414;&#12375;&#12383;&#12290;</p>
+<p>&#20181;&#20107;&#12398;&#19978;&#12391;&#37325;&#35222;&#12375;&#12390;&#12356;&#12427;&#12371;&#12392;&#12399;2&#12388;&#12354;&#12426;&#12414;&#12377;&#12290;1&#12388;&#12399;&#12471;&#12490;&#12472;&#12540;&#12398;&#30330;&#25582;&#12391;&#12377;&#12290;&#19981;&#21205;&#29987;&#20107;&#26989;&#12391;&#12399;&#35079;&#21512;&#38283;&#30330;&#12364;&#20013;&#24515;&#12392;&#12394;&#12426;&#12289;&#24467;&#26469;&#12398;&#12424;&#12358;&#12395;&#36035;&#36024;&#12399;&#36035;&#36024;&#12289;&#20998;&#35698;&#12399;&#20998;&#35698;&#12392;&#12356;&#12387;&#12383;&#32294;&#21106;&#12426;&#12391;&#12399;&#12394;&#12367;&#27178;&#26029;&#12391;&#20225;&#30011;&#12434;&#32771;&#12360;&#12427;&#24517;&#35201;&#12364;&#12354;&#12426;&#12414;&#12377;&#12290;&#12487;&#12472;&#12479;&#12523;&#21270;&#12395;&#12362;&#12356;&#12390;&#12399;&#29305;&#12395;&#12381;&#12398;&#20670;&#21521;&#12364;&#24375;&#12367;&#12289;&#21508;&#37096;&#38272;&#12398;&#23554;&#38272;&#24615;&#12434;&#32113;&#21512;&#12375;&#12394;&#12364;&#12425;&#36899;&#25658;&#12434;&#36914;&#12417;&#12390;&#12356;&#12414;&#12377;&#12290;&#12418;&#12358;1&#12388;&#12399;&#24120;&#12395;&#22793;&#38761;&#12375;&#32154;&#12369;&#12427;&#12371;&#12392;&#12290;&#12487;&#12472;&#12479;&#12523;&#21270;&#12364;&#36914;&#12416;&#20013;&#12289;&#38442;&#24613;&#38442;&#31070;&#19981;&#21205;&#29987;&#12398;&#20107;&#26989;&#12395;&#12362;&#12356;&#12390;&#12418;&#12381;&#12398;&#21069;&#25552;&#26465;&#20214;&#12364;&#22793;&#12431;&#12426;&#12388;&#12388;&#12354;&#12426;&#12414;&#12377;&#12290;&#29305;&#12395;&#12467;&#12525;&#12490;&#31117;&#12434;&#25375;&#12435;&#12391;&#22793;&#23481;&#12434;&#36930;&#12370;&#12383;&#20685;&#12365;&#26041;&#12289;&#26286;&#12425;&#12375;&#12406;&#12426;&#12394;&#12393;&#12398;&#29983;&#27963;&#12473;&#12479;&#12452;&#12523;&#12289;&#12373;&#12425;&#12395;&#39015;&#23458;&#12491;&#12540;&#12474;&#12398;&#39640;&#24230;&#21270;&#12539;&#20491;&#21029;&#21270;&#12408;&#12398;&#23550;&#24540;&#12399;&#20107;&#26989;&#31478;&#20105;&#21147;&#12395;&#12418;&#30452;&#32080;&#12377;&#12427;&#22823;&#12365;&#12394;&#35506;&#38988;&#12391;&#12377;&#12290;&#12388;&#12414;&#12426;&#24467;&#26469;&#12398;&#12424;&#12358;&#12395;&#12495;&#12540;&#12489;&#12434;&#12388;&#12367;&#12427;&#12398;&#12415;&#12391;&#12399;&#12394;&#12367;&#12289;&#19981;&#21205;&#29987;&#12499;&#12472;&#12493;&#12473;&#12398;&#12469;&#12540;&#12499;&#12473;&#12398;&#23450;&#32681;&#12381;&#12398;&#12418;&#12398;&#12434;&#26360;&#12365;&#25563;&#12360;&#12427;&#24517;&#35201;&#12364;&#12354;&#12427;&#12290;DX&#25126;&#30053;&#21547;&#12417;&#12390;&#24467;&#26469;&#12398;&#26528;&#12395;&#12392;&#12425;&#12431;&#12428;&#12394;&#12356;&#21462;&#12426;&#32068;&#12415;&#12434;&#25512;&#36914;&#12377;&#12409;&#12365;&#12384;&#12392;&#32771;&#12360;&#12390;&#12356;&#12414;&#12377;&#12290;</p>
+<p><span style="font-weight: 400;"><span style="color: #339966;">&#27827;&#30446;&#27096;</span>&#65306;</span>&#31169;&#12399;&#19981;&#21205;&#29987;&#37096;&#38272;&#12391;&#12461;&#12515;&#12522;&#12450;&#12434;&#12473;&#12479;&#12540;&#12488;&#12373;&#12379;&#12414;&#12375;&#12383;&#12290;&#27839;&#32218;&#12420;&#26757;&#30000;&#12456;&#12522;&#12450;&#12391;&#12398;&#21830;&#26989;&#26045;&#35373;&#12398;&#38283;&#30330;&#31561;&#12395;&#25658;&#12431;&#12426;&#12289;&#12381;&#12398;&#24460;6&#24180;&#12411;&#12393;&#39318;&#37117;&#22287;&#12398;&#26032;&#35215;&#38283;&#30330;&#26696;&#20214;&#12434;&#25163;&#12364;&#12369;&#12383;&#12398;&#12385;&#12289;2012&#24180;&#12395;&#22823;&#38442;&#12395;&#25147;&#12426;&#12414;&#12377;&#12290;&#20154;&#20107;&#37096;&#38272;&#12391;&#12398;3&#24180;&#38291;&#12398;&#32076;&#39443;&#12434;&#32076;&#12390;&#12289;&#20877;&#12403;&#37117;&#24066;&#12510;&#12493;&#12472;&#12513;&#12531;&#12488;&#20107;&#26989;&#37096;&#12395;&#12390;&#26757;&#30000;&#12398;&#12456;&#12522;&#12450;&#20385;&#20516;&#21521;&#19978;&#12395;&#21462;&#12426;&#32068;&#12415;&#12414;&#12375;&#12383;&#12290;&#12414;&#12383;&#12473;&#12479;&#12540;&#12488;&#12450;&#12483;&#12503;&#12398;&#12456;&#12467;&#12471;&#12473;&#12486;&#12512;&#12434;&#25285;&#24403;&#12375;&#12289;FUTRWORKS&#12398;&#21069;&#36523;&#12391;&#12354;&#12427;&#12467;&#12511;&#12517;&#12491;&#12486;&#12451;&#12473;&#12506;&#12540;&#12473;&#12434;&#36939;&#21942;&#12290;2022&#24180;&#12363;&#12425;DX&#25512;&#36914;&#37096;&#12395;&#25152;&#23646;&#12377;&#12427;&#12392;&#21516;&#26178;&#12395;&#12473;&#12479;&#12540;&#12488;&#12450;&#12483;&#12503;&#12392;&#12398;&#21332;&#26989;&#12418;&#32153;&#32154;&#12375;&#12390;&#25285;&#24403;&#12375;&#12390;&#12356;&#12414;&#12377;&#12290;</p>
+<p><span style="font-weight: 400;"><span style="color: #333399;">&#26449;&#19978;</span>&#65306;</span>&#12354;&#12426;&#12364;&#12392;&#12358;&#12372;&#12374;&#12356;&#12414;&#12377;&#12290;&#38533;&#30000;&#27096;&#12398;&#36899;&#25658;&#12420;&#22793;&#38761;&#12392;&#12356;&#12387;&#12383;&#12362;&#35441;&#12289;&#12414;&#12383;&#27827;&#30446;&#27096;&#12398;&#37117;&#24066;&#12510;&#12493;&#12472;&#12513;&#12531;&#12488;&#12398;&#21462;&#12426;&#32068;&#12415;&#12289;&#12356;&#12378;&#12428;&#12418;&#12356;&#12414;&#12398;DX&#25512;&#36914;&#37096;&#12395;&#33032;&#12293;&#12392;&#27969;&#12428;&#12427;&#12473;&#12488;&#12540;&#12522;&#12540;&#12434;&#24863;&#12376;&#12414;&#12377;&#12290;</p>
+<h2><span id="toc_index2">DX&#12499;&#12472;&#12519;&#12531;&#12392;&#21021;&#26399;&#12398;&#35506;&#38988;&#24863;</span></h2>
+<p><span style="font-weight: 400;"><span style="color: #333399;">&#26449;&#19978;</span>&#65306;</span>&#12381;&#12428;&#12391;&#12399;&#26412;&#38988;&#12395;&#31227;&#12425;&#12379;&#12390;&#12356;&#12383;&#12384;&#12365;&#12414;&#12377;&#12290;&#12414;&#12378;&#12399;&#24481;&#31038;&#12364;&#31574;&#23450;&#12373;&#12428;&#12383;DX&#12499;&#12472;&#12519;&#12531;&#12395;&#12388;&#12356;&#12390;&#12372;&#32057;&#20171;&#12356;&#12383;&#12384;&#12369;&#12414;&#12377;&#12391;&#12375;&#12423;&#12358;&#12363;&#65311;</p>
+<p><span style="font-weight: 400;"><span style="color: #993366;">&#38533;&#30000;&#27096;</span>&#65306;</span>DX&#25512;&#36914;&#37096;&#12434;&#31435;&#12385;&#19978;&#12370;&#12383;&#21021;&#24180;&#24230;&#65288;2022&#24180;&#24230;&#65289;&#12399;&#12381;&#12418;&#12381;&#12418;DX&#12392;&#12356;&#12358;&#35328;&#33865;&#12398;&#23450;&#32681;&#12364;&#12513;&#12531;&#12496;&#12540;&#38291;&#12391;&#25539;&#12387;&#12390;&#12356;&#12414;&#12379;&#12435;&#12391;&#12375;&#12383;&#12290;&#12381;&#12371;&#12391;&#12414;&#12378;&#12399;DX&#12387;&#12390;&#12394;&#12435;&#12384;&#65311;&#12392;&#12356;&#12358;&#20385;&#20516;&#35251;&#12398;&#32113;&#19968;&#12434;&#22259;&#12427;&#12383;&#12417;&#12289;&#19968;&#24180;&#12363;&#12369;&#12390;&#31574;&#23450;&#12375;&#12383;&#12398;&#12364;DX&#12499;&#12472;&#12519;&#12531;&#12391;&#12377;&#12290;&#26681;&#24213;&#12395;&#12354;&#12427;&#12398;&#12399;&#12300;100&#24180;&#12414;&#12385;&#12434;&#21109;&#12387;&#12390;&#12365;&#12383;&#12288;&#12288;&#12371;&#12428;&#12363;&#12425;&#12398;100&#24180;&#12418;&#21109;&#12427;&#12301;&#12392;&#12356;&#12358;2018&#24180;&#12398;&#38442;&#24613;&#38442;&#31070;&#19981;&#21205;&#29987;&#30330;&#36275;&#26178;&#12395;&#25522;&#12370;&#12383;&#20225;&#26989;&#12473;&#12525;&#12540;&#12460;&#12531;&#12290;&#12371;&#12428;&#12434;&#23455;&#29694;&#12377;&#12427;&#12383;&#12417;&#12395;&#12487;&#12472;&#12479;&#12523;&#25216;&#34899;&#12434;&#27963;&#29992;&#12375;&#12289;&#20107;&#26989;&#12420;&#12499;&#12472;&#12493;&#12473;&#12514;&#12487;&#12523;&#12434;&#22793;&#38761;&#12375;&#32154;&#12369;&#12427;&#32207;&#21512;&#12487;&#12505;&#12525;&#12483;&#12497;&#12540;&#12434;&#30446;&#25351;&#12377;&#12392;&#12356;&#12358;&#26071;&#12434;&#25522;&#12370;&#12414;&#12375;&#12383;&#12290;</p>
+<p><span style="font-weight: 400;"><span style="color: #333399;">&#26449;&#19978;</span>&#65306;</span>&#12414;&#12373;&#12395;&#20225;&#26989;&#29702;&#24565;&#12395;&#32016;&#12389;&#12356;&#12383;DX&#12499;&#12472;&#12519;&#12531;&#12384;&#12392;&#24605;&#12356;&#12414;&#12377;&#12290;&#12383;&#12384;&#24481;&#31038;&#12398;&#22580;&#21512;&#12289;&#19981;&#21205;&#29987;&#12384;&#12369;&#12391;&#12394;&#12367;&#21608;&#36794;&#12398;&#12504;&#12523;&#12473;&#12465;&#12450;&#12394;&#12393;&#12418;&#21547;&#12417;&#12383;&#12473;&#12465;&#12540;&#12523;&#24863;&#12398;&#12354;&#12427;&#12414;&#12385;&#12389;&#12367;&#12426;&#12434;&#25522;&#12370;&#12390;&#12356;&#12425;&#12387;&#12375;&#12419;&#12356;&#12414;&#12377;&#12424;&#12397;&#12290;&#22823;&#12365;&#12394;&#12499;&#12472;&#12519;&#12531;&#12434;&#20855;&#20307;&#30340;&#12395;&#33853;&#12392;&#12375;&#36796;&#12416;&#38555;&#12398;&#35506;&#38988;&#12399;&#12354;&#12426;&#12414;&#12379;&#12435;&#12391;&#12375;&#12383;&#12363;&#65311;</p>
+<p><span style="font-weight: 400;"><span style="color: #993366;">&#38533;&#30000;&#27096;</span>&#65306;</span>&#12418;&#12385;&#12429;&#12435;&#12354;&#12426;&#12414;&#12375;&#12383;&#12290;&#12385;&#12423;&#12358;&#12393;&#12372;&#30456;&#35527;&#12375;&#12383;&#38915;&#12399;&#12289;DX&#12499;&#12472;&#12519;&#12531;&#12434;&#25551;&#12356;&#12390;&#12399;&#12356;&#12427;&#12418;&#12398;&#12398;&#12289;&#12394;&#12363;&#12394;&#12363;&#26045;&#31574;&#12395;&#33853;&#12385;&#12390;&#12356;&#12363;&#12394;&#12356;&#12392;&#12356;&#12358;&#35506;&#38988;&#12434;&#25265;&#12360;&#12390;&#12356;&#12414;&#12375;&#12383;&#12290;&#22766;&#22823;&#12394;&#30446;&#27161;&#12392;&#36275;&#20803;&#12398;&#21462;&#12426;&#32068;&#12415;&#12434;&#12393;&#12358;&#32331;&#12356;&#12391;&#12356;&#12367;&#12409;&#12365;&#12363;&#12290;&#12381;&#12398;&#12383;&#12417;&#12395;&#26368;&#21069;&#32218;&#12391;DX&#12395;&#21462;&#12426;&#32068;&#12435;&#12391;&#12356;&#12427;&#26041;&#12392;&#12487;&#12451;&#12473;&#12459;&#12483;&#12471;&#12519;&#12531;&#12398;&#22580;&#12434;&#35373;&#12369;&#12390;&#12411;&#12375;&#12356;&#12289;&#12392;&#25163;&#22618;&#27096;&#12395;&#12362;&#39000;&#12356;&#12375;&#12383;&#12398;&#12364;&#26368;&#21021;&#12391;&#12375;&#12383;&#12290;</p>
+<p><img decoding="async" class="alignnone size-full wp-image-45955" src="https://wealth-park.com/wp-content/uploads/2025/05/hhp_003.jpg" alt=""></p>
+<p><span style="font-weight: 400;"><span style="color: #339966;">&#27827;&#30446;&#27096;</span>&#65306;</span>&#12354;&#12398;&#12392;&#12365;&#12395;&#25163;&#22618;&#27096;&#12363;&#12425;&#20808;&#36914;&#20107;&#20363;&#12434;&#12372;&#32057;&#20171;&#12356;&#12383;&#12384;&#12356;&#12383;&#12371;&#12392;&#12391;&#12289;&#12415;&#12435;&#12394;&#12398;&#12473;&#12452;&#12483;&#12481;&#12364;&#20837;&#12387;&#12383;&#27671;&#12364;&#12375;&#12414;&#12377;&#12290;&#23455;&#38555;&#12395;DX&#12525;&#12540;&#12489;&#12510;&#12483;&#12503;&#12434;&#25551;&#12367;&#12392;&#12371;&#12429;&#12414;&#12391;&#12372;&#25903;&#25588;&#12356;&#12383;&#12384;&#12365;&#12289;&#26989;&#21209;DX&#12289;&#20107;&#26989;DX&#12289;&#20385;&#20516;DX&#12392;&#27573;&#38542;&#12434;&#12354;&#12370;&#12390;&#12356;&#12367;&#12452;&#12513;&#12540;&#12472;&#12434;&#25265;&#12367;&#12371;&#12392;&#12364;&#12391;&#12365;&#12414;&#12375;&#12383;&#12290;&#21516;&#26178;&#12395;&#32068;&#32340;&#12392;&#12375;&#12390;&#12398;&#12487;&#12472;&#12479;&#12523;&#12522;&#12486;&#12521;&#12471;&#12540;&#12434;&#12502;&#12521;&#12483;&#12471;&#12517;&#12450;&#12483;&#12503;&#12375;&#12390;&#12356;&#12363;&#12394;&#12369;&#12428;&#12400;&#12289;&#22823;&#12365;&#12394;DX&#12499;&#12472;&#12519;&#12531;&#12434;&#12356;&#12365;&#12394;&#12426;&#23455;&#29694;&#12377;&#12427;&#12371;&#12392;&#12399;&#19981;&#21487;&#33021;&#12384;&#12429;&#12358;&#12392;&#12356;&#12358;&#35469;&#35672;&#12418;&#25345;&#12390;&#12414;&#12375;&#12383;&#12290;</p>
+<p><span style="font-weight: 400;"><span style="color: #0000ff;">&#25163;&#22618;</span>&#65306;</span>&#22766;&#22823;&#12394;&#12499;&#12472;&#12519;&#12531;&#12364;&#12354;&#12426;&#12394;&#12364;&#12425;&#12510;&#12493;&#12472;&#12513;&#12531;&#12488;&#12398;&#26041;&#12293;&#12364;&#12356;&#12414;&#12402;&#12392;&#12388;&#29694;&#23455;&#24863;&#12364;&#25345;&#12390;&#12394;&#12363;&#12387;&#12383;&#12398;&#12364;&#35506;&#38988;&#12391;&#12375;&#12383;&#12397;&#12290;</p>
+<p><span style="font-weight: 400;"><span style="color: #993366;">&#38533;&#30000;&#27096;</span>&#65306;</span> DX&#12499;&#12472;&#12519;&#12531;&#12398;&#23455;&#29694;&#12395;&#12424;&#12387;&#12390;&#12300;&#20685;&#12365;&#12383;&#12356;&#12539;&#35370;&#12428;&#12383;&#12356;&#12539;&#26286;&#12425;&#12375;&#12383;&#12356;&#12414;&#12385;&#12301;&#12434;&#12388;&#12367;&#12427;&#12392;&#12356;&#12358;&#27083;&#24819;&#33258;&#20307;&#12399;&#12499;&#12472;&#12519;&#12531;&#31574;&#23450;&#26178;&#12395;&#21512;&#24847;&#12391;&#12365;&#12390;&#12356;&#12383;&#12435;&#12391;&#12377;&#12290;&#12383;&#12384;&#12289;&#12381;&#12398;&#36947;&#31563;&#12434;&#12388;&#12367;&#12427;&#24517;&#35201;&#24615;&#12395;&#12388;&#12356;&#12390;&#32068;&#32340;&#12524;&#12505;&#12523;&#12395;&#12414;&#12391;&#33853;&#12392;&#12375;&#36796;&#12417;&#12390;&#12356;&#12414;&#12379;&#12435;&#12391;&#12375;&#12383;&#12290;&#12371;&#12371;&#12398;&#35469;&#35672;&#12364;&#12391;&#12365;&#12383;&#12371;&#12392;&#12395;&#12424;&#12426;&#12289;&#20170;&#24460;&#12399;&#12381;&#12398;&#36947;&#31563;&#12434;&#30528;&#23455;&#12395;&#27497;&#12435;&#12391;&#12356;&#12371;&#12358;&#12392;&#12290;&#12487;&#12472;&#12479;&#12523;&#12434;&#27963;&#29992;&#12375;&#12388;&#12388;&#20808;&#36948;&#12424;&#12426;&#32153;&#25215;&#12375;&#12390;&#12365;&#12383;&#20107;&#26989;&#12494;&#12454;&#12495;&#12454;&#12362;&#12424;&#12403;&#12469;&#12540;&#12499;&#12473;&#12408;&#12398;&#20449;&#38972;&#24863;&#12434;&#12505;&#12540;&#12473;&#12395;&#12289;&#12473;&#12479;&#12540;&#12488;&#12450;&#12483;&#12503;&#12420;&#20182;&#31038;&#12373;&#12435;&#12392;&#12418;&#36899;&#25658;&#12375;&#12394;&#12364;&#12425;&#12362;&#23458;&#27096;&#12395;&#26032;&#12383;&#12394;&#20385;&#20516;&#12434;&#25552;&#20379;&#12375;&#12390;&#12356;&#12367;&#12371;&#12392;&#12434;&#30446;&#25351;&#12375;&#12390;&#12356;&#12414;&#12377;&#12290;</p>
+<h2><span id="toc_index3">&#12499;&#12472;&#12493;&#12473;&#12450;&#12540;&#12461;&#12486;&#12463;&#12481;&#12515;&#12398;&#25972;&#29702;&#12392;&#29702;&#35299;</span></h2>
+<p><span style="font-weight: 400;"><span style="color: #0000ff;">&#26449;&#19978;</span>&#65306;</span>&#23455;&#21209;&#38754;&#12391;&#12399;&#12377;&#12391;&#12395;&#12487;&#12540;&#12479;&#22522;&#30436;&#12398;&#25972;&#20633;&#12434;&#12399;&#12376;&#12417;&#12289;&#29694;&#22580;&#21508;&#25152;&#12391;&#12398;&#21462;&#12426;&#32068;&#12415;&#12364;&#12399;&#12376;&#12414;&#12387;&#12390;&#12356;&#12414;&#12377;&#12290;&#30446;&#19979;&#12398;&#12486;&#12540;&#12510;&#12392;&#12375;&#12390;&#12399;&#12371;&#12428;&#12425;&#12398;&#21462;&#12426;&#32068;&#12415;&#12364;DX&#12499;&#12472;&#12519;&#12531;&#12395;&#12393;&#12358;&#12388;&#12394;&#12364;&#12387;&#12390;&#12356;&#12367;&#12398;&#12363;&#12290;&#12525;&#12540;&#12489;&#12510;&#12483;&#12503;&#12398;&#30331;&#12426;&#26041;&#12364;&#37325;&#35201;&#12394;&#12398;&#12391;&#12399;&#12289;&#12392;&#24605;&#12356;&#12414;&#12377;&#12364;&hellip;&hellip;&#12290;</p>
+<p><span style="font-weight: 400;"><span style="color: #993366;">&#38533;&#30000;&#27096;</span>&#65306;</span>&#12362;&#12387;&#12375;&#12419;&#12427;&#12392;&#12362;&#12426;&#12391;&#12377;&#12290;DX&#12392;&#12356;&#12358;&#12371;&#12392;&#12391;&#12388;&#12356;&#29694;&#29366;&#12398;&#12471;&#12473;&#12486;&#12512;&#12398;&#12487;&#12540;&#12479;&#27083;&#36896;&#12363;&#12425;&#12398;&#12508;&#12488;&#12512;&#12450;&#12483;&#12503;&#24605;&#32771;&#12395;&#12394;&#12426;&#12364;&#12385;&#12394;&#12435;&#12391;&#12377;&#12364;&#12289;&#12381;&#12428;&#12391;&#12399;&#32076;&#21942;&#23652;&#12392;&#35696;&#35542;&#12364;&#22107;&#12415;&#21512;&#12431;&#12394;&#12356;&#12435;&#12391;&#12377;&#12397;&#12290;&#12394;&#12380;&#12363;&#12392;&#12356;&#12358;&#12392;&#12289;&#12487;&#12472;&#12479;&#12523;&#12398;&#25163;&#21069;&#12398;&#12381;&#12418;&#12381;&#12418;&#35542;&#12392;&#12375;&#12390;&#12499;&#12472;&#12493;&#12473;&#12450;&#12540;&#12461;&#12486;&#12463;&#12481;&#12515;&#65288;&#8251;&#65289;&#12398;&#25972;&#29702;&#12364;&#19981;&#21313;&#20998;&#12384;&#12387;&#12383;&#12363;&#12425;&#12290;&#24481;&#31038;&#12395;&#12372;&#21332;&#21147;&#12356;&#12383;&#12384;&#12365;&#25104;&#21151;&#20107;&#20363;&#12392;&#29694;&#29366;&#12398;&#24046;&#20998;&#12434;&#35211;&#12427;&#12371;&#12392;&#12391;&#12289;&#12381;&#12398;&#35222;&#28857;&#12364;&#27424;&#12369;&#12390;&#12356;&#12427;&#12371;&#12392;&#12395;&#12354;&#12425;&#12383;&#12417;&#12390;&#27671;&#12389;&#12369;&#12414;&#12375;&#12383;&#12290;</p>
+<p>&#12487;&#12472;&#12479;&#12523;&#38936;&#22495;&#12363;&#12425;&#28145;&#12417;&#12390;&#12356;&#12367;&#12371;&#12392;&#12399;&#24517;&#35201;&#12394;&#12435;&#12391;&#12377;&#12364;&#12289;&#12381;&#12428;&#12391;&#12399;&#32076;&#21942;&#23652;&#12364;&#30446;&#25351;&#12375;&#12390;&#12356;&#12427;&#12418;&#12398;&#12392;&#12393;&#12358;&#12388;&#12394;&#12364;&#12427;&#12398;&#12363;&#12289;&#12392;&#12356;&#12358;&#23550;&#35441;&#12395;&#12399;&#12394;&#12426;&#12395;&#12367;&#12356;&#12290;&#12354;&#12425;&#12383;&#12417;&#12390;&#12499;&#12472;&#12493;&#12473;&#12450;&#12540;&#12461;&#12486;&#12463;&#12481;&#12515;&#12434;&#25972;&#29702;&#12375;&#12383;&#19978;&#12391;&#12289;&#12431;&#12428;&#12431;&#12428;&#12364;&#12420;&#12426;&#12383;&#12356;&#12371;&#12392;&#12392;&#39015;&#23458;&#20385;&#20516;&#25552;&#20379;&#12364;&#20001;&#31435;&#12377;&#12427;&#21487;&#33021;&#24615;&#12434;&#25506;&#12426;&#12289;&#12381;&#12428;&#12434;&#12487;&#12472;&#12479;&#12523;&#12398;&#19990;&#30028;&#12395;&#33853;&#12392;&#12377;&#12450;&#12503;&#12525;&#12540;&#12481;&#12364;&#24517;&#35201;&#12384;&#12392;&#12356;&#12358;&#12371;&#12392;&#12434;&#23455;&#24863;&#12375;&#12414;&#12375;&#12383;&#12290;</p>
+<p><span style="font-weight: 400;"><span style="color: #339966;">&#27827;&#30446;&#27096;</span>&#65306;</span>&#12414;&#12373;&#12395;DX&#12391;&#12356;&#12358;&#12392;&#12371;&#12429;&#12398;&#12300;&#12487;&#12472;&#12479;&#12523;&#12301;&#12392;&#12300;&#12488;&#12521;&#12531;&#12473;&#12501;&#12457;&#12540;&#12513;&#12540;&#12471;&#12519;&#12531;&#12301;&#12391;&#12377;&#12424;&#12397;&#12290;&#12487;&#12472;&#12479;&#12523;&#12434;&#36890;&#12375;&#12390;&#29983;&#12414;&#12428;&#12427;&#12488;&#12521;&#12531;&#12473;&#12501;&#12457;&#12540;&#12513;&#12540;&#12471;&#12519;&#12531;&#12398;&#23039;&#12387;&#12390;&#20309;&#12394;&#12435;&#12384;&#12429;&#12358;&#12289;&#12392;&#12290;&#24403;&#26178;&#12399;&#12431;&#12428;&#12431;&#12428;&#12418;&#32076;&#21942;&#38499;&#12418;&#12412;&#12435;&#12420;&#12426;&#12375;&#12390;&#12356;&#12383;&#12435;&#12391;&#12377;&#12290;&#12381;&#12371;&#12395;&#23550;&#12375;&#12390;&#25163;&#22618;&#12373;&#12435;&#12363;&#12425;&#12372;&#32057;&#20171;&#12356;&#12383;&#12384;&#12356;&#12383;&#25104;&#21151;&#20107;&#20363;&#12395;&#22522;&#12389;&#12367;&#12518;&#12540;&#12473;&#12465;&#12540;&#12473;&#12434;&#12498;&#12531;&#12488;&#12395;&#27169;&#32034;&#12375;&#12390;&#12356;&#12365;&#12414;&#12375;&#12383;&#12290;</p>
+<p><span style="font-weight: 400;"><span style="color: #0000ff;">&#26449;&#19978;</span>&#65306;</span>&#12499;&#12472;&#12493;&#12473;&#12450;&#12540;&#12461;&#12486;&#12463;&#12481;&#12515;&#12418;&#12381;&#12358;&#12391;&#12377;&#12364;&#12289;&#12456;&#12531;&#12479;&#12540;&#12503;&#12521;&#12452;&#12474;&#12450;&#12540;&#12461;&#12486;&#12463;&#12481;&#12515;&#12420;&#27010;&#24565;&#12487;&#12540;&#12479;&#12514;&#12487;&#12523;&#12392;&#12356;&#12387;&#12383;&#12486;&#12540;&#12510;&#12434;&#29702;&#35299;&#12375;&#12390;&#12356;&#12383;&#12384;&#12367;&#12398;&#12399;&#27770;&#12375;&#12390;&#31777;&#21336;&#12391;&#12399;&#12354;&#12426;&#12414;&#12379;&#12435;&#12290;&#12391;&#12418;&#38442;&#24613;&#38442;&#31070;&#19981;&#21205;&#29987;&#12391;&#12399;&#38533;&#30000;&#27096;&#12420;&#27827;&#30446;&#27096;&#12364;DX&#25512;&#36914;&#37096;&#12391;&#21843;&#30330;&#12375;&#12390;&#12365;&#12383;&#30693;&#35672;&#12420;&#24773;&#22577;&#12434;&#19979;&#22320;&#12392;&#12375;&#12390;&#25345;&#12387;&#12390;&#12356;&#12427;&#12398;&#12391;&#29702;&#35299;&#12418;&#26089;&#12367;&#12289;&#20849;&#36890;&#35469;&#35672;&#12362;&#12424;&#12403;&#35328;&#35486;&#21270;&#12364;&#12473;&#12512;&#12540;&#12474;&#12391;&#12375;&#12383;&#12290;</p>
+<p>&#8251;&#12499;&#12472;&#12493;&#12473;&#12450;&#12540;&#12461;&#12486;&#12463;&#12481;&#12515;:&#12499;&#12472;&#12493;&#12473;&#12398;&#12354;&#12427;&#12409;&#12365;&#23039;&#12289;&#32068;&#32340;&#27083;&#36896;&#12289;&#26989;&#21209;&#12503;&#12525;&#12475;&#12473;&#12289;&#24773;&#22577;&#12398;&#27969;&#12428;</p>
+<h2><span id="toc_index4">&#33509;&#25163;&#31038;&#21729;&#20027;&#23566;&#12391;&#29983;&#12414;&#12428;&#12383;&#12300;FUTR LABO&#12301;</span></h2>
+<p><span style="font-weight: 400;"><span style="color: #993366;">&#38533;&#30000;&#27096;</span>&#65306;</span>&#12420;&#12387;&#12390;&#12415;&#12390;&#12431;&#12363;&#12387;&#12390;&#12365;&#12383;&#12371;&#12392;&#12418;&#12354;&#12426;&#12414;&#12377;&#12290;1&#27497;&#12378;&#12388;&#30528;&#23455;&#12394;&#27497;&#12415;&#12391;&#12354;&#12426;&#12394;&#12364;&#12425;&#12418;&#12289;&#20855;&#20307;&#21270;&#12408;&#12398;&#30906;&#12363;&#12394;&#25163;&#24540;&#12360;&#12434;&#24863;&#12376;&#12388;&#12388;&#12354;&#12426;&#12414;&#12377;&#12290;&#12383;&#12392;&#12360;&#12400;&#20170;&#24180;&#12289;&#32771;&#12360;&#12427;&#12384;&#12369;&#12391;&#12394;&#12367;&#23455;&#36341;&#12377;&#12427;&#22580;&#12392;&#12375;&#12390;&#12300;FUTR LABO&#12301;&#12392;&#12356;&#12358;&#12418;&#12398;&#12364;&#33509;&#25163;&#12398;&#31038;&#21729;&#20027;&#23566;&#12391;&#31435;&#12385;&#19978;&#12364;&#12387;&#12383;&#12435;&#12391;&#12377;&#12290;DX&#12364;&#36914;&#12416;&#20013;&#12391;&#12363;&#12388;&#12390;&#12398;&#12424;&#12358;&#12394;&#26263;&#40665;&#30693;&#12434;&#12393;&#12358;&#12420;&#12387;&#12390;&#24341;&#12365;&#32153;&#12356;&#12391;&#12356;&#12367;&#12409;&#12365;&#12363;&#12290;&#12381;&#12435;&#12394;&#33509;&#25163;&#12363;&#12425;&#12398;&#21839;&#38988;&#25552;&#36215;&#12364;&#32076;&#21942;&#38499;&#12398;&#35506;&#38988;&#35469;&#35672;&#12392;&#37325;&#12394;&#12387;&#12383;&#12398;&#12364;&#35373;&#31435;&#12398;&#12365;&#12387;&#12363;&#12369;&#12391;&#12375;&#12383;&#12290;</p>
+<p><span style="font-weight: 400;"><span style="color: #339966;">&#27827;&#30446;&#27096;</span>&#65306;</span>&#12300;FUTR LABO&#12301;&#12399;&#31038;&#21729;&#30330;&#12398;&#12503;&#12525;&#12472;&#12455;&#12463;&#12488;&#12384;&#12369;&#12395;&#12289;&#26032;&#12375;&#12356;&#21462;&#12426;&#32068;&#12415;&#12434;&#26032;&#12375;&#12356;&#20154;&#12383;&#12385;&#12364;&#20808;&#23566;&#12375;&#12390;&#36914;&#12417;&#12425;&#12428;&#12427;&#12290;&#12473;&#12479;&#12540;&#12488;&#12450;&#12483;&#12503;&#12392;&#12398;&#20849;&#21109;&#12418;&#12414;&#12377;&#12414;&#12377;&#27963;&#24615;&#21270;&#12375;&#12390;&#12356;&#12367;&#12391;&#12375;&#12423;&#12358;&#12290;&#12371;&#12398;&#20013;&#12363;&#12425;&#26032;&#12383;&#12394;&#12499;&#12472;&#12493;&#12473;&#12514;&#12487;&#12523;&#12398;&#21109;&#20986;&#12384;&#12369;&#12391;&#12394;&#12367;&#12289;DX&#12499;&#12472;&#12519;&#12531;&#12398;&#25991;&#33032;&#12395;&#21063;&#12387;&#12383;&#26410;&#26469;&#12398;&#12414;&#12385;&#12389;&#12367;&#12426;&#12395;&#12388;&#12394;&#12364;&#12427;&#12450;&#12452;&#12487;&#12450;&#12418;&#29983;&#12414;&#12428;&#12427;&#12398;&#12391;&#12399;&#12394;&#12356;&#12363;&#12392;&#26399;&#24453;&#12391;&#12365;&#12414;&#12377;&#12290;</p>
+<p><span style="font-weight: 400;"><span style="color: #0000ff;">&#26449;&#19978;</span>&#65306;</span>&#20107;&#26989;&#38936;&#22495;&#12364;&#22823;&#12365;&#12367;&#12289;&#12373;&#12425;&#12395;&#12381;&#12398;&#20808;&#12395;&#12356;&#12429;&#12435;&#12394;&#23637;&#38283;&#12364;&#12354;&#12426;&#12414;&#12377;&#12424;&#12397;&#12290;&#24403;&#28982;&#12398;&#12371;&#12392;&#12394;&#12364;&#12425;&#39015;&#23458;&#25509;&#28857;&#12418;&#12354;&#12428;&#12400;&#37117;&#24066;&#24773;&#22577;&#12418;&#21547;&#12417;&#12383;&#12356;&#12429;&#12435;&#12394;&#22806;&#37096;&#12487;&#12540;&#12479;&#12392;&#12398;&#36899;&#25658;&#12418;&#32771;&#12360;&#12425;&#12428;&#12414;&#12377;&#12290;&#12381;&#12398;&#22522;&#30436;&#12389;&#12367;&#12426;&#12434;WealthPark&#12392;&#12375;&#12390;&#12418;&#12375;&#12387;&#12363;&#12426;&#12392;&#12362;&#25163;&#20253;&#12356;&#12375;&#12383;&#12356;&#12392;&#32771;&#12360;&#12390;&#12356;&#12414;&#12377;&#12290;<br>
+&nbsp;</p>
+<p><span style="font-weight: 400;">&#9660;&#12300;FUTR LABO&#12301;&#29305;&#35373;&#12469;&#12452;&#12488;<br>
+</span><a href="https://futrlabo.hhp.co.jp/" target="blank"><span style="font-weight: 400;">https://futrlabo.hhp.co.jp/</span></a></p>
+<h2><span id="toc_index5">&#19981;&#21205;&#29987;&times;DX&#12384;&#12363;&#12425;&#12371;&#12381;&#25552;&#20379;&#12391;&#12365;&#12427;&#20385;&#20516;</span></h2>
+<p><span style="font-weight: 400;"><span style="color: #0000ff;">&#26449;&#19978;</span>&#65306;</span>&#26368;&#24460;&#12395;&#12394;&#12426;&#12414;&#12377;&#12364;&#12289;WealthPark&#12408;&#12398;&#24863;&#24819;&#12420;&#20170;&#24460;&#12395;&#23550;&#12377;&#12427;&#26399;&#24453;&#24863;&#12394;&#12393;&#12354;&#12428;&#12400;&#12380;&#12402;&#12362;&#32862;&#12363;&#12379;&#12356;&#12383;&#12384;&#12365;&#12383;&#12356;&#12391;&#12377;&#12290;</p>
+<p><img decoding="async" class="alignnone size-full wp-image-45955" src="https://wealth-park.com/wp-content/uploads/2025/05/hhp_004.jpg" alt=""></p>
+<p><span style="font-weight: 400;"><span style="color: #339966;">&#27827;&#30446;&#27096;</span>&#65306;</span>&#24481;&#31038;&#12399;DX&#12467;&#12531;&#12469;&#12523;&#12479;&#12531;&#12488;&#12398;&#20013;&#12391;&#12418;&#19981;&#21205;&#29987;&#38936;&#22495;&#12395;&#12362;&#12369;&#12427;&#30693;&#35211;&#12434;&#26377;&#12375;&#12390;&#12356;&#12414;&#12377;&#12424;&#12397;&#12290;&#12371;&#12428;&#12364;&#22823;&#12365;&#12394;&#20778;&#20301;&#24615;&#12384;&#12392;&#24605;&#12356;&#12414;&#12377;&#12290;&#24403;&#26178;&#12289;&#12431;&#12428;&#12431;&#12428;&#12399;&#19981;&#21205;&#29987;&#20250;&#31038;&#12392;&#12375;&#12390;DX&#12392;&#12393;&#12358;&#21521;&#12365;&#21512;&#12358;&#12409;&#12365;&#12394;&#12398;&#12363;&#30456;&#24403;&#24745;&#12435;&#12391;&#12356;&#12414;&#12375;&#12383;&#12290;&#12381;&#12371;&#12395;&#12373;&#12414;&#12374;&#12414;&#12394;&#20250;&#31038;&#12373;&#12435;&#12364;&#12372;&#25903;&#25588;&#12398;&#25163;&#12434;&#24046;&#12375;&#20280;&#12409;&#12390;&#12399;&#12367;&#12428;&#12383;&#12398;&#12391;&#12377;&#12364;&#12289;&#12487;&#12540;&#12479;&#27083;&#36896;&#12398;&#35441;&#12402;&#12392;&#12388;&#12392;&#12387;&#12390;&#12418;&#19981;&#21205;&#29987;&#20107;&#26989;&#12392;&#12398;&#12388;&#12394;&#12364;&#12426;&#12434;&#32972;&#26223;&#12363;&#12425;&#12362;&#20253;&#12360;&#12375;&#12394;&#12369;&#12428;&#12400;&#12394;&#12426;&#12414;&#12379;&#12435;&#12290;&#12375;&#12363;&#12418;&#35299;&#20687;&#24230;&#39640;&#12367;&#12372;&#29702;&#35299;&#12356;&#12383;&#12384;&#12367;&#12395;&#12399;&#31896;&#12426;&#24375;&#12356;&#12420;&#12426;&#12392;&#12426;&#12418;&#24517;&#35201;&#12391;&#12377;&#12290;&#12371;&#12371;&#12395;&#30456;&#24403;&#12497;&#12527;&#12540;&#12434;&#12363;&#12369;&#12394;&#12369;&#12428;&#12400;&#12394;&#12425;&#12394;&#12356;&#12290;&#12392;&#12371;&#12429;&#12364;&#24481;&#31038;&#12398;&#22580;&#21512;&#12399;&#26368;&#21021;&#12363;&#12425;&#21208;&#25152;&#12434;&#25276;&#12373;&#12360;&#12390;&#12356;&#12427;&#12398;&#12391;&#35441;&#12364;&#26089;&#12356;&#12435;&#12391;&#12377;&#12397;&#12290;&#19981;&#21205;&#29987;&times;DX&#12392;&#12356;&#12358;&#32068;&#12415;&#21512;&#12431;&#12379;&#12399;&#12289;&#20182;&#31038;&#12395;&#12399;&#12394;&#12363;&#12394;&#12363;&#12394;&#12356;&#24375;&#12415;&#12384;&#12392;&#24605;&#12356;&#12414;&#12377;&#12290;</p>
+<p><span style="font-weight: 400;"><span style="color: #0000ff;">&#25163;&#22618;</span>&#65306;</span>&#12354;&#12426;&#12364;&#12392;&#12358;&#12372;&#12374;&#12356;&#12414;&#12377;&#65281; &#12503;&#12525;&#12472;&#12455;&#12463;&#12488;&#38283;&#22987;&#12375;&#12390;&#12363;&#12425;&#21360;&#35937;&#12395;&#27531;&#12387;&#12383;&#12371;&#12392;&#12394;&#12393;&#12354;&#12426;&#12414;&#12377;&#12391;&#12375;&#12423;&#12358;&#12363;&#65311;</p>
+<p><span style="font-weight: 400;"><span style="color: #993366;">&#38533;&#30000;&#27096;</span>&#65306;</span>&#32368;&#12426;&#36820;&#12375;&#12395;&#12394;&#12426;&#12414;&#12377;&#12364;&#12289;&#12414;&#12378;&#24481;&#31038;&#12398;&#29702;&#35299;&#12364;&#38750;&#24120;&#12395;&#26089;&#12356;&#28857;&#12391;&#12377;&#12397;&#12290;&#12354;&#12428;&#12384;&#12369;&#12398;&#24773;&#22577;&#37327;&#12398;&#25972;&#29702;&#12434;&#30701;&#26399;&#38291;&#12391;&#12414;&#12392;&#12417;&#12390;&#12356;&#12383;&#12384;&#12365;&#12289;&#26326;&#26151;&#12391;&#19981;&#26126;&#30637;&#12394;&#36074;&#21839;&#12395;&#12418;&#30340;&#30906;&#12395;&#22238;&#31572;&#12434;&#12367;&#12384;&#12373;&#12427;&#12290;&#26368;&#32066;&#30340;&#12395;&#32076;&#21942;&#23652;&#12395;&#19978;&#12370;&#12427;&#12395;&#12354;&#12383;&#12387;&#12390;&#36039;&#26009;&#12398;&#23436;&#25104;&#24230;&#12434;&#39640;&#12417;&#12390;&#12367;&#12428;&#12390;&#12289;&#35500;&#26126;&#12377;&#12427;&#20596;&#12392;&#12375;&#12390;&#12399;&#26412;&#24403;&#12395;&#12354;&#12426;&#12364;&#12383;&#12363;&#12387;&#12383;&#12392;&#24605;&#12387;&#12390;&#12356;&#12414;&#12377;&#12290;</p>
+<p><span style="font-weight: 400;"><span style="color: #339966;">&#27827;&#30446;&#27096;</span>&#65306;</span>&#12487;&#12540;&#12479;&#22522;&#30436;&#12420;&#12499;&#12472;&#12493;&#12473;&#12450;&#12540;&#12461;&#12486;&#12463;&#12481;&#12515;&#12398;&#35500;&#26126;&#12434;&#31038;&#20869;&#12395;&#28024;&#36879;&#12377;&#12427;&#12398;&#12399;&#38627;&#12375;&#12356;&#12398;&#12391;&#12377;&#12364;&#12289;&#12393;&#12358;&#22107;&#12415;&#30741;&#12356;&#12390;&#12356;&#12367;&#12363;&#12395;&#12388;&#12356;&#12390;&#24481;&#31038;&#12398;&#12494;&#12454;&#12495;&#12454;&#12434;&#21442;&#32771;&#12395;&#12373;&#12379;&#12390;&#12356;&#12383;&#12384;&#12365;&#12414;&#12375;&#12383;&#12290;</p>
+<p><span style="font-weight: 400;"><span style="color: #0000ff;">&#26449;&#19978;</span>&#65306;</span> DX&#12391;&#19981;&#21205;&#29987;&#12499;&#12472;&#12493;&#12473;&#12434;&#22793;&#12360;&#12427;&#12435;&#12384;&#12289;&#12392;&#12356;&#12358;&#30342;&#27096;&#12398;&#29105;&#12356;&#24605;&#12356;&#12395;&#24540;&#12360;&#12427;&#12409;&#12367;&#12289;&#12371;&#12428;&#12363;&#12425;&#12418;&#22793;&#12431;&#12425;&#12378;&#31934;&#19968;&#26479;&#20276;&#36208;&#12373;&#12379;&#12390;&#12356;&#12383;&#12384;&#12365;&#12414;&#12377;&#12290;&#26412;&#26085;&#12399;&#12354;&#12426;&#12364;&#12392;&#12358;&#12372;&#12374;&#12356;&#12414;&#12375;&#12383;&#65281;</p>
+<p>&nbsp;<br>
+<span style="font-weight: 400;">&#19981;&#21205;&#29987;&#12487;&#12505;&#12525;&#12483;&#12497;&#12540;&#21521;&#12369;DX&#20107;&#26989;&#12392;&#12399;<br>
+</span><a href="https://wealth-park.com/ja/career/wpb/"><span style="font-weight: 400;">https://wealth-park.com/ja/career/wpb/</span></a></p>
+<p><span style="font-weight: 400;">&#65308;&#26412;&#20214;&#12395;&#38306;&#12377;&#12427;&#12362;&#21839;&#12356;&#21512;&#12431;&#12379;&#20808;&#65310;</span></p>
+<p><span style="font-weight: 400;">WealthPark&#26666;&#24335;&#20250;&#31038; People and Culture&#37096;<br>
+</span><span style="font-weight: 400;">Mail&#65306; </span><a href="mailto:hiring_hojin@wealth-park.com"><span style="font-weight: 400;">hiring_hojin@wealth-park.com</span></a></p>
+</body></html>
+          
+      </section>
+
+      <section class="blog-content__footer">
+                <ul class="blog-content__footer-tags">
+          <li class='blog-content__footer-item'>
+                      <a class='blog-content__footer-link' href='https://wealth-park.com/ja/park_tag/recommend/'>Recommend</a>
+                      </li><li class='blog-content__footer-item'>
+                      <a class='blog-content__footer-link' href='https://wealth-park.com/ja/park_tag/dx/'>DX</a>
+                      </li><li class='blog-content__footer-item'>
+                      <a class='blog-content__footer-link' href='https://wealth-park.com/ja/park_tag/recommend-wpb/'>Recommend WPB</a>
+                      </li><li class='blog-content__footer-item'>
+                      <a class='blog-content__footer-link' href='https://wealth-park.com/ja/park_tag/dx%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e4%ba%8b%e4%be%8b/'>DXコンサルティングサービス事例</a>
+                      </li>        </ul>
+
+      </section>
+    </article>
+              		</section>
+		</main><!-- #main -->
+	</div><!-- #primary -->
+  </div>
+  <footer>
+    <div class="container main-footer">
+  <div class="main-footer__contents">
+  <ul class="main-footer__contents--list">
+    <li>
+      <a href="https://wealth-park.com/corporate/careers/">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/banner_careers.jpg" alt="採用情報" />
+      </a>
+    </li>
+    <li>
+      <a href="https://wealth-park.com/park">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/banner_footer_park.png" alt="Park" />
+      </a>
+    </li>
+    <li>
+      <a href="https://wealth-park.com/business/download/wpl-wp002-ja/">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/wpl/GRPS_002_500x200.jpg" alt="WealthPark Global Residential PropTech Study 2022 Vol.2(日本語版)" />
+      </a>
+    </li>
+    <!-- <li>
+      <a href="https://wealth-park.com/business/">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/banner_wpb.jpg" alt="オーナーアプリではじめよう、あたらしい不動産管理 WealthPark Business" />
+      </a>
+    </li> -->
+    <li>
+      <a href="https://wealthpark-lab.com/" target="_blank" rel="noopener noreferrer"><img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/banner_wp-lab_001.jpg" alt="WealthPark研究所" /></a>
+    </li>
+  </ul>
+</div>  <div class="main-footer__inner">
+    <div class="main-footer__logo">
+      <a href="https://wealth-park.com/ja/"><img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/footer_logo_wp.svg" alt="WealthPark" /></a>
+    </div>
+    <div class="main-footer__navigation">
+      <div class="main-footer__navigation-list">
+        <p class="main-footer__navigation-title">サービス</p>
+        <ul>
+          <li><a href="https://wealth-park.com/ja/business/">不動産管理会社向けサービス</a></li>
+          <li><a href="https://owner-app.wealth-park.com" target="_blank" rel="noopener noreferrer">不動産オーナー向けサービス <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/external_link.svg" alt="Open in a new tab" /></a></li>
+          <li><a href="https://wealthpark-ret.com/" target="https://wealthpark-ret.com/">WealthPark RealEstate Technologies <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/external_link.svg" alt="Open in a new tab" /></a></li>
+          <li><a href="https://wealthpark-alt.com/" target="_blank" rel="noopener noreferrer">WealthPark Investment <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/external_link.svg" alt="Open in a new tab" /></a></li>
+          <li><a href="https://wealthpark-lab.com/" target="_blank" rel="noopener noreferrer">WealthPark研究所 </a> <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/external_link.svg" alt="Open in a new tab" /></li>
+          <li><a href="https://wealth-park.com/ja/wealthpark-blog">WealthPark Blog</a></li>
+          <li>
+            <a href="https://wealth-park.com/ja/park">
+              採用オウンドメディア「Park」            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="main-footer__navigation-list">
+        <p class="main-footer__navigation-title">製品</p>
+        <ul>
+          <li><a href="https://itunes.apple.com/jp/app/wealth-park-real-estate-investment/id1068127268" target="_blank" rel="noopener noreferrer">App Store <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/external_link.svg" alt="Open in a new tab" /></a></li>
+          <li><a href="https://play.google.com/store/apps/details?id=com.wealthpark.owner&amp;hl=ja" target="_blank" rel="noopener noreferrer">Google Play <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/external_link.svg" alt="Open in a new tab" /></a></li>
+          <li><a href="https://owner.wealth-park.com/" target="_blank" rel="noopener noreferrer">パソコン版WealthPark <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/external_link.svg" alt="Open in a new tab" /></a></li>
+        </ul>
+      </div>
+      <div class="main-footer__navigation-list">
+        <p class="main-footer__navigation-title">企業情報</p>
+        <ul>
+          <li>
+            <a href="https://wealth-park.com/ja/">
+            企業サイトTOP            </a>
+          </li>
+                      <li><a href="https://wealth-park.com/ja/corporate/company">会社概要</a></li>
+            <li><a href="https://wealth-park.com/ja/asset-management/company-profile/">WealthPark RealEstate Technologiesについて</a></li>
+                    <li><a href="https://wealth-park.com/ja/news">ニュース</a></li>
+          <li><a href="https://prtimes.jp/main/html/searchrlp/company_id/40576" target="_blank" rel="noopener noreferrer">プレスリリース <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/external_link.svg" alt="Open in a new tab" /></a></li>
+          <li><a href="https://wealth-park.com/ja/press-kit">プレスキット</a></li>
+          <li><a href="https://wealth-park.com/ja/tag/event-report/">イベント・セミナー</a></li>
+          <li><a href="https://wealth-park.com/ja/careers">採用</a></li>
+          <li><a href="https://wealth-park.com/ja/corporate/contact/">お問い合わせ</a></li>
+          <li><a href="https://wealth-park.com/ja/corporate/terms-of-use">利用規約</a></li>
+          <li><a href="https://wealth-park.com/ja/corporate/privacy-policy">プライバシーポリシー</a></li>
+          <li><a href="https://wealth-park.com/ja/corporate/external-transmission-of-user-information/">外部送信の利用者に関する情報の取扱い</a></li>
+          <li><a href="https://wealth-park.com/ja/security">情報セキュリティ</a></li>          
+        </ul>
+      </div>
+    </div>
+    <div class="main-footer__banner">
+              <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/logo_isms_2.png" alt="ISMS" />
+        <p>認証範囲: 本社</p>
+          </div>
+  </div>
+</div>
+    <div class="container sub-footer">
+  <div class="sub-footer__inner">
+    <div class="sub-footer__sns">
+      <ul class="sub-footer__sns--list">
+        <li>
+          <a href="https://www.facebook.com/WealthPark-Business-WealthPark%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A6%E3%82%A7%E3%83%AB%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2253775971335835/" target="_blank">
+            <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/ico_facebook.svg" alt="facebook" />
+          </a>
+        </li>
+        <li>
+          <a href="https://www.linkedin.com/company/wealthpark/" target="_blank">
+            <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/ico_in.svg" alt="in" />
+          </a>
+        </li>
+        <li>
+          <a href="https://www.youtube.com/channel/UCvTChmtXoEokx8vsWda8aNg" target="_blank">
+            <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/ico_youtube.svg" alt="youtube" />
+          </a>
+        </li>
+      </ul>
+    </div>
+    <div class="sub-footer__language">
+      <p class="language-icon"><i class="material-icons md-18">language</i>
+        <!-- 言語 -->
+      </p>
+      <form name="sort_form">
+        <select class="language-selector lang-dropdown" name="sort" onchange="dropsort()">
+          <option value="">Language</option>
+          <option value="/en/park/hhp/">English</option>
+          <option value="/ja/park/hhp/">日本語</option>
+          <option value="/sc/park/hhp/">简体中文</option>
+          <option value="/tc/park/hhp/">繁體中文</option>
+        </select>
+      </form>
+    </div>
+  </div>
+</div>
+
+  </footer>
+  <script type="text/javascript">
+    function dropsort() {
+        var browser = document.sort_form.sort.value;
+        location.href = browser
+    }
+  </script>
+  <script type="text/javascript" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/js/toc.js"></script>
+  </body>
+  </html>

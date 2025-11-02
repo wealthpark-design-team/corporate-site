@@ -1,0 +1,1060 @@
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KH2RPBR');</script>
+<!-- End Google Tag Manager --><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+<meta name="format-detection" content="telephone=no">
+<title>会社概要 | WealthPark</title>
+<meta name="description" content="収益不動産の管理を、アプリでもっと簡単に。自宅でも外出中でも、場所を問わない手軽な収益不動産管理を実現。
+より良い投資の実現をお手伝いします。">
+<meta property="og:title" content="WealthPark | 収益不動産の管理を、アプリでもっと簡単に">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://wealth-park.com/corporate/" />
+<meta property="og:image" content="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/corporate/ogp_image_wp-corporate_001.jpg">
+<meta property="og:site_name" content="WealthPark Corporate" />
+<meta property="og:description" content="収益不動産の管理を、アプリでもっと簡単に。自宅でも外出中でも、場所を問わない手軽な収益不動産管理を実現。
+より良い投資の実現をお手伝いします。">
+<meta name="twitter:card" content="summary_large_image" />
+<!-- <link rel="stylesheet" href="https://wealth-park.com/wp-content/themes/wp-next-landing-page/css/common.css"> -->
+<link rel="stylesheet" href="https://wealth-park.com/wp-content/themes/wp-next-landing-page/css/slick.css?20251031-1738" media="screen" />
+<link rel="stylesheet" href="https://wealth-park.com/wp-content/themes/wp-next-landing-page/css/slick-theme.css?20251031-1738" media="screen" />
+<link rel="stylesheet" href="https://wealth-park.com/wp-content/themes/wp-next-landing-page/css/common.css?20251031-1738">
+<link rel="stylesheet" href="https://wealth-park.com/wp-content/themes/wp-next-landing-page/css/megamenu.css?20251031-1738">
+<link rel="stylesheet" href="https://use.typekit.net/kbe8wyi.css?ver=1.0.1">
+<script src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/js/jquery-3.3.1.min.js?20251031-1738"></script>
+<script src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/js/slick.min.js?20251031-1738"></script>
+<script src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/js/rellax.min.js?20251031-1738"></script>
+<script src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/js/megamenu.js?20251031-1738"></script>
+<script src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/js/validation.js?20251031-1738"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/iScroll/5.2.0/iscroll.min.js?20251031-1738"></script>
+<link rel="stylesheet" href="https://wealth-park.com/wp-content/themes/wp-next-landing-page/corporate/css/style.css?20251031-1738">
+<link rel="stylesheet" href="https://use.typekit.net/kbe8wyi.css">
+<link rel="apple-touch-icon" sizes="180x180" href="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/icon.png">
+<link rel="apple-touch-icon-precomposed" href="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/icon.png">
+<link rel="shortcut icon" href="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/icon.png">
+<link rel="icon" sizes="192x192" href="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/icon.png">
+<link rel="alternate" hreflang="ja" href="http://wealth-park.com/ja/corporate" />
+<link rel="alternate" hreflang="en" href="http://wealth-park.com/en/corporate" />
+<link rel="alternate" hreflang="zh" href="http://wealth-park.com/sc/corporate" />
+<link rel="alternate" hreflang="zh-CN" href="http://wealth-park.com/sc/corporate" />
+<link rel="alternate" hreflang="zh-HK" href="http://wealth-park.com/tc/corporate" />
+<link rel="alternate" hreflang="zh-TW" href="http://wealth-park.com/tc/corporate" />
+<script type="text/javascript" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/js/jquery-3.3.1.min.js?20251031-1738"></script>
+<script type="text/javascript" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/js/modal-multi.js?20251031-1738"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/iScroll/5.2.0/iscroll.min.js"></script>
+<!--[if lt IE 9]>
+<script src="/js/html5shiv.js"></script>
+<script src="/js/respond.js"></script>
+<![endif]-->
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KH2RPBR"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><div class="wealth-park-triangle">
+    <!-- CORPORATE NAV -->
+    
+  <!-- CORPORATE ALL PAGES -->
+  <header class="header--corporate header--common header--dark">
+    <!-- DESKTOP -->
+    <nav class="menu__navbar menu__navbar--pc">
+      <div class="menu__navbar__logo">
+        <a href="https://wealth-park.com/ja/"><img loading="lazy" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/app/logo_inverse.svg" alt="WealthPark" /></a>
+      </div>
+      <ul class="menu__list">
+        <li class="menu__list-item menu__first-level menu__parent-dropdown">
+          <a class="menu__list-link menu__dropdown-toggle" href="javascript:void(0)">ニュース</a>
+          <ul class="menu__dropdown">
+            <li class="menu__dropdown-list-item">
+              <a href="https://wealth-park.com/ja/news/" class="menu__dropdown-list-link">
+              ニュース              </a>
+            </li>
+            <li class="menu__dropdown-list-item">
+              <a href="https://wealth-park.com/ja/business/release-note" class="menu__dropdown-list-link">
+                プロダクト新機能・改善              </a>
+            </li>
+            <li class="menu__dropdown-list-item">
+              <a href="https://prtimes.jp/main/html/searchrlp/company_id/40576" target="_blank" class="menu__dropdown-list-link menu__dropdown-list-link--external">
+                プレスリリース              </a>
+            </li>
+          </ul>
+        </li>
+        <li class="menu__list-item menu__first-level menu__parent-dropdown">
+          <a class="menu__list-link menu__dropdown-toggle" href="javascript:void(0)">サービス</a>      
+          <ul class="menu__dropdown">
+            <li class="menu__dropdown-list-item">
+              <a href="https://wealth-park.com/ja/business" class="menu__dropdown-list-link">
+                不動産管理会社向けサービス<br>
+                <small>WealthParkビジネス</small>
+              </a>
+            </li>
+            <li class="menu__dropdown-list-item">
+              <a href="https://owner-app.wealth-park.com" class="menu__dropdown-list-link menu__dropdown-list-link--external" target="_blank">
+                不動産オーナー向けサービス<br>
+                <small>WealthParkオーナーアプリ</small>
+              </a>
+            </li>
+            <li class="menu__dropdown-list-item">
+              <a href="https://wealthpark-ret.com/" class="menu__dropdown-list-link menu__dropdown-list-link--external" target="_blank">
+                海外不動産投資家向けサービス<br>
+                <small>WealthPark RealEstate Technologies</small>
+              </a>
+            </li>
+            <li class="menu__dropdown-list-item">
+              <a href="https://wealthpark-alt.com/" class="menu__dropdown-list-link menu__dropdown-list-link--external" target="_blank">
+                不動産関連の<br>
+  クラウドファンディングサービス<br>
+                <small>WealthPark Investment</small>
+              </a>
+            </li>
+          </ul> 
+        </li>
+        <li class="menu__list-item menu__first-level">
+          <a class="menu__list-link" href="https://wealth-park.com/ja/corporate/company/">会社概要</a>
+        </li>
+        <li class="menu__list-item menu__first-level menu__parent-dropdown">
+          <a class="menu__list-link menu__dropdown-toggle" href="javascript:void(0)">採用</a>      
+          <ul class="menu__dropdown">
+            <li class="menu__dropdown-list-item">
+              <a href="https://wealth-park.com/ja/careers" class="menu__dropdown-list-link">
+                中途採用              </a>
+            </li>
+            <li class="menu__dropdown-list-item">
+              <a href="https://wealth-park.com/ja/park"class="menu__dropdown-list-link"> 
+                採用オウンドメディア「Park」              </a>
+            </li>
+          </ul> 
+        </li>
+        <li class="menu__list-item menu__first-level menu__parent-dropdown">
+          <a class="menu__list-link menu__dropdown-toggle" href="javascript:void(0)">記事</a>
+          <ul class="menu__dropdown menu__dropdown--edge">
+            <li class="menu__dropdown-heading">オウンドメディア</li>
+            <li class="menu__dropdown-list-item">
+              <a href="https://wealth-park.com/ja/wealthpark-blog/" class="menu__dropdown-list-link">
+                WealthParkブログ              </a>
+            </li>
+            <li class="menu__dropdown-list-item">
+              <a href="https://wealthpark-lab.com" target="_blank" class="menu__dropdown-list-link menu__dropdown-list-link--external">
+                WealthPark研究所              </a>
+            </li>
+            <li class="menu__dropdown-list-item">
+              <a href="https://wealth-park.com/ja/park" class="menu__dropdown-list-link">
+                採用オウンドメディア「Park」              </a>
+            </li>
+            <li class="menu__dropdown__divider"></li>
+            <li class="menu__dropdown-heading">特集</li>
+            <li class="menu__dropdown-list-item">
+              <a href="https://wealth-park.com/ja/business/seminar" class="menu__dropdown-list-link">
+                イベント・セミナー              </a>
+            </li>
+            <li class="menu__dropdown-list-item">
+              <a href="https://wealth-park.com/ja/tag/keypersons-voice/" class="menu__dropdown-list-link">
+                Key Person's Voice | 不動産管理会社のトップ対談              </a>
+            </li>
+            <li class="menu__dropdown-list-item">
+              <a href="https://wealth-park.com/ja/park_category/person/" class="menu__dropdown-list-link">
+                社員インタビュー              </a>
+            </li>
+          </ul>
+        </li>
+                  <li class="menu__list-item menu__first-level menu__list-item-btn">
+            <a class="menu__list-link-btn menu__list-link-btn--blue" href="https://wealth-park.com/ja/business/">不動産管理会社の方</a>
+          </li>
+                <li class="menu__list-item menu__first-level menu__list-item-btn">
+          <a class="menu__list-link-btn menu__list-link-btn--white" href="https://owner.wealth-park.com/" target="_blank">
+            パソコン版WealthPark ログイン          </a>
+        </li>
+      </ul>
+    </nav>
+    <!-- MOBILE -->
+    <nav class="menu__navbar menu__navbar--sp">
+      <div class="menu__navbar--mobile">
+        <div class="menu__navbar__logo">
+          <a href="https://wealth-park.com/ja/"><img loading="lazy" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/app/logo_inverse.svg" alt="WealthPark" /></a>
+        </div>
+        <div class="menu__burger">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+      </div>
+      <div class="menu__list-container">
+        <ul class="menu__list--mobile">
+          <li class="menu__list-item menu__first-level">
+            <a class="menu__list-link" href="https://wealth-park.com/ja/">Home</a>
+          </li>
+          <li class="menu__list-item menu__first-level menu__parent-dropdown">
+            <a class="menu__list-link menu__dropdown-toggle" href="javascript:void(0)">ニュース</a>
+            <ul class="menu__dropdown">
+              <li class="menu__dropdown-list-item">
+                <a href="https://wealth-park.com/ja/news/" class="menu__dropdown-list-link">
+                  ニュース                </a>
+              </li>
+              <li class="menu__dropdown-list-item">
+                <a href="https://wealth-park.com/ja/business/release-note" class="menu__dropdown-list-link">
+                  プロダクト新機能・改善                </a>
+              </li>
+              <li class="menu__dropdown-list-item">
+                <a href="https://prtimes.jp/main/html/searchrlp/company_id/40576" target="_blank" class="menu__dropdown-list-link menu__dropdown-list-link--external">
+                  プレスリリース                </a>
+              </li>
+            </ul>
+          </li>
+          <li class="menu__list-item menu__first-level menu__parent-dropdown">
+            <a class="menu__list-link menu__dropdown-toggle" href="javascript:void(0)">サービス</a>      
+            <ul class="menu__dropdown">
+              <li class="menu__dropdown-list-item">
+                <a href="https://wealth-park.com/ja/business" class="menu__dropdown-list-link">
+                  不動産管理会社向けサービス<br>
+                  <small>WealthParkビジネス</small>
+                </a>
+              </li>
+              <li class="menu__dropdown-list-item">
+                <a href="https://owner-app.wealth-park.com" class="menu__dropdown-list-link menu__dropdown-list-link--external" target="_blank">
+                  不動産オーナー向けサービス<br>
+                  <small>WealthParkオーナーアプリ</small>
+                </a>
+              </li>
+              <li class="menu__dropdown-list-item">
+                <a href="https://wealthpark-ret.com/" class="menu__dropdown-list-link menu__dropdown-list-link--external" target="_blank">
+                  海外不動産投資家向けサービス<br>
+                  <small>WealthPark RealEstate Technologies</small>
+                </a>
+              </li>
+              <li class="menu__dropdown-list-item">
+                <a href="https://wealthpark-alt.com/" class="menu__dropdown-list-link menu__dropdown-list-link--external" target="_blank">
+                  不動産関連の<br>
+  クラウドファンディングサービス<br>
+                  <small>WealthPark Investment</small>
+                </a>
+              </li>
+            </ul> 
+          </li>
+          <li class="menu__list-item menu__first-level">
+            <a class="menu__list-link" href="https://wealth-park.com/ja/corporate/company/">会社概要</a>
+          </li>
+          <li class="menu__list-item menu__first-level menu__parent-dropdown">
+            <a class="menu__list-link menu__dropdown-toggle" href="javascript:void(0)">採用</a>      
+            <ul class="menu__dropdown">
+              <li class="menu__dropdown-list-item">
+                <a href="https://wealth-park.com/ja/careers" class="menu__dropdown-list-link">
+                  中途採用                </a>
+              </li>
+              <li class="menu__dropdown-list-item">
+                <a href="https://wealth-park.com/ja/park"class="menu__dropdown-list-link"> 
+                  採用オウンドメディア「Park」                </a>
+              </li>
+            </ul> 
+          </li>
+          <li class="menu__list-item menu__first-level menu__parent-dropdown menu__parent-dropdown--ownedmedia">
+            <a class="menu__list-link menu__dropdown-toggle" href="javascript:void(0)">記事</a>
+            <ul class="menu__dropdown menu__dropdown--edge">
+              <li class="menu__dropdown-heading">オウンドメディア</li>
+              <li class="menu__dropdown-list-item">
+                <a href="https://wealth-park.com/ja/wealthpark-blog/" class="menu__dropdown-list-link">
+                  WealthParkブログ                </a>
+              </li>
+              <li class="menu__dropdown-list-item">
+                <a href="https://wealthpark-lab.com" target="_blank" class="menu__dropdown-list-link menu__dropdown-list-link--external">
+                  WealthPark研究所                </a>
+              </li>
+              <li class="menu__dropdown-list-item">
+                <a href="https://wealth-park.com/ja/park" class="menu__dropdown-list-link">
+                  採用オウンドメディア「Park」                </a>
+              </li>
+              <li class="menu__dropdown-heading">特集</li>
+              <li class="menu__dropdown-list-item">
+                <a href="https://wealth-park.com/ja/business/seminar" class="menu__dropdown-list-link">
+                  イベント・セミナー                </a>
+              </li>
+              <li class="menu__dropdown-list-item">
+                <a href="https://wealth-park.com/ja/tag/keypersons-voice/" class="menu__dropdown-list-link">
+                  Key Person's Voice | 不動産管理会社のトップ対談                </a>
+              </li>
+              <li class="menu__dropdown-list-item">
+                <a href="https://wealth-park.com/ja/park_category/person/" class="menu__dropdown-list-link">
+                  社員インタビュー                </a>
+              </li>
+            </ul>
+          </li>
+                      <li class="menu__list-item menu__first-level menu__list-item-btn">
+              <a class="menu__list-link-btn menu__list-link-btn--blue" href="https://wealth-park.com/ja/business/">
+                不動産管理会社向け                <br>
+                <span>サービスページはこちら</span>
+              </a>
+            </li>
+                    <li class="menu__list-item menu__first-level menu__list-item-btn">
+            <a class="menu__list-link-btn menu__list-link-btn--white" href="https://owner.wealth-park.com/" target="_blank">
+              パソコン版WealthPark <br>
+                              <span>ログインページはこちら</span>
+                          </a>
+          </li>
+          <li class="menu__list-item menu__first-level">
+            <ul class="menu__sns--list">
+              <li>
+                <a href="https://www.facebook.com/WealthPark-Business-WealthPark%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A6%E3%82%A7%E3%83%AB%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2253775971335835/" target="_blank">
+                  <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/ico_facebook.svg" alt="facebook" />
+                </a>
+              </li>
+              <li>
+                <a href="https://www.linkedin.com/company/wealthpark/" target="_blank">
+                  <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/ico_in.svg" alt="in" />
+                </a>
+              </li>
+              <li>
+                <a href="https://www.youtube.com/channel/UCvTChmtXoEokx8vsWda8aNg" target="_blank">
+                  <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/ico_youtube.svg" alt="youtube" />
+                </a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+
+  <section class="breadcrumbs--global breadcrumbs--global-corporate ">
+    <ul>
+      <li>
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/business-icon.svg" alt="icon">
+        <a href="/">WealthPark</a>
+      </li>
+      <li><a href=https://wealth-park.com/ja/company/>会社概要</a></li>    </ul>
+</section>
+
+
+
+
+  <section class="career-visual career-visual--company">
+      <div class="career-visual__outer career-visual__outer--company">
+        <video class="career-visual__video" poster="https://wealth-park.com/wp-content/themes/wp-next-landing-page/corporate/img/company_profile_top_background.png">
+        </video>
+      </div>
+    <div class="career-visual__txt">
+      <h1 class="career-visual__title">会社概要</h1>
+    </div>
+      <div class="career-visual__arrow">
+          <a href="#pagename">
+            <img loading='lazy' src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/corporate/img/careers_arrow.svg" alt="矢印">
+          </a>
+      </div>
+  </section>
+
+  <section class="page-name" id="pagename">
+    <div class="page-name__inner page-name__inner--company-profile">
+      <h2 class="page-name__title">Vision</h2>
+    </div>
+  </section>
+
+  <section class="container career-vision">
+    <div class="container__inner career-vision__inner">
+        <p class="career-vision__title">Be Alternative</p>
+        <p class="career-vision__copy">ー 選択の自由が当たり前の世界を創る ー</p>
+        <p class="career-vision__img"><img loading='lazy' src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/corporate/img/career-alternative_pic1.jpg" alt="選択の自由が当たり前の世界を創る"></p>
+    </div>
+  </section>
+
+  <section class="page-name">
+    <div class="page-name__inner page-name__inner--company-profile">
+      <h2 class="page-name__title">Mission</h2>
+    </div>
+  </section>
+
+  <section class="container career-mission">
+    <div class="container__inner career-mission__inner">        <p class="career-mission__title">オルタナティブ資産への投資機会を<br>すべての人へ届ける</p>
+        <p class="career-mission__txt">
+          オルタナティブ資産とは、上場株式や債券といった伝統的資産と呼ばれるもの以外の新しい投資対象や投資手法のことをいいます。具体的には不動産、アート、ウイスキーやワイン、未上場株式などの事を指します。<br>
+          こういったオルタナティブ資産は、伝統的資産と比較して共通のデータ基盤がなかったり、物理的な期中管理が求められるため、アナログな要素が多く一部の限られた人にしかアクセスができないという古くからの市場課題があります。<br>
+          WealthParkは、テクノロジーを通じてオルタナティブ資産のプラットフォームをつくることで、すべての人が平等に投資機会をもてる社会を実現し、オルタナティブ投資の民主化にチャレンジします。
+        </p></div>
+  </section>
+
+  <section class="page-name">
+    <div class="page-name__inner page-name__inner--company-profile">
+      <h2 class="page-name__title">Company Profile</h2>
+    </div>
+  </section>
+
+  <section class="container company-profile">
+    <div class="container__inner company-profile__inner">
+      <dl class="company-profile__list">
+        <dt class="company-profile__title">
+          会社名        </dt>
+        <dd class="company-profile__body">
+          WealthPark株式会社        </dd>
+      </dl>
+      <dl class="company-profile__list">
+        <dt class="company-profile__title">
+          資本金        </dt>
+        <dd class="company-profile__body">
+          100,000,000円（2024年12月31日時点）        </dd>
+      </dl>
+      <dl class="company-profile__list">
+        <dt class="company-profile__title">
+          代表        </dt>
+        <dd class="company-profile__body">
+          代表取締役社長　川田 隆太        </dd>
+      </dl>
+      <dl class="company-profile__list">
+        <dt class="company-profile__title">
+          従業員数        </dt>
+        <dd class="company-profile__body">
+          150名(2025年09月30日時点 グループ会社含む)        </dd>
+      </dl>
+      <dl class="company-profile__list">
+        <dt class="company-profile__title">
+          本社所在地        </dt>
+        <dd class="company-profile__body">
+          <ul class="bullet-list">
+    <li>〒150-0011 東京都渋谷区東3丁目14－15 MOビル2階<br><a href="https://maps.app.goo.gl/nQji5kqP8FM6pQrm6" target="_blank">地図で見る</a></li>
+</ul>        </dd>
+      </dl>
+      <dl class="company-profile__list">
+        <dt class="company-profile__title">
+          営業所        </dt>
+        <dd class="company-profile__body">
+          東北営業所 / 関西営業所 / 九州営業所        </dd>
+      </dl>
+      <dl class="company-profile__list">
+        <dt class="company-profile__title">
+          支社        </dt>
+        <dd class="company-profile__body">
+          <ul class="bullet-list">
+    <li>香港 / ニューヨーク / 台北</li>
+</ul>        </dd>
+      </dl>
+      <dl class="company-profile__list">
+        <dt class="company-profile__title">
+          グループ会社        </dt>
+        <dd class="company-profile__body">
+          <ul class="bullet-list">
+    <li><a href="https://wealthpark-ret.com/" target="_blank">WealthPark RealEstate Technologies株式会社</a></li>
+    <li><a href="https://weifuda.tw/" target="_blank">衛富達株式会社 [台湾子会社]</a></li>
+    <li>WealthPark Capital株式会社</li>
+    <li>WealthPark,Inc.　[米国子会社]</li>
+    <li>WealthPark (HONG KONG) LIMITED　[香港子会社]</li>
+    <li>
+        <a href="https://wealthpark-alt.com/" target="_blank">WealthPark Alternative Investments株式会社</a>
+    </li>
+</ul>        </dd>
+      </dl>
+    </div>
+  </section>
+
+  <section class="page-name">
+    <div class="page-name__inner page-name__inner--company-profile">
+      <h2 class="page-name__title">Team</h2>
+    </div>
+  </section>
+
+  <section class="container team">
+    <div class="container__inner team__inner">
+      <div class="team">
+        <ul class="team-lists">
+          <li class="team-lists__person modal-syncer" data-target="modal-content-01">
+            <p class="team-lists__person-photo"><img class="" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/team_profile_kawada.png" alt="川田 隆太"></p>
+            <p class="team-lists__person-name">川田 隆太</p>
+            <p class="team-lists__person-role">WealthPark株式会社<br>Founder & 代表取締役CEO<br>兼<br>WealthPark Alternative Investments株式会社<br>代表取締役CEO</p>
+          </li>
+          <li class="team-lists__person modal-syncer" data-target="modal-content-06">
+            <p class="team-lists__person-photo"><img class="" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/team_profile_tezuka.png" alt="手塚 健介"></p>
+            <p class="team-lists__person-name">手塚 健介</p>
+            <p class="team-lists__person-role">WealthPark株式会社<br>取締役副社長COO</p>
+          </li>
+          <li class="team-lists__person modal-syncer" data-target="modal-content-04">
+            <p class="team-lists__person-photo"><img class="" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/team_profile_shirasaki.png" alt="白崎 純平"></p>
+            <p class="team-lists__person-name">白崎 純平</p>
+            <p class="team-lists__person-role">WealthPark株式会社<br>専務取締役CFO<br>米国事業責任者<br>兼<br>WealthPark Alternative Investments株式会社<br>取締役</p>
+          </li>
+        </ul>
+        <ul class="team-lists">
+            <li class="team-lists__person modal-syncer" data-target="modal-content-20">
+              <p class="team-lists__person-photo"><img class="" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/team_ph_takahiro_fujii.png" alt="藤井 貴浩"></p>
+              <p class="team-lists__person-name">藤井 貴浩</p>
+              <p class="team-lists__person-role">WealthPark株式会社<br>執行役員CTO</p>
+            </li>
+            <li class="team-lists__person modal-syncer" data-target="modal-content-33">
+              <p class="team-lists__person-photo"><img class="" src="https://wealth-park.com/wp-content/uploads/2024/06/team_ph_takeuchi.jpg" alt="竹内 絵理子"></p>
+              <p class="team-lists__person-name">竹内 絵理子</p>
+              <p class="team-lists__person-role">WealthPark株式会社 <br>執行役員<br> ライセンス準備室<br>兼<br> WealthPark Alternative Investments株式会社 <br>取締役</p>
+            </li>
+            <li class="team-lists__person modal-syncer" data-target="modal-content-22">
+              <p class="team-lists__person-photo"><img class="" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/team_ph_yamaji.png" alt="山地 壮太"></p>
+              <p class="team-lists__person-name">山地 壮太</p>
+              <p class="team-lists__person-role">WealthPark株式会社<br>執行役員<br>経営企画統括<br>兼<br>WealthPark RealEstate Technologies株式会社<br>取締役</p>
+            </li>
+            <li class="team-lists__person modal-syncer" data-target="modal-content-17">
+              <p class="team-lists__person-photo"><img class="" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/team_ph_toriya.png" alt="鳥谷 拓真"></p>
+              <p class="team-lists__person-name">鳥谷 拓真</p>
+              <p class="team-lists__person-role">WealthPark株式会社<br>執行役員<br>オーナープラットフォーム事業部 <br>事業部長</p>
+            </li>
+           <li class="team-lists__person modal-syncer" data-target="modal-content-31">
+            <p class="team-lists__person-photo"><img class="" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/team_ph_murakami.png" alt="村上 朝一"></p>
+            <p class="team-lists__person-name">村上 朝一</p>
+            <p class="team-lists__person-role">WealthPark株式会社<br>執行役員<br>DXコンサルティング事業部<br>事業部長</p>
+          </li>
+          <li class="team-lists__person modal-syncer" data-target="modal-content-16">
+            <p class="team-lists__person-photo"><img class="" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/team_ph_kan.png" alt="闞 春禕"></p>
+            <p class="team-lists__person-name">闞 春禕</p>
+            <p class="team-lists__person-role">WealthPark株式会社<br>執行役員<br>兼<br>WealthPark RealEstate Technologies株式会社<br>代表取締役CEO</p>
+          </li>
+          <li class="team-lists__person modal-syncer" data-target="modal-content-12">
+            <p class="team-lists__person-photo"><img class="" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/team_profile_ishimura.png" alt="石村 裕樹"></p>
+            <p class="team-lists__person-name">石村 裕樹</p>
+            <p class="team-lists__person-role">WealthPark株式会社<br>執行役員<br>兼<br>WealthPark Alternative Investments株式会社<br>取締役</p>
+          </li>
+          <li class="team-lists__person modal-syncer" data-target="modal-content-18">
+            <p class="team-lists__person-photo"><img class="" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/team_ph_yoshimoto.png" alt="吉本 祐貴"></p>
+            <p class="team-lists__person-name">吉本 祐貴</p>
+            <p class="team-lists__person-role">WealthPark株式会社<br>執行役員CDO<br>兼<br>WealthPark Alternative Investments株式会社<br>取締役</p>
+          </li>
+        </ul>
+        <ul class="team-lists">
+          <li class="team-lists__person modal-syncer" data-target="modal-content-14">
+            <p class="team-lists__person-photo"><img class="" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/team_ph_kato.png" alt="加藤 航介"></p>
+            <p class="team-lists__person-name">加藤 航介</p>
+            <p class="team-lists__person-role">WealthPark研究所<br>所長 / 投資のエバンジェリスト</p>
+          </li>
+          <li class="team-lists__person modal-syncer" data-target="modal-content-21">
+            <p class="team-lists__person-photo"><img class="" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/team_ph_torii.png" alt="鳥居 俊二"></p>
+            <p class="team-lists__person-name">鳥居 俊二</p>
+            <p class="team-lists__person-role">WealthPark株式会社<br>SVP of Product<br>法人事業本部<br>プロダクト部</p>
+          </li>
+          <li class="team-lists__person modal-syncer" data-target="modal-content-25">
+            <p class="team-lists__person-photo"><img class="" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/team_ph_tomiyasu.png" alt="冨康 達矢"></p>
+            <p class="team-lists__person-name">冨康 達矢</p>
+            <p class="team-lists__person-role">WealthPark株式会社<br>SVP<br>兼<br>WealthPark RealEstate Technologies株式会社<br>取締役</p>
+          </li>
+          <li class="team-lists__person modal-syncer" data-target="modal-content-32">
+            <p class="team-lists__person-photo"><img class="" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/team_profile_matsuzaki.png" alt="松崎 太郎"></p>
+            <p class="team-lists__person-name">松崎 太郎</p>
+            <p class="team-lists__person-role">WealthPark株式会社<br>SVP<br>兼<br>WealthPark RealEstate Technologies株式会社<br>Transaction&Service部<br>執行役員</p>
+          </li>
+        </ul>
+        <ul class="team-lists">
+          <li class="team-lists__person modal-syncer" data-target="modal-content-27">
+            <p class="team-lists__person-photo"><img class="" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/team_ph_horikoshi.png" alt="堀越 友香"></p>
+            <p class="team-lists__person-name">堀越 友香</p>
+            <p class="team-lists__person-role">社外取締役<br>弁護士法人中央総合法律事務所<br>パートナー</p>
+          </li>
+          <li class="team-lists__person modal-syncer" data-target="modal-content-28">
+            <p class="team-lists__person-photo"><img class="" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/team_ph_yonekura_002.png" alt="米倉 稔"></p>
+            <p class="team-lists__person-name">米倉 稔</p>
+            <p class="team-lists__person-role">社外取締役<br>セブンシーズアドバイザーズ<br>株式会社 <br>代表取締役CEO</p>
+          </li>
+          <li class="team-lists__person modal-syncer" data-target="modal-content-30">
+            <p class="team-lists__person-photo"><img class="" src="https://wealth-park.com/wp-content/uploads/2024/01/team_ph_nakae.jpg" alt="中江 史人"></p>
+            <p class="team-lists__person-name">中江 史人</p>
+            <p class="team-lists__person-role">監査役<br>Institution for a Global Society株式会社<br>取締役</p>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </section>
+  <div id="modal-content-01" class="modal-content">
+    <p class="team-lists__person-photo"><img class="" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/team_profile_kawada.png" alt="川田 隆太"></p>
+    <p class="team-lists__person-name">川田 隆太</p>
+    <p class="team-lists__person-role">WealthPark Founder & 代表取締役CEO<br>兼<br>WealthPark Alternative Investments株式会社<br>代表取締役CEO</p>
+    <p class="team-lists__person-description">みずほ証券にてクロスボーダーM&Aに従事した後、ECベンチャー企業でCFO・代表取締役を歴任。同社を売却後、WealthPark事業を創業。投資銀行での実績およびITベンチャーでの豊富なマネジメント経験を有し、国内外のテクノロジー企業や富裕層とのネットワークを持つ。<br><br> 東京工業大学経営工学科卒業</p>
+    <div class="team-lists__person-sns">
+      <a href="https://www.facebook.com/ryuta.kawada.7" target="_blank"><img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/ic_facebook.png" alt="Facebook" /></a>
+      <a href="https://www.linkedin.com/in/ryuta-kawada-76a8b29a/" target="_blank"><img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/ic_linkedin.png" alt="LinkedIn" /></a>
+      <a href="https://www.instagram.com/kawadary/?hl=ja" target="_blank"><img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/ic_instagram.png" alt="instagram" /></a>
+    </div>
+    <p><a id="modal-close" class="modal-content__button--close"><i class="material-icons">close</i></a></p>
+  </div>
+  <div id="modal-content-06" class="modal-content">
+    <p class="team-lists__person-photo"><img class="" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/team_profile_tezuka.png" alt="手塚 健介"></p>
+    <p class="team-lists__person-name">手塚 健介</p>
+    <p class="team-lists__person-role">WealthPark株式会社<br>取締役副社長COO</p>
+    <p class="team-lists__person-description">富士フイルム株式会社・楽天株式会社を経て、2015年にWealth Park株式会社に入社。国内不動産大手との事業提携を進め、インバウンド不動産事業の成長を牽引。その後、人事部の立上げ・管掌、Saas事業およびDXコンサルティング事業の立上げ・事業運営、など幅広い業務に携わる。2020年7月に取締役CBO(Chief Business Officer)、2023年11月より代表取締役副社長COOに就任。<br> <br> London Business School MBA卒業<br>東京大学法学部卒業</p>
+    <div class="team-lists__person-sns">
+      <a href="https://www.facebook.com/kensuke.tezuka" target="_blank"><img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/ic_facebook.png" alt="Facebook" /></a>
+      <a href="https://jp.linkedin.com/in/kensuke-tezuka-27182217" target="_blank"><img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/ic_linkedin.png" alt="LinkedIn" /></a>
+    </div>
+    <p><a id="modal-close" class="modal-content__button--close"><i class="material-icons">close</i></a></p>
+  </div>
+  <div id="modal-content-04" class="modal-content">
+    <p class="team-lists__person-photo"><img class="" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/team_profile_shirasaki.png" alt="白崎 純平"></p>
+    <p class="team-lists__person-name">白崎 純平</p>
+    <p class="team-lists__person-role">WealthPark株式会社<br>専務取締役CFO<br>米国事業責任者<br>兼<br>WealthPark Alternative Investments株式会社<br>取締役</p>
+    <p class="team-lists__person-description">モルガンスタンレーの不動産ファンドである MSREF にて、ハードアセット、オペレーションアセット、プライベートエクイティ、及び不良債権等への投資業務に従事し、事業に参画。国内外に幅広いネットワー クを持ち、投資運用に関し豊富な経験を有する。<br><br>慶応義塾大学総合政策学部卒業</p>
+    <div class="team-lists__person-sns">
+      <a href="https://www.linkedin.com/in/jumpei-shirasaki-35b625150/" target="_blank"><img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/ic_linkedin.png" alt="LinkedIn" /></a>
+    </div>
+    <p><a id="modal-close" class="modal-content__button--close"><i class="material-icons">close</i></a></p>
+  </div>
+  <div id="modal-content-16" class="modal-content">
+    <p class="team-lists__person-photo"><img class="" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/team_ph_kan.png" alt="闞 春禕"></p>
+    <p class="team-lists__person-name">闞 春禕</p>
+    <p class="team-lists__person-role">WealthPark株式会社<br>執行役員<br>兼<br>WealthPark RealEstate Technologies株式会社<br>代表取締役CEO</p>
+    <p class="team-lists__person-description">2008年交換留学生として日本に渡り、2014年株式会社アクトコールに入社。営業や留学生支援事業、海外不動産フランチャイズ本部の事業開発などに従事。2018年12月WealthPark入社。売買チームを作り上げ、プレーヤーとして不動産売買業務を行う。2022年1月よりWealthPark RealEstate Technologiesの代表取締役就任。<br><br>大連外国語大学卒業<br>城西国際大学 経営情報学部 総合経営学科卒業</p>
+    <p><a id="modal-close" class="modal-content__button--close"><i class="material-icons">close</i></a></p>
+  </div>
+  <div id="modal-content-25" class="modal-content">
+    <p class="team-lists__person-photo"><img class="" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/team_ph_tomiyasu.png" alt="冨康 達矢"></p>
+    <p class="team-lists__person-name">冨康 達矢</p>
+    <p class="team-lists__person-role">WealthPark株式会社<br>SVP<br>兼<br>WealthPark RealEstate Technologies株式会社<br>取締役</p>
+    <p class="team-lists__person-description">2009年に新卒で外資系投資銀行に入社。金利為替のストラクチャリング業務を経て日本国債のトレーダーとして勤務。2016年渡米。ハワイ州にて総合不動産会社を起業。2021年6月WealthPark入社。同年9月よりWealthPark RealEstate Technologiesに転籍し、2022年1月より取締役就任。<br><br>京都大学理学部理学研究科卒業 理論宇宙物理学専攻<br>大阪府立北野高等学校卒業</p>
+    <p><a id="modal-close" class="modal-content__button--close"><i class="material-icons">close</i></a></p>
+  </div>
+  <div id="modal-content-18" class="modal-content">
+    <p class="team-lists__person-photo"><img class="" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/team_ph_yoshimoto.png" alt="吉本 祐貴"></p>
+    <p class="team-lists__person-name">吉本 祐貴</p>
+    <p class="team-lists__person-role">WealthPark株式会社<br>執行役員CDO<br>兼<br>WealthPark Alternative Investments株式会社<br>取締役</p>
+    <p class="team-lists__person-description">WealthParkの共同創設者。「0→1」への事業立ち上げフェーズにおいて、プロダクトのビジョン策定、デザイン、開発マネジメント、および顧客開拓など、多岐にわたる役割を果たす。2023年5月にはWealthParkのCDO（Chief Design Officer）に就任し、2023年10月からはWealthPark Alternative Investmentsの取締役に就任。<br><br>東京都市大学情報デザイン学部卒業</p>
+    <div class="team-lists__person-sns">
+      <a href="https://www.linkedin.com/in/yukiyoshimoto/" target="_blank"><img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/ic_linkedin.png" alt="LinkedIn" /></a>
+      <a href="https://www.behance.net/yukiyoshimotostudio" target="_blank"><img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/ic_behance.png" alt="Behance"  /></a>
+      <a href="https://bootcamp.uxdesign.cc/the-story-behind-the-wealthpark-logo-design-8fff9ea98cbb " target="_blank"><img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/ic_medium.png" alt="medium"/></a>
+    </div>
+    <p><a id="modal-close" class="modal-content__button--close"><i class="material-icons">close</i></a></p>
+  </div>
+  <div id="modal-content-12" class="modal-content">
+    <p class="team-lists__person-photo"><img class="" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/team_profile_ishimura.png" alt="石村 裕樹"></p>
+    <p class="team-lists__person-name">石村 裕樹</p>
+    <p class="team-lists__person-role">WealthPark株式会社<br>執行役員<br>兼<br>WealthPark Alternative Investments株式会社<br>取締役</p>
+    <p class="team-lists__person-description">前職では、不動産管理会社向けにBPO事業の営業統括及び、海外不動産フランチャイズ本部の事業開発等に従事。2019年1月よりWealthParkではWealthParkビジネス事業の営業責任者を務めて、2021年7月より執行役員に就任。2023年10月よりWealthPark Alternative Investmentsの取締役に就任。業界団体にも参画し、不動産管理会社のデジタル活用推進の側面から、業界の発展に尽力する。</p>
+    <div class="team-lists__person-sns">
+      <a href="https://www.facebook.com/yuki.ishimura.754" target="_blank"><img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/ic_facebook.png" alt="Facebook" /></a>
+    </div>
+    <p><a id="modal-close" class="modal-content__button--close"><i class="material-icons">close</i></a></p>
+  </div>
+  <div id="modal-content-22" class="modal-content">
+    <p class="team-lists__person-photo"><img class="" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/team_ph_yamaji.png" alt="山地 壮太"></p>
+    <p class="team-lists__person-name">山地 壮太</p>
+    <p class="team-lists__person-role">WealthPark株式会社<br>執行役員<br>経営企画統括<br>兼<br>WealthPark RealEstate Technologies株式会社<br>取締役</p>
+    <p class="team-lists__person-description">リクルートジョブズ/リクルートキャリア（現リクルート）にて、営業や代理店渉外、チャネル統括、中長期戦略の企画推進等に従事。退職後は中南米・アフリカを中心に1年半ほどの旅を経て、WealthPark入社。事業開発部長としてアライアンスやマーケティング、新規事業開発等に従事した後、2023年11月より現職。<br><br>立命館大学経営学部卒業<br>グロービス経営大学院経営学修士 MBA 修了</p>
+    <div class="team-lists__person-sns">
+      <a href="https://www.facebook.com/sohta.yamaji/" target="_blank"><img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/ic_facebook.png" alt="Facebook" /></a>
+      <a href="https://www.linkedin.com/in/souta-yamaji-b33609177/" target="_blank"><img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/ic_linkedin.png" alt="LinkedIn" /></a>
+    </div>
+    <p><a id="modal-close" class="modal-content__button--close"><i class="material-icons">close</i></a></p>
+  </div>
+  <div id="modal-content-17" class="modal-content">
+    <p class="team-lists__person-photo"><img class="" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/team_ph_toriya.png" alt="鳥谷 拓真"></p>
+    <p class="team-lists__person-name">鳥谷 拓真</p>
+    <p class="team-lists__person-role">WealthPark株式会社<br>執行役員<br>オーナープラットフォーム事業部<br>事業部長</p>
+    <p class="team-lists__person-description">楽天グループ株式会社にてトラベル事業、民泊事業（現：楽天ステイ）をはじめ複数の新規事業立ち上げに従事。WeatlhParkでは、WealthParkビジネス事業のカスタマーサクセス責任者を務め、2023年5月より執行役員、2025年4月よりオーナープラットフォーム事業部 事業部長に就任。<br> <br> 早稲田大学国際教養学部卒業</p>
+    <div class="team-lists__person-sns">
+      <a href="https://www.linkedin.com/in/takuma-toriya/" target="_blank"><img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/ic_linkedin.png" alt="LinkedIn" /></a>
+      <a href="https://note.com/takuma_toriya" target="_blank"><img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/ic_note.png" alt="note" /></a>
+    </div>
+    <p><a id="modal-close" class="modal-content__button--close"><i class="material-icons">close</i></a></p>
+  </div>
+  <div id="modal-content-14" class="modal-content">
+    <p class="team-lists__person-photo"><img class="" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/team_ph_kato.png" alt="加藤 航介"></p>
+    <p class="team-lists__person-name">加藤 航介</p>
+    <p class="team-lists__person-role">WealthPark研究所<br>所長 / 投資のエバンジェリスト</p>
+    <p class="team-lists__person-description">東京海上並びに米インベスコグループにおいて投資責任者や投資啓発の要職を歴任後、WealthParkに参画。英国・米国に約10年滞在し、世界30ヵ国での投資実務を経験。個人の資産運用でも豊富な経験を持ち、「すべての人に投資の新しい扉を開く」ための幅広い活動を行う。<br><br>米国コロンビア大学経営学修士（MBA）修了</p>
+   <div class="team-lists__person-sns">
+      <a href="https://www.facebook.com/kosuke.kato.775" target="_blank"><img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/ic_facebook.png" alt="Facebook" /></a>
+      <a href="https://www.linkedin.com/in/kay-kosuke-kato-b9767b28/" target="_blank"><img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/ic_linkedin.png" alt="LinkedIn" /></a>
+     <a href="https://twitter.com/KayKato2" target="_blank"><img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/ic_twitter.png" alt="Twitter" /></a>
+    </div>
+    <p><a id="modal-close" class="modal-content__button--close"><i class="material-icons">close</i></a></p>
+  </div>
+  <div id="modal-content-33" class="modal-content">
+    <p class="team-lists__person-photo"><img class="" src="https://wealth-park.com/wp-content/uploads/2024/06/team_ph_takeuchi.jpg" alt="竹内 絵理子"></p>
+    <p class="team-lists__person-name">竹内 絵理子</p>
+    <p class="team-lists__person-role">WealthPark株式会社 <br>執行役員<br> ライセンス準備室<br>兼<br> WealthPark Alternative Investments株式会社 <br>取締役</p>
+    <p class="team-lists__person-description">銀行、カード会社、決済事業会社など金融業界において幅広く法務、コンプライアンス業務を担当。2024年2月WealthPark入社。WealthParkグループ全体の事業ライセンスに関する業務を担当。<br><br>立命館大学法学部卒業</p>
+    <p><a id="modal-close" class="modal-content__button--close"><i class="material-icons">close</i></a></p>
+  </div>
+  <div id="modal-content-20" class="modal-content">
+    <p class="team-lists__person-photo"><img class="" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/team_ph_takahiro_fujii.png" alt="藤井貴浩"></p>
+    <p class="team-lists__person-name">藤井 貴浩</p>
+    <p class="team-lists__person-role">WealthPark株式会社<br>執行役員CTO</p>
+    <p class="team-lists__person-description">前職は楽天株式会社にて、フロントエンド、バックエンド、モバイルなど様々な技術領域のエンジニアリングマネージャーとしてグローバルな開発組織のマネジメントに従事。<br>2020年にWealthParkに参画、開発組織の責任者を務める。2023年より横断的な組織マネジメントや、基盤、共通システムの改善に注力。<br>技術系のカンファレンスでの登壇や、ChatGPT、LLM関連のセミナー開催など情報発信も行う。<br> <br>東京理科大学理学部数理情報科学科(現応用数学科)卒業</p>
+    <div class="team-lists__person-sns">
+      <a href="https://www.linkedin.com/in/takahiro-fujii-221a7461/" target="_blank"><img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/ic_linkedin.png" alt="LinkedIn" /></a>
+      <a href="https://note.com/takahirofujii" target="_blank"><img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/ic_note.png" alt="note" /></a>
+      <a href="https://twitter.com/taka_ft" target="_blank"><img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/ic_twitter.png" alt="Twitter" /></a>
+      <a href="https://takahirofujii.dev/" target="_blank"><img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/ic_website.png" alt="website" /></a>
+    </div>
+    <p><a id="modal-close" class="modal-content__button--close"><i class="material-icons">close</i></a></p>
+  </div>
+  <div id="modal-content-21" class="modal-content">
+    <p class="team-lists__person-photo"><img class="" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/team_ph_torii.png" alt="鳥居 俊二"></p>
+    <p class="team-lists__person-name">鳥居 俊二</p>
+    <p class="team-lists__person-role">WealthPark株式会社<br>SVP of Product<br>法人事業本部<br>プロダクト部</p>
+    <p class="team-lists__person-description">楽天グループにて、楽天トラベルのPDMとして従事。ホテル・航空券・レンタカー等の予約サイトにおいてサプライヤ・旅行者のプロダクト開発を担当。また国内・海外チェーンホテル・大手旅行サイト・口コミサイトとの在庫連携案件（API接続）にも多数従事。<br> <br>東京理科大学大学院基礎工学研究科材料工学専攻卒業</p>
+    <div class="team-lists__person-sns">
+      <a href="https://www.linkedin.com/in/shunji-torii-6677ba97/" target="_blank"><img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/ic_linkedin.png" alt="LinkedIn" /></a>
+    </div>
+    <p><a id="modal-close" class="modal-content__button--close"><i class="material-icons">close</i></a></p>
+  </div>
+  <div id="modal-content-31" class="modal-content">
+    <p class="team-lists__person-photo"><img class="" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/team_ph_murakami.png" alt="村上 朝一"></p>
+    <p class="team-lists__person-name">村上 朝一</p>
+    <p class="team-lists__person-role">WealthPark株式会社<br>執行役員<br>DXコンサルティング事業部 <br>事業部長</p>
+    <p class="team-lists__person-description">アクセンチュア、グラクソ・スミスクライン、ソフトバンクロボティクスにて、事業戦略、ビジネス・インテリジェンス（BI）、業務企画、システム企画/運用などに従事。WealthParkではDXコンサルティングサービスの責任者を務め、2025年4月より執行役員、DXコンサルティング事業部 事業部長に就任。<br> <br>慶応義塾大学 政策・メディア研究科 修了</p>
+    <p><a id="modal-close" class="modal-content__button--close"><i class="material-icons">close</i></a></p>
+  </div>
+  <div id="modal-content-32" class="modal-content">
+    <p class="team-lists__person-photo"><img class="" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/team_profile_matsuzaki.png" alt="松崎太郎"></p>
+    <p class="team-lists__person-name">松崎太郎</p>
+    <p class="team-lists__person-role">WealthPark株式会社<br>SVP<br>兼<br>WealthPark RealEstate Technologies株式会社<br>Transaction&Service部<br>執行役員</p>
+    <p class="team-lists__person-description">米系ディストレストファンドでのミドルオフィス業務、日系不動産ファンドでのアクイジション業務、米国不動産セールス業務を経て、2016年3月にWealthPark参画、2022年1月にWealthPark RealEstate Technologiesに転籍し、インバウンド顧客向けの不動産売買を行う部署の責任者を務める。<br> <br>IE Business School IMBA卒業<br>筑波大学理工学系研究科卒業</p>
+    <p><a id="modal-close" class="modal-content__button--close"><i class="material-icons">close</i></a></p>
+  </div>
+  <div id="modal-content-27" class="modal-content">
+    <p class="team-lists__person-photo"><img class="" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/team_ph_horikoshi.png" alt="堀越 友香"></p>
+    <p class="team-lists__person-name">堀越 友香</p>
+    <p class="team-lists__person-role">社外取締役<br>弁護士法人中央総合法律事務所 <br>パートナー</p>
+    <p class="team-lists__person-description">岩手県庁、都内法律事務所、金融庁監督局総務課金融会社室などの勤務を経て、弁護士法人中央総合法律事務所に入所。金融法務や企業法務を多く手掛ける。また、「FinTech等の新たな金融サービスに対応した資金決済法等の改正案」や「仮想通貨に関する法規制と課題」など、金融領域に関する著作や論文を多数執筆している。</p>
+    <p><a id="modal-close" class="modal-content__button--close"><i class="material-icons">close</i></a></p>
+  </div>
+  <div id="modal-content-28" class="modal-content">
+    <p class="team-lists__person-photo"><img class="" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/team_ph_yonekura_002.png" alt="米倉 稔"></p>
+    <p class="team-lists__person-name">米倉 稔</p>
+    <p class="team-lists__person-role">社外取締役<br>セブンシーズアドバイザーズ株式会社 <br>代表取締役CEO</p>
+    <p class="team-lists__person-description">日本長期信用銀行、リーマン・ブラザーズ証券会社を経て、2009年に不動産総合投資顧問会社セブンシーズアドバイザーズ創業。日本発の不動産再生投資事業を築き上げ、世界の機関投資家や年金基金の資金運用を担う。<br> <br> London Business School MBA卒業<br>東京大学法学部卒業</p>
+    <p><a id="modal-close" class="modal-content__button--close"><i class="material-icons">close</i></a></p>
+  </div>
+  <div id="modal-content-29" class="modal-content">
+    <p class="team-lists__person-photo"><img class="" src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/team_ph_nakajima.png" alt="中島 遼"></p>
+    <p class="team-lists__person-name">中島 遼</p>
+    <p class="team-lists__person-role">社外取締役<br>SBIインベストメント株式会社 <br>マネージャー</p>
+    <p class="team-lists__person-description">SBIインベストメント株式会社にて、国内外の未公開企業投資業務に従事。金融、IT、バイオ分野等における、投資、ファンド運用、経営に関して、また複数の投資先をIPOやM&AのExitに導く等、豊富な経験を有する。<br> <br> 京都大学農学研究科応用生命科学専攻修了<br>岐阜大学工学部卒業</p>
+    <div class="team-lists__person-sns">
+      <a href="https://www.linkedin.com/in/ryo-nakashima-0912/" target="_blank"><img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/ic_linkedin.png" alt="LinkedIn" /></a>
+    </div>
+    <p><a id="modal-close" class="modal-content__button--close"><i class="material-icons">close</i></a></p>
+  </div>
+  <div id="modal-content-30" class="modal-content">
+    <p class="team-lists__person-photo"><img class="" src="https://wealth-park.com/wp-content/uploads/2024/01/team_ph_nakae.jpg" alt="中江 史人"></p>
+    <p class="team-lists__person-name">中江 史人</p>
+    <p class="team-lists__person-role">監査役<br>Institution for a Global Society株式会社<br>取締役</p>
+    <p class="team-lists__person-description">三菱銀行（現三菱UFJ銀行）に入行し、1996年に東京三菱銀行（現三菱UFJ銀行）為替資金部副部長 に就任。同年、東京外国為替市場委員会議長に就任。1999年にスタンダードチャータード銀行東京に入行し、同ホールセールバンキング共同代表兼グローバルマーケッツ部門長等を経て、2022年よりInstitution for a Global Society株式会社取締役を務める。<br> <br> 京都大学経済学部卒業</p>
+    <p><a id="modal-close" class="modal-content__button--close"><i class="material-icons">close</i></a></p>
+  </div>
+  <section class="container partnerships">
+  <div class="container__inner partnerships__inner">
+    <div class="title-box">
+          <p class="title">パートナー</p>
+      <p class="txt">※五十音順</p>                        
+        </div>
+    <ul class="logos--4column">
+      <li class="logos__logo">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_owl.png" alt="OWL">
+      </li>
+      <li class="logos__logo">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partner_aozora_bank_jp.png" alt="あおぞら銀行">
+      </li>
+      <li class="logos__logo">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_asahikasei.png" alt="Asahi Kasei">
+      </li>
+      <li class="logos__logo">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_hpm.png" alt="HPM">
+      </li>
+      <li class="logos__logo">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/business/img/clients_mj-home-new.png" alt="MJ Homne">
+      </li>
+      <li class="logos__logo">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partner_sbi_Investment.png" alt="SBIインベストメント">
+      </li>
+      <li class="logos__logo">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_kochi-house.png" alt="Kochi House">
+      </li>
+      <li class="logos__logo">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_kosugi.png" alt="Kosugi">
+      </li>
+      <li class="logos__logo">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_sanwa.png" alt="Sanwa">
+      </li>
+      <li class="logos__logo">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partner_jic.png" alt="jic">
+      </li>
+      <li class="logos__logo">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_jfr_logo_eibun.png" alt="J. Front Retailing">
+      </li>
+      <li class="logos__logo">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_life-produce.png" alt="Life Produce">
+      </li>
+      <li class="logos__logo">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_takuto.png" alt="Takuto">
+      </li>
+      <li class="logos__logo">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_chuo-nittochi.png" alt="Chuo Nittochi">
+      </li>
+      <li class="logos__logo">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partner_dg.png" alt="デジタルガレージ">
+      </li>
+      <li class="logos__logo">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_tokyo-kaizyo.png" alt="Tokyo Kaizyo">
+      </li>
+      <li class="logos__logo">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_TokyuFudousan.png" alt="Tokyu Fudousan">
+      </li>
+      <li class="logos__logo">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_nine-holdings.png" alt="Nine Holdings">
+      </li>
+      <li class="logos__logo">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_nihon-agant.png" alt="Nihon Agent">
+      </li>
+      <li class="logos__logo">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partner_japan_post_capital_jp.png" alt="日本郵政キャピタル株式会社">
+      </li>
+      <li class="logos__logo">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_hanshin-hankyu.png" alt="Hanshin Hankyu">
+      </li>
+      <li class="logos__logo">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_hirota.png" alt="Hirota">
+      </li>
+      <li class="logos__logo">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_visual-research.png" alt="Visual Research">
+      </li>
+      <li class="logos__logo">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partner_mizuho_capital_jp.png" alt="みずほキャピタル">
+      </li>
+      <li class="logos__logo">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_miyoshi.png" alt="Miyoshi">
+      </li>
+      <li class="logos__logo">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partner_hamagin.png" alt="横浜銀行">
+      </li>
+      <li class="logos__logo">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_watanabe.png" alt="W Juken">
+      </li>
+    </ul>  </div>
+  <div class="container__inner partnerships__inner">
+    <div class="title-box">
+          <p class="title">掲載メディア</p>
+      <p class="txt">※五十音順</p>                        
+        </div>
+    <ul class="logos--4column">
+      <li class="logos__logo">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/app/media_logo_chintaijyutakushinbun.png" alt="全国賃貸住宅新聞">
+      </li>
+      <li class="logos__logo">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/app/commercial_observer_jp.png" alt="commercial observer">
+      </li>
+        <li class="logos__logo">
+        <a href="https://signal.diamond.jp/" target="_blanc">
+          <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/app/media_logo_signal.png" alt="signal">
+        </a>
+      </li>
+      <li class="logos__logo">
+        <a href="https://jp.techcrunch.com/" target="_blanc">
+          <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/app/media_logo_tc.png" alt="techcrunch">
+        </a>
+      </li>
+      <li class="logos__logo">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/app/media_logo_tokyomx.png" alt="TOKYO MX">
+      </li>
+      <li class="logos__logo">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/app/media_logo_thebridge.png" alt="THE BRIDGE">
+      </li>
+    </ul>  </div>
+</section>
+    <div>
+    <ul class="main-footer__contents--two-panels">
+      <li>
+        <a href="https://wealth-park.com/business/">
+          <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/banner_wpb_ja_001.jpg" alt="WealthParkビジネス" />
+        </a>
+      </li>
+      <li>
+        <a href="https://wealth-park.com/asset-management/">
+          <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/banner_wpam_ja_001.jpg" alt="WealthParkアセットマネジメント" />
+        </a>
+      </li>
+    </ul>
+  <div class="panel__banners--pc">
+    <ul class="main-footer__contents--three-panels">
+      <li>
+        <a href="https://wealth-park.com/corporate/careers/">
+          <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/banner_careers_003.jpg" alt="採用情報" />
+        </a>
+      </li>
+      <li>
+        <a href="https://wealthpark-lab.com/" target="_blank" rel="noopener noreferrer">
+          <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/banner_wp-lab_002.jpg" alt="wp_lab" />
+        </a>
+      </li>
+      <li>
+        <a href="https://wealthpark-alt.com/" target="_blank" rel="noopener noreferrer">
+          <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/banner_wealthpark-investment_002.jpg" alt="WealthPark Investment" />
+        </a>
+      </li>
+    </ul>
+  </div>
+  <div class="panel__banners--sp">
+    <ul class="main-footer__contents--three-panels">
+      <li>
+        <a href="https://wealth-park.com/corporate/careers/">
+          <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/banner_careers_sp_003.jpg" alt="採用情報" />
+        </a>
+      </li>
+      <li>
+        <a href="https://wealthpark-lab.com/" target="_blank" rel="noopener noreferrer">
+          <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/banner_wp-lab_sp_001.jpg" alt="wp_lab" />
+        </a>
+      </li>
+      <li>
+        <a href="https://wealthpark-alt.com/" target="_blank" rel="noopener noreferrer">
+          <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/banner_wealthpark-investment_sp_002.jpg" alt="WealthPark Investment" />
+        </a>
+      </li>
+    </ul>
+  </div>
+  </div>
+<!-- </div> -->
+<footer>
+  <div class="container main-footer">
+  <div class="main-footer__contents">
+  <ul class="main-footer__contents--list">
+    <li>
+      <a href="https://wealth-park.com/corporate/careers/">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/banner_careers.jpg" alt="採用情報" />
+      </a>
+    </li>
+    <li>
+      <a href="https://wealth-park.com/park">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/banner_footer_park.png" alt="Park" />
+      </a>
+    </li>
+    <li>
+      <a href="https://wealth-park.com/business/download/wpl-wp002-ja/">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/wpl/GRPS_002_500x200.jpg" alt="WealthPark Global Residential PropTech Study 2022 Vol.2(日本語版)" />
+      </a>
+    </li>
+    <!-- <li>
+      <a href="https://wealth-park.com/business/">
+        <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/banner_wpb.jpg" alt="オーナーアプリではじめよう、あたらしい不動産管理 WealthPark Business" />
+      </a>
+    </li> -->
+    <li>
+      <a href="https://wealthpark-lab.com/" target="_blank" rel="noopener noreferrer"><img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/banner_wp-lab_001.jpg" alt="WealthPark研究所" /></a>
+    </li>
+  </ul>
+</div>  <div class="main-footer__inner">
+    <div class="main-footer__logo">
+      <a href="https://wealth-park.com/ja/"><img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/footer_logo_wp.svg" alt="WealthPark" /></a>
+    </div>
+    <div class="main-footer__navigation">
+      <div class="main-footer__navigation-list">
+        <p class="main-footer__navigation-title">サービス</p>
+        <ul>
+          <li><a href="https://wealth-park.com/ja/business/">不動産管理会社向けサービス</a></li>
+          <li><a href="https://owner-app.wealth-park.com" target="_blank" rel="noopener noreferrer">不動産オーナー向けサービス <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/external_link.svg" alt="Open in a new tab" /></a></li>
+          <li><a href="https://wealthpark-ret.com/" target="https://wealthpark-ret.com/">WealthPark RealEstate Technologies <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/external_link.svg" alt="Open in a new tab" /></a></li>
+          <li><a href="https://wealthpark-alt.com/" target="_blank" rel="noopener noreferrer">WealthPark Investment <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/external_link.svg" alt="Open in a new tab" /></a></li>
+          <li><a href="https://wealthpark-lab.com/" target="_blank" rel="noopener noreferrer">WealthPark研究所 </a> <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/external_link.svg" alt="Open in a new tab" /></li>
+          <li><a href="https://wealth-park.com/ja/wealthpark-blog">WealthPark Blog</a></li>
+          <li>
+            <a href="https://wealth-park.com/ja/park">
+              採用オウンドメディア「Park」            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="main-footer__navigation-list">
+        <p class="main-footer__navigation-title">製品</p>
+        <ul>
+          <li><a href="https://itunes.apple.com/jp/app/wealth-park-real-estate-investment/id1068127268" target="_blank" rel="noopener noreferrer">App Store <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/external_link.svg" alt="Open in a new tab" /></a></li>
+          <li><a href="https://play.google.com/store/apps/details?id=com.wealthpark.owner&amp;hl=ja" target="_blank" rel="noopener noreferrer">Google Play <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/external_link.svg" alt="Open in a new tab" /></a></li>
+          <li><a href="https://owner.wealth-park.com/" target="_blank" rel="noopener noreferrer">パソコン版WealthPark <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/external_link.svg" alt="Open in a new tab" /></a></li>
+        </ul>
+      </div>
+      <div class="main-footer__navigation-list">
+        <p class="main-footer__navigation-title">企業情報</p>
+        <ul>
+          <li>
+            <a href="https://wealth-park.com/ja/">
+            企業サイトTOP            </a>
+          </li>
+                      <li><a href="https://wealth-park.com/ja/corporate/company">会社概要</a></li>
+            <li><a href="https://wealth-park.com/ja/asset-management/company-profile/">WealthPark RealEstate Technologiesについて</a></li>
+                    <li><a href="https://wealth-park.com/ja/news">ニュース</a></li>
+          <li><a href="https://prtimes.jp/main/html/searchrlp/company_id/40576" target="_blank" rel="noopener noreferrer">プレスリリース <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/external_link.svg" alt="Open in a new tab" /></a></li>
+          <li><a href="https://wealth-park.com/ja/press-kit">プレスキット</a></li>
+          <li><a href="https://wealth-park.com/ja/tag/event-report/">イベント・セミナー</a></li>
+          <li><a href="https://wealth-park.com/ja/careers">採用</a></li>
+          <li><a href="https://wealth-park.com/ja/corporate/contact/">お問い合わせ</a></li>
+          <li><a href="https://wealth-park.com/ja/corporate/terms-of-use">利用規約</a></li>
+          <li><a href="https://wealth-park.com/ja/corporate/privacy-policy">プライバシーポリシー</a></li>
+          <li><a href="https://wealth-park.com/ja/corporate/external-transmission-of-user-information/">外部送信の利用者に関する情報の取扱い</a></li>
+          <li><a href="https://wealth-park.com/ja/security">情報セキュリティ</a></li>          
+        </ul>
+      </div>
+    </div>
+    <div class="main-footer__banner">
+              <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/logo_isms_2.png" alt="ISMS" />
+        <p>認証範囲: 本社</p>
+          </div>
+  </div>
+</div>
+  <div class="container sub-footer">
+  <div class="sub-footer__inner">
+    <div class="sub-footer__sns">
+      <ul class="sub-footer__sns--list">
+        <li>
+          <a href="https://www.facebook.com/WealthPark-Business-WealthPark%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A6%E3%82%A7%E3%83%AB%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2253775971335835/" target="_blank">
+            <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/ico_facebook.svg" alt="facebook" />
+          </a>
+        </li>
+        <li>
+          <a href="https://www.linkedin.com/company/wealthpark/" target="_blank">
+            <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/ico_in.svg" alt="in" />
+          </a>
+        </li>
+        <li>
+          <a href="https://www.youtube.com/channel/UCvTChmtXoEokx8vsWda8aNg" target="_blank">
+            <img src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/ico_youtube.svg" alt="youtube" />
+          </a>
+        </li>
+      </ul>
+    </div>
+    <div class="sub-footer__language">
+      <p class="language-icon"><i class="material-icons md-18">language</i>
+        <!-- 言語 -->
+      </p>
+      <form name="sort_form">
+        <select class="language-selector lang-dropdown" name="sort" onchange="dropsort()">
+          <option value="">Language</option>
+          <option value="/en/company/">English</option>
+          <option value="/ja/company/">日本語</option>
+          <option value="/sc/company/">简体中文</option>
+          <option value="/tc/company/">繁體中文</option>
+        </select>
+      </form>
+    </div>
+  </div>
+</div>
+
+</footer>
+<script>
+  $("#modal-open").click(
+  	function(){
+      //キーボード操作などにより、オーバーレイが多重起動するのを防止する
+      $(this).blur() ;	//ボタンからフォーカスを外す
+      //新しくモーダルウィンドウを起動しない
+      if($("#modal-overlay")[0]) return false ;
+      $("body").append('<div id="modal-overlay" class="modal-overlay"></div>');
+      $("#modal-overlay").fadeIn("slow");
+      $("#modal-content").fadeIn("slow");
+  	}
+  );
+  $("#modal-overlay, #modal-close").unbind().click(function(){
+    $("#modal-content, #modal-overlay").fadeOut("slow",function(){
+    	$("#modal-overlay").remove();
+    });
+  });
+</script>
+<script type="text/javascript">
+  function dropsort() {
+      var browser = document.sort_form.sort.value;
+      location.href = browser
+  }
+</script>
+</body>
+</html>

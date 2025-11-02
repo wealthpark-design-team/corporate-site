@@ -1,0 +1,287 @@
+{
+  "nav": {
+    "news": "News",
+    "newsLink": "News",
+    "productUpdates": "Product Updates & Improvements",
+    "pressRelease": "Press Release",
+    "services": "Services",
+    "businessService": "Services for Property Management Companies",
+    "businessServiceSub": "WealthPark Business",
+    "ownerService": "Services for Property Owners",
+    "ownerServiceSub": "WealthPark Owner App",
+    "overseasService": "Services for Overseas Real Estate Investors",
+    "overseasServiceSub": "WealthPark RealEstate Technologies",
+    "crowdfundingService": "Real Estate Crowdfunding Services",
+    "crowdfundingServiceSub": "WealthPark Investment",
+    "company": "Company",
+    "careers": "Careers",
+    "careersMid": "Mid-career Hiring",
+    "careersMedia": "Careers Media 'Park'",
+    "articles": "Articles",
+    "ownedMedia": "Owned Media",
+    "blog": "WealthPark Blog",
+    "lab": "WealthPark Lab",
+    "parkMedia": "Careers Media 'Park'",
+    "featured": "Featured",
+    "events": "Events & Seminars",
+    "keypersons": "Key Person's Voice | Interviews with Property Management Leaders",
+    "interviews": "Employee Interviews",
+    "forPropertyManagers": "For Property Managers",
+    "pcVersion": "WealthPark PC Version"
+  },
+  "hero": {
+    "title1": "Investment Opportunities in",
+    "title2": "Alternative Assets",
+    "title3": "for Everyone.",
+    "description1": "Real estate, art, wine, private equity, infrastructure.",
+    "description2": "WealthPark creates a global platform to democratize access to alternative asset investments that were previously available only to a select few. We aim to build a society where everyone has equal opportunities to invest in alternative assets through technology.",
+    "cta": "About WealthPark"
+  },
+  "banners": {
+    "proptech": "PropTech",
+    "fintech": "FinTech",
+    "company": "Company",
+    "business": {
+      "title": "Business Services",
+      "description": "Services for property management companies"
+    },
+    "assetManagement": {
+      "title": "Asset Management",
+      "description": "Real estate asset management services"
+    },
+    "investment": {
+      "title": "Investment Services",
+      "description": "Crowdfunding services"
+    },
+    "careers": {
+      "title": "Careers",
+      "description": "Work at WealthPark"
+    },
+    "lab": {
+      "title": "WealthPark Lab",
+      "description": "PropTech research and insights"
+    }
+  },
+  "news": {
+    "title": "News",
+    "readMore": "Read more",
+    "allArticles": "All articles →"
+  },
+  "blog": {
+    "title": "WealthPark Blog",
+    "readMore": "Read more",
+    "allArticles": "All articles →"
+  },
+  "company": {
+    "title": "Company Profile",
+    "vision": {
+      "heading": "Vision",
+      "title": "Be Alternative",
+      "subtitle": "ー Creating a world where freedom of choice is the norm ー"
+    },
+    "mission": {
+      "heading": "Mission",
+      "title": "Deliver investment opportunities in\nalternative assets to everyone",
+      "description": "Alternative assets refer to new investment targets and investment methods other than traditional assets such as listed stocks and bonds. Specifically, they include real estate, art, whiskey, wine, and unlisted stocks.\nThese alternative assets have long-standing market challenges, such as the lack of a common data infrastructure compared to traditional assets, the need for physical interim management, and many analog elements that make them accessible only to a limited number of people.\nWealthPark creates a platform for alternative assets through technology, realizing a society where everyone has equal investment opportunities and challenging the democratization of alternative investments."
+    },
+    "profile": {
+      "heading": "Company Profile",
+      "companyName": "Company Name",
+      "companyNameValue": "WealthPark Inc.",
+      "capital": "Capital",
+      "capitalValue": "100,000,000 JPY (as of December 31, 2024)",
+      "representative": "Representative",
+      "representativeValue": "Ryuta Kawada, CEO",
+      "employees": "Number of Employees",
+      "employeesValue": "150 employees (as of September 30, 2025, including group companies)",
+      "headquarters": "Headquarters",
+      "headquartersValue": "MO Building 2F, 3-14-15 Higashi, Shibuya-ku, Tokyo 150-0011",
+      "mapLink": "View Map",
+      "branches": "Branch Offices",
+      "branchesValue": "Tohoku Office / Kansai Office / Kyushu Office",
+      "offices": "International Offices",
+      "officesValue": "Hong Kong / New York / Taipei",
+      "groupCompanies": "Group Companies"
+    },
+    "team": {
+      "heading": "Team"
+    },
+    "partners": {
+      "heading": "Partners",
+      "note": "*In alphabetical order"
+    },
+    "media": {
+      "heading": "Media Coverage",
+      "note": "*In alphabetical order"
+    }
+  },
+  "careers": {
+    "title": "Careers",
+    "hero": {
+      "title": "Careers"
+    },
+    "intro": {
+      "title": "A Life with More Freedom of Choice.",
+      "description": "Whether or not you can properly handle 'investment' in your long life greatly impacts your life's richness and happiness.\n\nWealthPark is taking on the challenge of creating a better world by delivering investment opportunities and possibilities to everyone. We continue to make various challenges and growth, steadily moving forward, but we are still halfway there.\n\nWhy not enrich your own life possibilities and choices by joining us in tackling the grand vision of 'creating a world where freedom of choice is the norm.'"
+    },
+    "aboutSection": {
+      "title": "About WealthPark"
+    },
+    "positions": {
+      "title": "Open Positions",
+      "byBusiness": "By Business",
+      "byRole": "By Role",
+      "business": {
+        "title": "Business",
+        "consultant": "Consultant",
+        "businessDevelopment": "Business Development",
+        "openPosition": "Open Position",
+        "realEstateSpecialist": "Real Estate Specialist"
+      },
+      "engineering": {
+        "title": "Engineering",
+        "productManager": "Product Manager"
+      },
+      "dxConsulting": {
+        "title": "DX Services for Real Estate Companies",
+        "image": "https://wealth-park.com/wp-content/themes/wp-next-landing-page/corporate/img/careers/thumb_saas-min.jpg"
+      },
+      "fintech": {
+        "title": "Fintech Services",
+        "image": "https://wealth-park.com/wp-content/themes/wp-next-landing-page/corporate/img/careers/thumb_fintech-min.jpg"
+      },
+      "assetManagement": {
+        "title": "Asset Management for Overseas Investors",
+        "image": "https://wealth-park.com/wp-content/themes/wp-next-landing-page/corporate/img/careers/thumb_ret.jpg"
+      }
+    },
+    "interviews": {
+      "title": "Employee Interviews",
+      "viewAll": "View All Interviews"
+    },
+    "ceoMessage": {
+      "title": "Message from Founder & CEO",
+      "subtitle": "WealthPark CEO Message",
+      "description": "A message from Ryuta Kawada, CEO and Founder, to those considering joining WealthPark."
+    },
+    "vision": {
+      "title": "Vision",
+      "heading": "\"Be Alternative\"",
+      "subtitle": "Creating a world where freedom of choice is the norm",
+      "description": "WealthPark is building a platform for alternative assets with the mission of 'delivering investment opportunities in alternative assets to everyone.' Through technology, we aim to realize a society where everyone has equal investment opportunities and challenge the democratization of alternative investments."
+    },
+    "mission": {
+      "title": "Mission",
+      "heading": "Deliver investment opportunities in alternative assets to everyone",
+      "description": "Alternative assets refer to new investment targets and methods other than traditional assets such as listed stocks and bonds. Specifically, they include real estate, art, whiskey, wine, and unlisted stocks.\nThese alternative assets have long-standing market challenges compared to traditional assets, such as the lack of a common data infrastructure, the need for physical interim management, and many analog elements that make them accessible only to a limited number of people.\nWealthPark creates a platform for alternative assets through technology, realizing a society where everyone has equal investment opportunities and challenging the democratization of alternative investments."
+    },
+    "behaviorIdentity": {
+      "title": "Behavior Identity",
+      "customerCentric": {
+        "title": "CUSTOMER CENTRIC",
+        "description": "We act and think based on our customers' expectation and needs.\nOur business dedicates to providing and adding values for our customers.",
+        "link": "Learn More"
+      },
+      "goBeyond": {
+        "title": "GO BEYOND",
+        "description": "We go beyond our roles and positions to take actions that we know will help the business as a whole.\nWe are always proactively interacting and helping each other.",
+        "link": "Learn More"
+      },
+      "appreciationRespect": {
+        "title": "APPRECIATION AND RESPECT",
+        "description": "We respect diversity and communicate appreciation to the team, and show it with words and acting.",
+        "link": "Learn More"
+      },
+      "commitResults": {
+        "title": "COMMIT TO RESULTS",
+        "description": "When we commit to something, we will go the distance.\nNo matter what the difficulty is we think about why we can do it, not why we cannot, and stick to delivering the results.",
+        "link": "Learn More"
+      },
+      "doRightThing": {
+        "title": "DO THE RIGHT THING",
+        "description": "We always act with integrity and honesty to the society.\nWe take pride in doing the right things.",
+        "link": "Learn More"
+      }
+    }
+  },
+  "business": {
+    "hero": {
+      "title": "Start New Real Estate Management with Owner App",
+      "subtitle1": "Paperless income/expense reporting via smartphone",
+      "subtitle2": "Visualize communication through chat",
+      "subtitle3": "One-click approval for rental conditions and repair cost estimates",
+      "annotation": "*1 Research by Japan Marketing Research Organization (June 2021)",
+      "cta1": "WealthPark Business Service Materials",
+      "cta2": "Free Download",
+      "phone": "03-6694-2621"
+    },
+    "testimonials": {
+      "managementTitle": "Voices from Property Management Companies",
+      "quote1": "We want to provide an environment where owners can access information anytime, anywhere",
+      "ref1": "Mitsui Fudosan Residential Lease Co., Ltd., Business Planning Department, Innovation Promotion Division, Mr. Sato Hidehiro",
+      "quote2": "We've started to see the 'faces' of owners that we never knew before",
+      "ref2": "Kosugi Real Estate Co., Ltd., Rental Management Division, PM Business Division, Manager Tomono Naohiro",
+      "quote3": "Achieved 70% digitalization of remittance statements! Operations are overwhelmingly more rational",
+      "ref3": "Trust Co., Ltd., Rental Management Department, Deputy Manager Ogawa Yohei, Nihei Yuko",
+      "quote4": "Sales representatives unanimously say this should be introduced to all owners",
+      "ref4": "Mitsubishi Jisho House Net Co., Ltd., Planning Department Manager Shinohara Yasunao",
+      "ownerTitle": "Voices from Owners",
+      "ownerQuote1": "It's great that I can show income/expense information on the spot without having to go get paper documents",
+      "ownerQuote2": "With chat, I can send messages the moment I think of something",
+      "ownerQuote3": "Although it was my first time using a smartphone app, I found it convenient",
+      "ownerQuote4": "When I don't know who to ask at the management company, this app makes it immediately clear"
+    },
+    "caseStudies": {
+      "title": "Case Studies",
+      "viewAll": "View All Case Studies"
+    },
+    "about": {
+      "title": "Realizing DX in Real Estate Management with WealthPark Business",
+      "description": "WealthPark Business is a business support system that connects property owners and management companies via app. By providing a cloud-based system for property management companies and an owner app (smartphone app and website) for owners, income/expense reporting and sales proposals become simple and speedy.",
+      "videoCaption": "2-minute overview of WealthPark Business (video)"
+    },
+    "points": {
+      "point1Title": "Reduce Analog Operations. Improve Efficiency and Cut Costs",
+      "point1Description": "Income/expense reporting via app and web eliminates printing, stuffing, and mailing. With all owner reporting and approvals handled through the system, efficiency and visibility are achieved, dramatically improving management productivity.",
+      "point2Title": "Increase Owner Satisfaction. Expand Management Units",
+      "point2Description": "Owners can check asset information anytime, anywhere, and easily download data for tax filing. Management company inquiries can be approved with one click. Improved convenience and satisfaction for owners leads to further management acquisition and prevents management loss.",
+      "point3Title": "New Proposal Opportunities to Owners via Smartphone",
+      "point3Description": "The owner app becomes a touchpoint with owners, making it easy to promote seminars, introduce recommended properties, and propose ancillary products. Furthermore, accumulated data becomes valuable assets that can be leveraged for business strategy and sales strategy."
+    },
+    "features": {
+      "title": "Feature List",
+      "cashflow": {
+        "title": "Digitalization of Income/Expense Statements and Reports",
+        "description": "Share simple and easy-to-read income/expense reports via app and web"
+      },
+      "chat": {
+        "title": "Chat Communication",
+        "description": "Smoother information sharing within the company using chat"
+      },
+      "workflow": {
+        "title": "Activity Function",
+        "description": "Simple and reliable reporting/approval to owners"
+      },
+      "storage": {
+        "title": "Information Sharing via Owner App",
+        "description": "Share property/tenant information and loan information with owners via app"
+      },
+      "language": {
+        "title": "Multilingual Support",
+        "description": "Support for overseas properties and overseas owners using multilingual features"
+      },
+      "security": {
+        "title": "Information Security Measures",
+        "description": "Efforts related to confidentiality, integrity, and availability of information assets"
+      },
+      "pocket": {
+        "title": "Mobile App for Property Management Companies",
+        "description": "About the 'WPB Pocket' app for property management companies"
+      },
+      "viewDetail": "Learn more >"
+    },
+    "productNews": {
+      "title": "Product Improvements & New Features"
+    }
+  }
+}
