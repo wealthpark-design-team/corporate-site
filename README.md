@@ -8,6 +8,43 @@ WealthPark株式会社のコーポレートサイト
 - **言語**: TypeScript
 - **スタイリング**: Tailwind CSS
 - **開発環境**: Node.js
+- **バージョン管理**: GitHub
+- **ホスティング**: Vercel
+
+## デプロイ状況
+
+### ✅ 完了
+- GitHubリポジトリへのプッシュ: https://github.com/wealthpark-design-team/corporate-site
+- Vercelへの自動デプロイ設定完了
+
+### ⚠️ 未実装・課題
+- **認証機能**: 現在、サイトは公開状態です。Vercel Deployment Protectionやミドルウェアでの認証実装が必要です
+- **middlewareエラー**: Next.js 16でmiddleware.tsがVercel環境でエラーを起こすため、app/page.tsxでのリダイレクトに変更しました
+
+### 🐛 トラブルシューティング履歴
+
+#### Issue 1: SSH認証エラー
+**問題**: GitHubへのプッシュ時に`Permission denied to matsumotokaya`エラー
+**原因**: SSH鍵が誤ったGitHubアカウント（matsumotokaya）に登録されていた
+**解決**:
+1. SSH agentのキャッシュをクリア: `ssh-add -D`
+2. 正しいアカウント（kayamatsumoto）にSSH鍵を登録
+3. `~/.ssh/config`に`IdentitiesOnly yes`を追加
+
+#### Issue 2: Vercelで500エラー（MIDDLEWARE_INVOCATION_FAILED）
+**問題**: デプロイ後に`500: INTERNAL_SERVER_ERROR`が発生
+**原因**: Next.js 16のmiddleware.tsがVercel環境で正常に動作しない
+**試行した解決策**:
+1. ❌ middlewareのmatcher設定を変更 → 効果なし
+2. ❌ middleware.tsをproxy.tsにリネーム → ビルドエラー
+3. ✅ middlewareを削除し、`app/page.tsx`で`redirect('/ja')`を実装
+
+**現在の状態**: middlewareなしで、ルートページから/jaへリダイレクトする方式で動作中
+
+#### 今後の対応が必要な項目
+- [ ] Next.js 16の`proxy.ts`への移行を検討（middlewareの代替）
+- [ ] Vercel Deployment Protectionの設定（パスワード保護）
+- [ ] 本番ドメインの設定
 
 ## サイト構成（サイトマップ）
 
