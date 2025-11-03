@@ -15,7 +15,7 @@ export default async function CompanyPage({ params }: { params: Promise<{ locale
   return (
     <>
       <Header locale={localeKey} />
-      <main className="pt-20">
+      <main className="pt-header lg:pt-header-desktop">
         {/* Hero Section */}
         <section className="relative min-h-[400px] flex items-center justify-center bg-gradient-to-br from-slate-900 to-slate-800 text-white">
           <div

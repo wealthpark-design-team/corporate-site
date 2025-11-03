@@ -15,7 +15,7 @@ export default async function Home({ params }: { params: Promise<{ locale: strin
   return (
     <>
       <Header locale={localeKey} />
-      <main className="pt-20">
+      <main className="pt-header lg:pt-header-desktop">
         <Hero locale={localeKey} t={t.hero} />
         <Banners locale={localeKey} t={t.banners} />
         <News locale={localeKey} t={t.news} />

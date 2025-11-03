@@ -26,7 +26,7 @@ export default async function ParkPostPage({
   return (
     <>
       <Header locale={localeKey} />
-      <main className="pt-20 bg-white">
+      <main className="pt-header lg:pt-header-desktop bg-white">
         {/* 記事ヘッダー - 元のデザインに合わせてシンプルに */}
         <article className="py-8 md:py-12">
           {/* メインコンテンツ - 狭めの最大幅 */}

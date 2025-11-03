@@ -10,10 +10,10 @@ export default function BusinessHeader({ locale = 'ja' }: { locale?: string }) {
   const [openDropdown, setOpenDropdown] = useState<string | null>(null)
 
   return (
-    <header className="w-full fixed top-0 left-0 right-0 bg-white/70 backdrop-blur-md border-b border-gray-200/50 z-50">
-      <nav className="max-w-7xl mx-auto px-6 lg:px-8">
+    <header className="w-full fixed top-0 left-0 right-0 bg-white/50 backdrop-blur-md z-50 h-header lg:h-header-desktop">
+      <nav className="max-w-7xl mx-auto px-6 lg:px-8 h-full">
         {/* Desktop Navigation */}
-        <div className="hidden lg:flex items-center justify-between py-5">
+        <div className="hidden lg:flex items-center justify-between h-full">
           <Link href={`/${locale}/business`} className="flex items-center">
             <Image
               src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/business_logo_black.svg"
@@ -129,7 +129,7 @@ export default function BusinessHeader({ locale = 'ja' }: { locale?: string }) {
         </div>
 
         {/* Mobile Navigation */}
-        <div className="lg:hidden flex items-center justify-between py-4">
+        <div className="lg:hidden flex items-center justify-between h-header">
           <Link href={`/${locale}/business`} className="flex items-center">
             <Image
               src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/business_logo_black.svg"

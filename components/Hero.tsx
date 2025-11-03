@@ -70,7 +70,7 @@ export default function Hero({ locale, t }: { locale: string; t: HeroTranslation
         <div className="max-w-4xl">
           <div className="relative mb-10">
             {/* 透明プレースホルダー - スペース確保用 */}
-            <h1 className="text-[30px] md:text-6xl lg:text-7xl font-bold opacity-0 pointer-events-none" aria-hidden="true">
+            <h1 className="text-[30px] md:text-6xl lg:text-7xl font-extrabold md:font-bold leading-[1.4] md:leading-normal opacity-0 pointer-events-none" aria-hidden="true">
               <span className="block text-gray-900 md:mb-[20px]">
                 {t.title1}
               </span>
@@ -83,7 +83,7 @@ export default function Hero({ locale, t }: { locale: string; t: HeroTranslation
             </h1>
 
             {/* タイプライター効果 - 実際に表示される */}
-            <h1 className="absolute top-0 left-0 text-[30px] md:text-6xl lg:text-7xl font-bold">
+            <h1 className="absolute top-0 left-0 text-[30px] md:text-6xl lg:text-7xl font-extrabold md:font-bold leading-[1.4] md:leading-normal">
               <span className="block text-gray-900 md:mb-[20px]">
                 {displayedText1}
                 {currentLine === 0 && showCursor && <span className="animate-pulse">_</span>}

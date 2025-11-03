@@ -16,7 +16,7 @@ export default async function ParkPage({ params }: { params: Promise<{ locale: s
   return (
     <>
       <Header locale={localeKey} />
-      <main className="pt-20">
+      <main className="pt-header lg:pt-header-desktop">
         {/* ヒーローセクション */}
         <section className="relative bg-gradient-to-br from-pink-200 via-pink-100 to-rose-100">
           <div className="max-w-7xl mx-auto">

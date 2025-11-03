@@ -8,6 +8,10 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      spacing: {
+        'header': '4rem', // 64px - モバイルヘッダーの高さ
+        'header-desktop': '5.313rem', // 85px - PCヘッダーの高さ
+      },
       keyframes: {
         float1: {
           '0%': {

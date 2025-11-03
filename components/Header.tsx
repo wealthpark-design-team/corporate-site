@@ -19,9 +19,8 @@ export default function Header({ locale = 'ja' }: { locale?: string }) {
       <motion.header
         initial={false}
         animate={{
-          height: isMenuOpen ? "100vh" : "64px", // auto → 64px（h-16）に変更
-          backgroundColor: isMenuOpen ? "#000000" : "rgba(255, 255, 255, 0.7)", // 黒に変更
-          borderColor: isMenuOpen ? "rgba(0, 0, 0, 0)" : "rgba(229, 231, 235, 0.5)"
+          height: isMenuOpen ? "100vh" : "4rem", // 64px（モバイル用、PC版はCSSで上書き）
+          backgroundColor: isMenuOpen ? "#000000" : "rgba(255, 255, 255, 0.5)", // 透明度0.5に変更
         }}
         transition={{
           height: {
@@ -34,17 +33,14 @@ export default function Header({ locale = 'ja' }: { locale?: string }) {
             delay: isMenuOpen ? 0 : 0.3, // 開く時:すぐ、閉じる時:0.3秒待機（高さと同時）
             ease: [0.4, 0, 1, 1] // ゆっくり→加速→止まる
           },
-          borderColor: {
-            duration: 0.6, // 0.6秒
-            delay: isMenuOpen ? 0 : 0.3, // 開く時:すぐ、閉じる時:0.3秒待機
-            ease: [0.4, 0, 1, 1]
-          }
         }}
-        className="w-full fixed top-0 left-0 right-0 backdrop-blur-md border-b z-50 overflow-hidden"
+        className={`w-full fixed top-0 left-0 right-0 backdrop-blur-md z-50 ${
+          isMenuOpen ? 'overflow-hidden' : 'lg:overflow-visible lg:!h-header-desktop'
+        }`}
       >
         <nav className="max-w-7xl mx-auto px-6 lg:px-8">
           {/* Desktop Navigation */}
-          <div className="hidden lg:flex items-center justify-between py-5">
+          <div className="hidden lg:flex items-center justify-between h-header-desktop">
             <Link href={`/${locale}/`} className="flex items-center">
               <Image
                 src="/logo-wealthpark-black.svg"
