@@ -66,8 +66,8 @@ export default function Hero({ locale, t }: { locale: string; t: HeroTranslation
           // @ts-ignore
           window.THREE = THREE
 
-          // Vanta Dotsを読み込む
-          const VANTA = await import('vanta/dist/vanta.dots.min.js')
+          // Vanta Fogを読み込む
+          const VANTA = await import('vanta/dist/vanta.fog.min.js')
 
           if (vantaRef.current) {
             vantaEffect.current = (VANTA as any).default({
@@ -78,14 +78,32 @@ export default function Hero({ locale, t }: { locale: string; t: HeroTranslation
               gyroControls: false,
               minHeight: 200.00,
               minWidth: 200.00,
-              scale: 1.00,
-              scaleMobile: 1.00,
-              color: 0x8e8e8e,
-              backgroundColor: 0xf5f5f5,
-              size: 2.00,
-              spacing: 20.00,
-              showLines: false
+              highlightColor: 0xebebff,
+              midtoneColor: 0xb2c3ff,
+              lowlightColor: 0xffbee6,
+              baseColor: 0xffffff,
+              speed: 2.00,
+              zoom: 0.50
             })
+
+            // 【以前のDots設定 - 参考用】
+            // const VANTA = await import('vanta/dist/vanta.dots.min.js')
+            // vantaEffect.current = (VANTA as any).default({
+            //   el: vantaRef.current,
+            //   THREE: THREE,
+            //   mouseControls: true,
+            //   touchControls: true,
+            //   gyroControls: false,
+            //   minHeight: 200.00,
+            //   minWidth: 200.00,
+            //   scale: 1.00,
+            //   scaleMobile: 1.00,
+            //   color: 0x8e8e8e,
+            //   backgroundColor: 0xf5f5f5,
+            //   size: 2.00,
+            //   spacing: 20.00,
+            //   showLines: false
+            // })
 
             // canvasを背景に固定
             setTimeout(() => {
