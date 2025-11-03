@@ -1,25 +1,44 @@
 /**
  * ポータブル認証ヘルパー
- * どのホスティング環境でも動作する汎用的な実装
+ * コードだけで完結する完全ポータブル実装
  */
 
-// 環境変数からパスワードを取得
+// 認証設定（ここで直接設定）
+const AUTH_CONFIG = {
+  enabled: true,
+  password: 'wealthpark',
+}
+
+// 環境変数からパスワードを取得（環境変数が設定されていればそちらを優先）
 export function getAuthPassword(): string | null {
-  // サーバーサイド環境変数（推奨）
+  // 環境変数が設定されていればそれを使用（オプション）
   if (typeof window === 'undefined') {
-    return process.env.AUTH_PASSWORD || null
+    const envPassword = process.env.AUTH_PASSWORD
+    if (envPassword) return envPassword
+  } else {
+    const envPassword = process.env.NEXT_PUBLIC_AUTH_PASSWORD
+    if (envPassword) return envPassword
   }
 
-  // クライアントサイド環境変数（ビルド時に埋め込み）
-  return process.env.NEXT_PUBLIC_AUTH_PASSWORD || null
+  // デフォルトはコード内の設定を使用
+  return AUTH_CONFIG.password
 }
 
 // 認証が有効かチェック
 export function isAuthEnabled(): boolean {
+  // 環境変数が設定されていればそれを使用（オプション）
   if (typeof window === 'undefined') {
-    return process.env.AUTH_ENABLED === 'true'
+    if (process.env.AUTH_ENABLED !== undefined) {
+      return process.env.AUTH_ENABLED === 'true'
+    }
+  } else {
+    if (process.env.NEXT_PUBLIC_AUTH_ENABLED !== undefined) {
+      return process.env.NEXT_PUBLIC_AUTH_ENABLED === 'true'
+    }
   }
-  return process.env.NEXT_PUBLIC_AUTH_ENABLED === 'true'
+
+  // デフォルトはコード内の設定を使用
+  return AUTH_CONFIG.enabled
 }
 
 // パスワード検証

@@ -1,142 +1,130 @@
-# 認証機能実装ガイド
+# 認証機能ガイド
 
-## 🔐 実装した認証方法
+## 🔐 コードだけで完結するポータブル認証
 
-**ポータブル設計**: Next.js標準機能のみを使用しているため、Vercel、Kinsta、AWS等、どのホスティング環境でも動作します。
+**完全ポータブル設計**: コード内に認証設定を記載しているため、環境変数の設定不要でどのホスティング環境でも動作します。
 
-## Option 1: Middleware Basic認証（サーバーサイド）
+## 認証設定の変更方法
 
-### 特徴
-- ✅ サーバーサイドで動作
-- ✅ ブラウザの標準認証ダイアログを使用
-- ✅ セキュリティレベル高
-- ⚠️ 以前Vercelで問題があったため要テスト
+### 方法1: コードで直接変更（推奨）
 
-### 設定方法
+`lib/auth.ts` を編集：
 
-1. **Vercel環境変数を設定**
-   ```
-   AUTH_ENABLED=true
-   BASIC_AUTH_USER=wealthpark
-   BASIC_AUTH_PASSWORD=your-secure-password
-   ```
+```typescript
+const AUTH_CONFIG = {
+  enabled: true,          // 認証の有効/無効
+  password: 'wealthpark', // パスワード
+}
+```
 
-2. **middleware.tsは既に実装済み**（自動的に動作）
+**メリット：**
+- ✅ 環境変数の設定不要
+- ✅ どのホスティング環境でも同じ動作
+- ✅ Git clone → npm run build → デプロイ だけで動作
 
-### ローカルテスト
-```bash
-# .env.localファイルを作成
-cp .env.local.example .env.local
-# ファイルを編集してパスワードを設定
-npm run build && npm start
+**変更手順：**
+1. `lib/auth.ts` を開く
+2. `AUTH_CONFIG` の値を変更
+3. コミット & プッシュ
+4. 自動デプロイ完了
+
+---
+
+### 方法2: 環境変数で上書き（オプション）
+
+環境ごとに異なるパスワードを使いたい場合のみ使用：
+
+**Vercel:**
+- `NEXT_PUBLIC_AUTH_ENABLED` = `true` または `false`
+- `NEXT_PUBLIC_AUTH_PASSWORD` = `カスタムパスワード`
+
+**Kinsta:**
+- 同じ環境変数を設定
+
+**優先順位：**
+1. 環境変数（設定されていれば）
+2. コード内の `AUTH_CONFIG`（デフォルト）
+
+---
+
+## 認証の有効化/無効化
+
+### 有効化（デフォルト）
+
+現在の設定で既に有効化されています。
+
+### 無効化する場合
+
+`lib/auth.ts` を編集：
+
+```typescript
+const AUTH_CONFIG = {
+  enabled: false,  // false に変更
+  password: 'wealthpark',
+}
 ```
 
 ---
 
-## Option 2: AuthWrapperコンポーネント（クライアントサイド）※推奨
+## 動作仕様
 
-### 特徴
-- ✅ Vercelで確実に動作
-- ✅ カスタマイズ可能なログイン画面
-- ✅ セッションストレージ使用
-- ⚠️ パスワードがビルドに含まれる（公開前サイトなら問題なし）
+### ローカル開発環境
+- 認証は自動的にスキップされます
+- `npm run dev` で認証なしでアクセス可能
 
-### 設定方法
-
-1. **Vercel環境変数を設定**
-   ```
-   NEXT_PUBLIC_SITE_PASSWORD=your-password-here
-   ```
-
-2. **app/[locale]/layout.tsxを編集**
-   ```typescript
-   // コメントを解除
-   import AuthWrapper from '@/components/AuthWrapper'
-
-   // childrenをAuthWrapperで囲む
-   <AuthWrapper>
-     {children}
-   </AuthWrapper>
-   ```
-
-3. **デプロイ**
-   ```bash
-   git add .
-   git commit -m "Enable authentication"
-   git push
-   ```
+### 本番環境（Vercel、Kinsta等）
+- 認証画面が表示されます
+- パスワード入力後にサイトが表示されます
+- セッションストレージに保存（ブラウザを閉じるとログアウト）
 
 ---
 
-## 🚀 推奨設定
+## 認証画面のカスタマイズ
 
-### Vercelでの環境変数設定手順
+`components/AuthWrapper.tsx` を編集：
 
-1. Vercelダッシュボードにログイン
-2. プロジェクトを選択
-3. Settings → Environment Variables
-4. 以下を追加：
-
-**Option 2（推奨）の場合：**
-- Key: `NEXT_PUBLIC_AUTH_ENABLED` = `true`
-- Key: `NEXT_PUBLIC_AUTH_PASSWORD` = `希望のパスワード`
-- Environment: Production
-
-**Option 1の場合：**
-- `AUTH_ENABLED` = `true`
-- `BASIC_AUTH_USER` = `希望のユーザー名`
-- `BASIC_AUTH_PASSWORD` = `希望のパスワード`
-
-5. Save → Redeploy
+```typescript
+<h1 className="text-2xl font-bold mb-6 text-center text-gray-800">
+  WealthPark Preview Site  {/* ← ここを変更 */}
+</h1>
+```
 
 ---
 
-### Kinstaでの環境変数設定手順
+## セキュリティについて
 
-1. MyKinstaダッシュボードにログイン
-2. Applications → 該当アプリケーションを選択
-3. Settings → Environment variables
-4. 以下を追加：
+### プレビューサイト向け
 
-**Option 2（推奨）の場合：**
-- Key: `NEXT_PUBLIC_AUTH_ENABLED` = `true`
-- Key: `NEXT_PUBLIC_AUTH_PASSWORD` = `希望のパスワード`
+このシンプルな認証は、以下の用途に適しています：
+- ✅ 開発中のプレビューサイト
+- ✅ 社内レビュー用サイト
+- ✅ クライアント確認用サイト
 
-**Option 1の場合：**
-- `AUTH_ENABLED` = `true`
-- `BASIC_AUTH_USER` = `希望のユーザー名`
-- `BASIC_AUTH_PASSWORD` = `希望のパスワード`
+### 本番サイトには不向き
 
-5. Save changes → Redeploy
-
-**Kinsta固有の注意点：**
-- ビルドコマンド: `npm run build`
-- 起動コマンド: `npm start`
-- Node.jsバージョン: 18.x 以上推奨
+以下の場合は、より高度な認証システムを検討してください：
+- ❌ ユーザーごとに異なるアクセス権限
+- ❌ 個人情報を扱うサイト
+- ❌ 決済機能があるサイト
 
 ---
 
-## 📝 注意事項
+## トラブルシューティング
 
-### Option 1（Middleware）
-- 以前Vercelで問題があったため、動作しない場合はOption 2を使用
+### 認証画面が表示されない
 
-### Option 2（AuthWrapper）
-- 開発環境では認証をスキップ（自動判定）
-- パスワードはブラウザのセッションストレージに保存
-- ブラウザを閉じるとログアウト
+1. `lib/auth.ts` の `enabled: true` を確認
+2. ブラウザのキャッシュをクリア
+3. シークレットモードで確認
 
----
+### パスワードが合わない
 
-## 🔧 トラブルシューティング
+1. `lib/auth.ts` のパスワードを確認
+2. 大文字小文字を確認
+3. 環境変数で上書きしていないか確認
 
-### 認証が表示されない場合
-1. 環境変数が正しく設定されているか確認
-2. Vercelで再デプロイ
-3. ブラウザのキャッシュをクリア
+### ローカルで認証が表示される
 
-### Middlewareエラーが出る場合
-- Option 2（AuthWrapper）に切り替える
-
-### パスワードを忘れた場合
-- Vercelの環境変数から確認・変更
+- ローカル開発環境では認証はスキップされます
+- これは正常な動作です
+- 本番環境でのみ認証が有効になります
