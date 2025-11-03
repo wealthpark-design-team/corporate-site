@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
 import '../globals.css'
 import CookieConsent from '@/components/CookieConsent'
+// import AuthWrapper from '@/components/AuthWrapper' // 認証を有効化する場合はコメント解除
 
 const inter = Inter({
   subsets: ['latin'],
@@ -37,6 +38,11 @@ export default async function LocaleLayout({
           <div className="absolute top-20 left-1/4 w-[500px] h-[600px] bg-gradient-to-br from-purple-200 via-blue-200 to-transparent opacity-60 animate-float1" style={{ borderRadius: '70% 30% 50% 50% / 30% 50% 50% 70%', filter: 'blur(80px)', animationDelay: '3s' }} />
           <div className="absolute top-1/3 right-1/4 w-[400px] h-[500px] bg-gradient-to-br from-pink-200 via-orange-100 to-yellow-100 opacity-50 animate-float2" style={{ borderRadius: '40% 60% 60% 40% / 60% 40% 60% 40%', filter: 'blur(80px)', animationDelay: '5s' }} />
         </div>
+        {/* 認証を有効化する場合は以下のコメントを解除
+        <AuthWrapper>
+          {children}
+        </AuthWrapper>
+        */}
         {children}
         <CookieConsent />
       </body>

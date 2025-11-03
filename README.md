@@ -26,10 +26,15 @@ WealthPark株式会社のコーポレートサイト
 - **HTML構造**: 全ページで適切なHTML構造を保証
 - **多言語対応**: 日本語（`/ja`）と英語（`/en`）に対応
 
+### 🔐 認証機能
+- ✅ ポータブル認証実装済み（Vercel、Kinsta、AWS等で動作）
+- 📝 詳細: [認証機能ガイド](./docs/authentication-guide.md)
+- 現在は無効化（有効化は簡単）
+
 ### 📋 今後の実装予定
-- [ ] Vercel Deployment Protection（パスワード保護）
+- [ ] 認証機能の有効化（本番デプロイ前）
 - [ ] 本番ドメインの設定（wealth-park.com）
-- [ ] 認証機能の実装
+- [ ] Kinstaへの移行準備
 
 ## サイト構成（サイトマップ）
 
