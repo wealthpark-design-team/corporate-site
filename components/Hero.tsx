@@ -1,7 +1,7 @@
 'use client'
 
 import Link from 'next/link'
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useRef } from 'react'
 
 type HeroTranslations = {
   title1: string
@@ -18,6 +18,8 @@ export default function Hero({ locale, t }: { locale: string; t: HeroTranslation
   const [displayedText3, setDisplayedText3] = useState('')
   const [currentLine, setCurrentLine] = useState(0)
   const [showCursor, setShowCursor] = useState(true)
+  const vantaRef = useRef<HTMLDivElement>(null)
+  const vantaEffect = useRef<any>(null)
 
   useEffect(() => {
     // カーソル点滅
@@ -54,9 +56,87 @@ export default function Hero({ locale, t }: { locale: string; t: HeroTranslation
     return () => clearInterval(typeInterval)
   }, [currentLine, t.title1, t.title2, t.title3])
 
+  // Vanta.js エフェクト
+  useEffect(() => {
+    if (!vantaEffect.current && vantaRef.current) {
+      const loadVanta = async () => {
+        try {
+          // THREE.jsを先に読み込む
+          const THREE = await import('three')
+          // @ts-ignore
+          window.THREE = THREE
+
+          // Vanta Dotsを読み込む
+          const VANTA = await import('vanta/dist/vanta.dots.min.js')
+
+          if (vantaRef.current) {
+            vantaEffect.current = (VANTA as any).default({
+              el: vantaRef.current,
+              THREE: THREE,
+              mouseControls: true,
+              touchControls: true,
+              gyroControls: false,
+              minHeight: 200.00,
+              minWidth: 200.00,
+              scale: 1.00,
+              scaleMobile: 1.00,
+              color: 0x8e8e8e,
+              backgroundColor: 0xf5f5f5,
+              size: 2.00,
+              spacing: 20.00,
+              showLines: false
+            })
+
+            // canvasを背景に固定
+            setTimeout(() => {
+              const canvas = vantaRef.current?.querySelector('canvas') as HTMLCanvasElement
+              if (canvas) {
+                canvas.style.zIndex = '-1'
+              }
+
+              // カメラの動きを詳細に調査
+              if (vantaEffect.current) {
+                console.log('=== Vanta Effect 詳細 ===')
+                console.log('options:', vantaEffect.current.options)
+                console.log('camera:', vantaEffect.current.camera)
+                console.log('cameraPosition:', vantaEffect.current.cameraPosition)
+
+                // 5秒間、0.5秒ごとにカメラ位置を記録
+                let count = 0
+                const interval = setInterval(() => {
+                  if (count < 10 && vantaEffect.current?.camera) {
+                    console.log(`[${count * 0.5}秒] カメラ位置:`, {
+                      x: vantaEffect.current.camera.position.x.toFixed(2),
+                      y: vantaEffect.current.camera.position.y.toFixed(2),
+                      z: vantaEffect.current.camera.position.z.toFixed(2)
+                    })
+                    count++
+                  } else {
+                    clearInterval(interval)
+                  }
+                }, 500)
+              }
+            }, 100)
+          }
+        } catch (error) {
+          console.error('Failed to load Vanta:', error)
+        }
+      }
+
+      loadVanta()
+    }
+
+    return () => {
+      if (vantaEffect.current) {
+        console.log('Destroying Vanta effect')
+        vantaEffect.current.destroy()
+      }
+    }
+  }, [])
+
   return (
-    <section className="relative py-24 md:py-32 lg:py-40 px-6 z-10">
-      <div className="max-w-6xl mx-auto">
+    <section ref={vantaRef} className="relative min-h-screen py-24 md:py-32 lg:py-40 px-6 overflow-hidden">
+      <div className="max-w-6xl mx-auto relative z-10 flex items-center min-h-[calc(100vh-200px)]">
         {/* スクロールインジケーター */}
         <div className="absolute bottom-8 right-6 md:right-12 flex flex-col items-center gap-4">
           <div className="writing-mode-vertical text-xs tracking-[0.3em] font-medium text-gray-900 rotate-180">
