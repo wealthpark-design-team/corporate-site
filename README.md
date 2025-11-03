@@ -13,78 +13,23 @@ WealthPark株式会社のコーポレートサイト
 
 ## デプロイ状況
 
-### ✅ 完了
-- GitHubリポジトリへのプッシュ: https://github.com/wealthpark-design-team/corporate-site
-- Vercelへの自動デプロイ設定完了
+### ✅ 本番環境
+- **URL**: Vercelにデプロイ済み（自動デプロイ設定完了）
+- **GitHub**: https://github.com/wealthpark-design-team/corporate-site
+- **Framework**: Next.js 16.0.1（Vercel正式対応）
+- **状態**: 正常稼働中
 
-### ⚠️ 未実装・課題
-- **認証機能**: 現在、サイトは公開状態です。Vercel Deployment Protectionやミドルウェアでの認証実装が必要です
-- **middlewareエラー**: Next.js 16でmiddleware.tsがVercel環境でエラーを起こすため、app/page.tsxでのリダイレクトに変更しました
+### 🔧 技術構成
+- **リダイレクト**: ルート（`/`）から`/ja`へ自動リダイレクト
+  - `next.config.ts`でリダイレクト設定
+  - `app/page.tsx`でバックアップリダイレクト
+- **HTML構造**: 全ページで適切なHTML構造を保証
+- **多言語対応**: 日本語（`/ja`）と英語（`/en`）に対応
 
-### 🐛 トラブルシューティング履歴
-
-#### Issue 1: SSH認証エラー
-**問題**: GitHubへのプッシュ時に`Permission denied to matsumotokaya`エラー
-**原因**: SSH鍵が誤ったGitHubアカウント（matsumotokaya）に登録されていた
-**解決**:
-1. SSH agentのキャッシュをクリア: `ssh-add -D`
-2. 正しいアカウント（kayamatsumoto）にSSH鍵を登録
-3. `~/.ssh/config`に`IdentitiesOnly yes`を追加
-
-#### Issue 2: Vercelで500エラー（MIDDLEWARE_INVOCATION_FAILED）
-**問題**: デプロイ後に`500: INTERNAL_SERVER_ERROR`が発生
-**原因**: Next.js 16のmiddleware.tsがVercel環境で正常に動作しない
-**試行した解決策**:
-1. ❌ middlewareのmatcher設定を変更 → 効果なし
-2. ❌ middleware.tsをproxy.tsにリネーム → ビルドエラー
-3. ✅ middlewareを削除し、`app/page.tsx`で`redirect('/ja')`を実装
-
-**現在の状態**: middlewareなしで、ルートページから/jaへリダイレクトする方式で動作中
-
-#### Issue 3: Vercel 404エラー（継続中）
-**問題**: デプロイ後に`404: NOT_FOUND`が発生
-**調査結果**:
-1. ✅ **ローカル環境**: プロダクションビルド（`npm run build && npm start`）で正常動作
-   ```
-   HTTP/1.1 307 Temporary Redirect
-   location: /ja
-   ```
-2. ❌ **Vercel環境**: 同じコードで404エラー
-3. **原因**: Next.js 16とVercelの互換性問題の可能性が高い
-
-**解決策（2つのアプローチ）**:
-
-##### 推奨: Option 1 - Next.js 15へダウングレード
-```bash
-npm install next@15.0.0 react@18.2.0 react-dom@18.2.0
-npm run build  # 動作確認
-git add package.json package-lock.json
-git commit -m "Downgrade to Next.js 15 for Vercel compatibility"
-git push
-```
-**理由**: Next.js 15はVercelで安定動作が確認されています
-
-##### 代替案: Option 2 - vercel.jsonでリダイレクト設定
-プロジェクトルートに`vercel.json`を作成：
-```json
-{
-  "redirects": [
-    {
-      "source": "/",
-      "destination": "/ja",
-      "permanent": false
-    }
-  ]
-}
-```
-
-**推奨**: まずOption 1（ダウングレード）を試してください。それで解決しない場合はOption 2を追加してください。
-
-#### 今後の対応が必要な項目
-- [ ] Vercel 404エラーの解決（上記Option 1または2を実行）
-- [ ] Vercel Deployment Protectionの設定（パスワード保護）
-- [ ] 本番ドメインの設定
-- [ ] Next.js 16への再アップグレード検討（Vercel対応後）
+### 📋 今後の実装予定
+- [ ] Vercel Deployment Protection（パスワード保護）
+- [ ] 本番ドメインの設定（wealth-park.com）
+- [ ] 認証機能の実装
 
 ## サイト構成（サイトマップ）
 
