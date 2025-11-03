@@ -16,8 +16,13 @@ export default async function Home({ params }: { params: Promise<{ locale: strin
     <>
       <Header locale={localeKey} />
       <main className="pt-header lg:pt-header-desktop">
-        <Hero locale={localeKey} t={t.hero} />
-        <Banners locale={localeKey} t={t.banners} />
+        {/* Vanta.js背景エリア（Hero + Bannersセクション） */}
+        <div className="relative">
+          <Hero locale={localeKey} t={t.hero} />
+          <Banners locale={localeKey} t={t.banners} />
+        </div>
+
+        {/* 通常のセクション（背景ごとスクロール） */}
         <News locale={localeKey} t={t.news} />
         <Blog locale={localeKey} t={t.blog} />
         <Partners locale={localeKey} />

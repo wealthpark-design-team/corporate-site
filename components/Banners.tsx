@@ -67,7 +67,7 @@ export default function Banners({ locale, t }: { locale: string; t: BannersTrans
   ]
 
   return (
-    <section className="py-16 md:py-24 px-6 bg-gradient-to-b from-gray-50 to-white">
+    <section className="relative py-16 md:py-24 px-6">
       <div className="max-w-7xl mx-auto">
         <div className="space-y-16">
           {businessCards.map((section, idx) => (

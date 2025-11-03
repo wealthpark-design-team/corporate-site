@@ -155,10 +155,14 @@ export default function Hero({ locale, t }: { locale: string; t: HeroTranslation
   }, [])
 
   return (
-    <section ref={vantaRef} className="relative min-h-screen py-24 md:py-32 lg:py-40 px-6 overflow-hidden">
-      <div className="max-w-6xl mx-auto relative z-10 flex items-center min-h-[calc(100vh-200px)]">
-        {/* スクロールインジケーター */}
-        <div className="absolute bottom-8 right-6 md:right-12 flex flex-col items-center gap-4">
+    <>
+      {/* Vanta.js背景 - 固定表示 */}
+      <div ref={vantaRef} className="fixed top-0 left-0 w-full h-screen -z-10" />
+
+      {/* Heroコンテンツ */}
+      <section className="relative h-[calc(100vh-4rem)] lg:h-[calc(100vh-5.313rem)] px-6">
+        {/* スクロールインジケーター - セクション内の右下 */}
+        <div className="absolute bottom-8 right-6 md:right-12 z-20 flex flex-col items-center gap-4">
           <div className="writing-mode-vertical text-xs tracking-[0.3em] font-medium text-gray-900 rotate-180">
             SCROLL
           </div>
@@ -167,6 +171,7 @@ export default function Hero({ locale, t }: { locale: string; t: HeroTranslation
           </div>
         </div>
 
+        <div className="max-w-6xl mx-auto relative z-10 flex items-center h-full">
         <div className="max-w-4xl">
           <div className="relative mb-10">
             {/* 透明プレースホルダー - スペース確保用 */}
@@ -219,7 +224,8 @@ export default function Hero({ locale, t }: { locale: string; t: HeroTranslation
             </div>
           </Link>
         </div>
-      </div>
-    </section>
+        </div>
+      </section>
+    </>
   )
 }
