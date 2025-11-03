@@ -70,11 +70,11 @@ export default function TeamMemberModal({ member, onClose }: TeamMemberModalProp
         {/* 閉じるボタン */}
         <button
           onClick={onClose}
-          className="absolute top-6 right-6 w-10 h-10 flex items-center justify-center hover:opacity-70 transition-opacity z-10"
+          className="absolute top-2 right-2 w-10 h-10 flex items-center justify-center hover:opacity-70 transition-opacity z-10"
           aria-label="閉じる"
         >
           <svg
-            className="w-8 h-8 text-black"
+            className="w-6 h-6 text-black"
             fill="none"
             stroke="currentColor"
             viewBox="0 0 24 24"
@@ -89,8 +89,8 @@ export default function TeamMemberModal({ member, onClose }: TeamMemberModalProp
         </button>
 
         {/* コンテンツ */}
-        <div className="p-12 md:p-16">
-          <div className="flex flex-col md:flex-row gap-12 items-start">
+        <div className="p-4 md:p-16">
+          <div className="flex flex-col md:flex-row gap-8 md:gap-12 items-start">
             {/* 写真 */}
             <div className="flex-shrink-0 w-full md:w-80">
               <div className="aspect-square overflow-hidden bg-slate-100">
@@ -121,7 +121,7 @@ export default function TeamMemberModal({ member, onClose }: TeamMemberModalProp
 
               <div className="mb-8">
                 <p
-                  className="text-base text-slate-700 leading-relaxed whitespace-pre-line"
+                  className="text-sm text-slate-700 leading-relaxed whitespace-pre-line"
                   dangerouslySetInnerHTML={{ __html: member.description }}
                 />
               </div>

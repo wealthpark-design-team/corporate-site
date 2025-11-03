@@ -179,7 +179,7 @@ export default function Hero({ locale, t }: { locale: string; t: HeroTranslation
               <span className="block text-gray-900 md:mb-[20px]">
                 {t.title1}
               </span>
-              <span className="block bg-gradient-to-r from-blue-600 via-blue-500 to-blue-400 bg-clip-text text-transparent md:mb-[20px]">
+              <span className="block bg-gradient-to-r from-blue-500 via-indigo-500 to-purple-500 bg-clip-text text-transparent md:mb-[20px]">
                 {t.title2}
               </span>
               <span className="block text-gray-900">
@@ -193,9 +193,9 @@ export default function Hero({ locale, t }: { locale: string; t: HeroTranslation
                 {displayedText1}
                 {currentLine === 0 && showCursor && <span className="animate-pulse">_</span>}
               </span>
-              <span className="block bg-gradient-to-r from-blue-600 via-blue-500 to-blue-400 bg-clip-text text-transparent md:mb-[20px]">
+              <span className="block bg-gradient-to-r from-blue-500 via-indigo-500 to-purple-500 bg-clip-text text-transparent md:mb-[20px]">
                 {displayedText2}
-                {currentLine === 1 && showCursor && <span className="text-blue-600 animate-pulse">_</span>}
+                {currentLine === 1 && showCursor && <span className="text-blue-500 animate-pulse">_</span>}
               </span>
               <span className="block text-gray-900">
                 {displayedText3}

@@ -130,7 +130,7 @@ export default async function CompanyPage({ params }: { params: Promise<{ locale
                   {companyData.profile.headquartersValue}
                   <div className="mt-4">
                     <iframe
-                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.8936537839373!2d139.69974831525885!3d35.656725980197996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188b5809c3e1e1%3A0x3e4f8b6c8c7a0c3e!2z44K744Or44Oq44Ki44Oz44K_44Ov44O8!5e0!3m2!1sja!2sjp!4v1234567890123"
+                      src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3242.033323946273!2d139.7076757!3d35.6515506!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188b424e3498e9%3A0x1205a95984100cb6!2z44CSMTUwLTAwMTEg5p2x5Lqs6YO95riL6LC35Yy65p2x77yT5LiB55uu77yR77yU4oiS77yR77yVIDLpmo4!5e0!3m2!1sja!2sjp!4v1762183898704!5m2!1sja!2sjp"
                       width="100%"
                       height="400"
                       style={{ border: 0, filter: 'grayscale(100%)' }}
@@ -231,85 +231,85 @@ export default async function CompanyPage({ params }: { params: Promise<{ locale
               <p className="text-sm text-slate-600">{companyData.partners.note}</p>
             </div>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
-              <div className="flex items-center justify-center p-4">
+              <div className="flex items-center justify-center">
                 <Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_owl.png" alt="OWL" width={200} height={100} className="max-w-full h-auto" />
               </div>
-              <div className="flex items-center justify-center p-4">
+              <div className="flex items-center justify-center">
                 <Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partner_aozora_bank_jp.png" alt="あおぞら銀行" width={200} height={100} className="max-w-full h-auto" />
               </div>
-              <div className="flex items-center justify-center p-4">
+              <div className="flex items-center justify-center">
                 <Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_asahikasei.png" alt="Asahi Kasei" width={200} height={100} className="max-w-full h-auto" />
               </div>
-              <div className="flex items-center justify-center p-4">
+              <div className="flex items-center justify-center">
                 <Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_hpm.png" alt="HPM" width={200} height={100} className="max-w-full h-auto" />
               </div>
-              <div className="flex items-center justify-center p-4">
+              <div className="flex items-center justify-center">
                 <Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/business/img/clients_mj-home-new.png" alt="MJ Home" width={200} height={100} className="max-w-full h-auto" />
               </div>
-              <div className="flex items-center justify-center p-4">
+              <div className="flex items-center justify-center">
                 <Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partner_sbi_Investment.png" alt="SBIインベストメント" width={200} height={100} className="max-w-full h-auto" />
               </div>
-              <div className="flex items-center justify-center p-4">
+              <div className="flex items-center justify-center">
                 <Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_kochi-house.png" alt="Kochi House" width={200} height={100} className="max-w-full h-auto" />
               </div>
-              <div className="flex items-center justify-center p-4">
+              <div className="flex items-center justify-center">
                 <Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_kosugi.png" alt="Kosugi" width={200} height={100} className="max-w-full h-auto" />
               </div>
-              <div className="flex items-center justify-center p-4">
+              <div className="flex items-center justify-center">
                 <Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_sanwa.png" alt="Sanwa" width={200} height={100} className="max-w-full h-auto" />
               </div>
-              <div className="flex items-center justify-center p-4">
+              <div className="flex items-center justify-center">
                 <Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partner_jic.png" alt="jic" width={200} height={100} className="max-w-full h-auto" />
               </div>
-              <div className="flex items-center justify-center p-4">
+              <div className="flex items-center justify-center">
                 <Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_jfr_logo_eibun.png" alt="J. Front Retailing" width={200} height={100} className="max-w-full h-auto" />
               </div>
-              <div className="flex items-center justify-center p-4">
+              <div className="flex items-center justify-center">
                 <Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_life-produce.png" alt="Life Produce" width={200} height={100} className="max-w-full h-auto" />
               </div>
-              <div className="flex items-center justify-center p-4">
+              <div className="flex items-center justify-center">
                 <Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_takuto.png" alt="Takuto" width={200} height={100} className="max-w-full h-auto" />
               </div>
-              <div className="flex items-center justify-center p-4">
+              <div className="flex items-center justify-center">
                 <Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_chuo-nittochi.png" alt="Chuo Nittochi" width={200} height={100} className="max-w-full h-auto" />
               </div>
-              <div className="flex items-center justify-center p-4">
+              <div className="flex items-center justify-center">
                 <Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partner_dg.png" alt="デジタルガレージ" width={200} height={100} className="max-w-full h-auto" />
               </div>
-              <div className="flex items-center justify-center p-4">
+              <div className="flex items-center justify-center">
                 <Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_tokyo-kaizyo.png" alt="Tokyo Kaizyo" width={200} height={100} className="max-w-full h-auto" />
               </div>
-              <div className="flex items-center justify-center p-4">
+              <div className="flex items-center justify-center">
                 <Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_TokyuFudousan.png" alt="Tokyu Fudousan" width={200} height={100} className="max-w-full h-auto" />
               </div>
-              <div className="flex items-center justify-center p-4">
+              <div className="flex items-center justify-center">
                 <Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_nine-holdings.png" alt="Nine Holdings" width={200} height={100} className="max-w-full h-auto" />
               </div>
-              <div className="flex items-center justify-center p-4">
+              <div className="flex items-center justify-center">
                 <Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_nihon-agant.png" alt="Nihon Agent" width={200} height={100} className="max-w-full h-auto" />
               </div>
-              <div className="flex items-center justify-center p-4">
+              <div className="flex items-center justify-center">
                 <Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partner_japan_post_capital_jp.png" alt="日本郵政キャピタル株式会社" width={200} height={100} className="max-w-full h-auto" />
               </div>
-              <div className="flex items-center justify-center p-4">
+              <div className="flex items-center justify-center">
                 <Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_hanshin-hankyu.png" alt="Hanshin Hankyu" width={200} height={100} className="max-w-full h-auto" />
               </div>
-              <div className="flex items-center justify-center p-4">
+              <div className="flex items-center justify-center">
                 <Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_hirota.png" alt="Hirota" width={200} height={100} className="max-w-full h-auto" />
               </div>
-              <div className="flex items-center justify-center p-4">
+              <div className="flex items-center justify-center">
                 <Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_visual-research.png" alt="Visual Research" width={200} height={100} className="max-w-full h-auto" />
               </div>
-              <div className="flex items-center justify-center p-4">
+              <div className="flex items-center justify-center">
                 <Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partner_mizuho_capital_jp.png" alt="みずほキャピタル" width={200} height={100} className="max-w-full h-auto" />
               </div>
-              <div className="flex items-center justify-center p-4">
+              <div className="flex items-center justify-center">
                 <Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_miyoshi.png" alt="Miyoshi" width={200} height={100} className="max-w-full h-auto" />
               </div>
-              <div className="flex items-center justify-center p-4">
+              <div className="flex items-center justify-center">
                 <Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partner_hamagin.png" alt="横浜銀行" width={200} height={100} className="max-w-full h-auto" />
               </div>
-              <div className="flex items-center justify-center p-4">
+              <div className="flex items-center justify-center">
                 <Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_watanabe.png" alt="W Juken" width={200} height={100} className="max-w-full h-auto" />
               </div>
             </div>
@@ -326,26 +326,26 @@ export default async function CompanyPage({ params }: { params: Promise<{ locale
               <p className="text-sm text-slate-600">{companyData.media.note}</p>
             </div>
             <div className="grid grid-cols-2 md:grid-cols-3 gap-8 justify-items-center">
-              <div className="flex items-center justify-center p-4">
+              <div className="flex items-center justify-center">
                 <Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/app/media_logo_chintaijyutakushinbun.png" alt="全国賃貸住宅新聞" width={200} height={100} className="max-w-full h-auto" />
               </div>
-              <div className="flex items-center justify-center p-4">
+              <div className="flex items-center justify-center">
                 <Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/app/commercial_observer_jp.png" alt="commercial observer" width={200} height={100} className="max-w-full h-auto" />
               </div>
-              <div className="flex items-center justify-center p-4">
+              <div className="flex items-center justify-center">
                 <a href="https://signal.diamond.jp/" target="_blank" rel="noopener noreferrer">
                   <Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/app/media_logo_signal.png" alt="signal" width={200} height={100} className="max-w-full h-auto" />
                 </a>
               </div>
-              <div className="flex items-center justify-center p-4">
+              <div className="flex items-center justify-center">
                 <a href="https://jp.techcrunch.com/" target="_blank" rel="noopener noreferrer">
                   <Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/app/media_logo_tc.png" alt="techcrunch" width={200} height={100} className="max-w-full h-auto" />
                 </a>
               </div>
-              <div className="flex items-center justify-center p-4">
+              <div className="flex items-center justify-center">
                 <Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/app/media_logo_tokyomx.png" alt="TOKYO MX" width={200} height={100} className="max-w-full h-auto" />
               </div>
-              <div className="flex items-center justify-center p-4">
+              <div className="flex items-center justify-center">
                 <Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/app/media_logo_thebridge.png" alt="THE BRIDGE" width={200} height={100} className="max-w-full h-auto" />
               </div>
             </div>

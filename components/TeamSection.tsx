@@ -25,20 +25,20 @@ export default function TeamSection({ teamMembers, heading }: TeamSectionProps) 
         </h2>
 
         {/* 経営陣 */}
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-12 mb-12">
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-8 mb-12">
           {teamMembers.executives.map((member) => (
             <div
               key={member.id}
               className="text-center cursor-pointer group"
               onClick={() => setSelectedMember(member)}
             >
-              <div className="mb-4 flex justify-center transition-transform group-hover:scale-105">
+              <div className="mb-4 aspect-square overflow-hidden transition-transform group-hover:scale-105">
                 <Image
                   src={member.photo}
                   alt={member.name}
                   width={250}
                   height={250}
-                  className="w-[250px] h-[250px] object-cover"
+                  className="w-full h-full object-cover"
                 />
               </div>
               <h3 className="text-xl font-bold text-slate-900 mb-2 group-hover:text-blue-600 transition-colors">
@@ -54,20 +54,20 @@ export default function TeamSection({ teamMembers, heading }: TeamSectionProps) 
 
         {/* 執行役員 */}
         {teamMembers.officers.length > 0 && (
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-12 mb-12">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-8 mb-12">
             {teamMembers.officers.map((member) => (
               <div
                 key={member.id}
                 className="text-center cursor-pointer group"
                 onClick={() => setSelectedMember(member)}
               >
-                <div className="mb-4 flex justify-center transition-transform group-hover:scale-105">
+                <div className="mb-4 aspect-square overflow-hidden transition-transform group-hover:scale-105">
                   <Image
                     src={member.photo}
                     alt={member.name}
                     width={250}
                     height={250}
-                    className="w-[250px] h-[250px] object-cover"
+                    className="w-full h-full object-cover"
                   />
                 </div>
                 <h3 className="text-lg font-bold text-slate-900 mb-2 group-hover:text-blue-600 transition-colors">
@@ -84,20 +84,20 @@ export default function TeamSection({ teamMembers, heading }: TeamSectionProps) 
 
         {/* SVP */}
         {teamMembers.svp.length > 0 && (
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-12 mb-12">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-8 mb-12">
             {teamMembers.svp.map((member) => (
               <div
                 key={member.id}
                 className="text-center cursor-pointer group"
                 onClick={() => setSelectedMember(member)}
               >
-                <div className="mb-4 flex justify-center transition-transform group-hover:scale-105">
+                <div className="mb-4 aspect-square overflow-hidden transition-transform group-hover:scale-105">
                   <Image
                     src={member.photo}
                     alt={member.name}
                     width={250}
                     height={250}
-                    className="w-[250px] h-[250px] object-cover"
+                    className="w-full h-full object-cover"
                   />
                 </div>
                 <h3 className="text-lg font-bold text-slate-900 mb-2 group-hover:text-blue-600 transition-colors">
@@ -114,20 +114,20 @@ export default function TeamSection({ teamMembers, heading }: TeamSectionProps) 
 
         {/* 社外取締役・監査役 */}
         {teamMembers.external.length > 0 && (
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-12">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-8">
             {teamMembers.external.map((member) => (
               <div
                 key={member.id}
                 className="text-center cursor-pointer group"
                 onClick={() => setSelectedMember(member)}
               >
-                <div className="mb-4 flex justify-center transition-transform group-hover:scale-105">
+                <div className="mb-4 aspect-square overflow-hidden transition-transform group-hover:scale-105">
                   <Image
                     src={member.photo}
                     alt={member.name}
                     width={250}
                     height={250}
-                    className="w-[250px] h-[250px] object-cover"
+                    className="w-full h-full object-cover"
                   />
                 </div>
                 <h3 className="text-lg font-bold text-slate-900 mb-2 group-hover:text-blue-600 transition-colors">
