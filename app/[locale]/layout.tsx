@@ -13,6 +13,11 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: 'WealthPark株式会社',
   description: 'すべての人に代替資産への投資機会を',
+  // 開発中はGoogleインデックスを拒否（本番公開時に削除）
+  robots: {
+    index: false,
+    follow: false,
+  },
 }
 
 export async function generateStaticParams() {
