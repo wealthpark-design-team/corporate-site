@@ -117,6 +117,7 @@ company/
 
 ## ドキュメント
 
+- [デザインガイドライン](./docs/design-guide.md) - UIライブラリ・デザインシステム
 - [認証機能ガイド](./docs/authentication-guide.md) - パスワード保護の設定
 - [多言語化ガイド](./docs/i18n-guide.md) - 翻訳の追加・編集方法
 - [WordPress連携](./docs/wordpress-integration.md) - ヘッドレスCMS設定
