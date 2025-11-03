@@ -62,11 +62,13 @@ export default function Hero({ locale, t }: { locale: string; t: HeroTranslation
       const loadVanta = async () => {
         try {
           // THREE.jsを先に読み込む
+          // @ts-ignore
           const THREE = await import('three')
           // @ts-ignore
           window.THREE = THREE
 
           // Vanta Fogを読み込む
+          // @ts-ignore
           const VANTA = await import('vanta/dist/vanta.fog.min.js')
 
           if (vantaRef.current) {
