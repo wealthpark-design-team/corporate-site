@@ -29,8 +29,11 @@ export default function BusinessHeader({ locale = 'ja' }: { locale?: string }) {
           <ul className="flex items-center gap-6">
             {/* 機能/価格 */}
             <li className="relative group">
-              <button className="text-gray-900 text-sm font-medium py-2 hover:text-blue-600 transition-colors">
+              <button className="text-gray-900 text-sm font-medium py-2 hover:text-blue-600 transition-colors flex items-center gap-1">
                 機能/価格
+                <svg className="w-4 h-4 transition-transform group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                </svg>
               </button>
               <ul className="absolute left-0 top-full mt-2 bg-white shadow-xl rounded-lg py-2 min-w-[280px] opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 border border-gray-100 z-50">
                 <li><Link href="https://wealth-park.com/ja/business/features/" className="block px-6 py-3 text-gray-700 hover:bg-gray-50 text-sm">機能一覧 / 価格表(TOP)</Link></li>
@@ -46,8 +49,11 @@ export default function BusinessHeader({ locale = 'ja' }: { locale?: string }) {
 
             {/* 導入支援 */}
             <li className="relative group">
-              <button className="text-gray-900 text-sm font-medium py-2 hover:text-blue-600 transition-colors">
+              <button className="text-gray-900 text-sm font-medium py-2 hover:text-blue-600 transition-colors flex items-center gap-1">
                 導入支援
+                <svg className="w-4 h-4 transition-transform group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                </svg>
               </button>
               <ul className="absolute left-0 top-full mt-2 bg-white shadow-xl rounded-lg py-2 min-w-[240px] opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 border border-gray-100 z-50">
                 <li><Link href="https://wealth-park.com/ja/business/customer-success/" className="block px-6 py-3 text-gray-700 hover:bg-gray-50 text-sm">導入支援・サポートについて</Link></li>
@@ -58,8 +64,11 @@ export default function BusinessHeader({ locale = 'ja' }: { locale?: string }) {
 
             {/* 導入事例 */}
             <li className="relative group">
-              <button className="text-gray-900 text-sm font-medium py-2 hover:text-blue-600 transition-colors">
+              <button className="text-gray-900 text-sm font-medium py-2 hover:text-blue-600 transition-colors flex items-center gap-1">
                 導入事例
+                <svg className="w-4 h-4 transition-transform group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                </svg>
               </button>
               <ul className="absolute left-0 top-full mt-2 bg-white shadow-xl rounded-lg py-2 min-w-[200px] opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 border border-gray-100 z-50">
                 <li><Link href="https://wealth-park.com/ja/business/case-study/" className="block px-6 py-3 text-gray-700 hover:bg-gray-50 text-sm">導入事例をみる</Link></li>
@@ -69,8 +78,11 @@ export default function BusinessHeader({ locale = 'ja' }: { locale?: string }) {
 
             {/* ヘルプ */}
             <li className="relative group">
-              <button className="text-gray-900 text-sm font-medium py-2 hover:text-blue-600 transition-colors">
+              <button className="text-gray-900 text-sm font-medium py-2 hover:text-blue-600 transition-colors flex items-center gap-1">
                 ヘルプ
+                <svg className="w-4 h-4 transition-transform group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                </svg>
               </button>
               <ul className="absolute left-0 top-full mt-2 bg-white shadow-xl rounded-lg py-2 min-w-[260px] opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 border border-gray-100 z-50">
                 <li><Link href="https://wealth-park.com/ja/business/faq/" className="block px-6 py-3 text-gray-700 hover:bg-gray-50 text-sm">導入に関するよくある質問</Link></li>
@@ -95,8 +107,11 @@ export default function BusinessHeader({ locale = 'ja' }: { locale?: string }) {
 
             {/* 企業情報 */}
             <li className="relative group">
-              <button className="text-gray-900 text-sm font-medium py-2 hover:text-blue-600 transition-colors">
+              <button className="text-gray-900 text-sm font-medium py-2 hover:text-blue-600 transition-colors flex items-center gap-1">
                 企業情報
+                <svg className="w-4 h-4 transition-transform group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                </svg>
               </button>
               <ul className="absolute right-0 top-full mt-2 bg-white shadow-xl rounded-lg py-2 min-w-[200px] opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 border border-gray-100 z-50">
                 <li><Link href="https://wealth-park.com/ja/" target="_blank" className="block px-6 py-3 text-gray-700 hover:bg-gray-50 text-sm">企業サイトTOP</Link></li>

@@ -28,7 +28,7 @@ export default function ThreePoints({ t }: ThreePointsProps) {
         {points.map((point, index) => (
           <div
             key={index}
-            className={`grid md:grid-cols-2 gap-12 items-center mb-20 last:mb-0 ${
+            className={`grid md:grid-cols-2 gap-12 items-center mb-20 last:mb-0 pb-20 border-b border-gray-300 md:border-b-0 last:border-b-0 ${
               point.reverse ? 'md:flex-row-reverse' : ''
             }`}
           >
@@ -40,7 +40,7 @@ export default function ThreePoints({ t }: ThreePointsProps) {
               <img
                 src={point.image}
                 alt={point.title}
-                className="w-full h-auto rounded-lg shadow-lg"
+                className="w-[70%] h-auto rounded-lg mx-auto"
               />
             </div>
           </div>

@@ -27,20 +27,53 @@ export default function ClientLogos() {
   ]
 
   return (
-    <section className="py-12 bg-white">
-      <div className="container mx-auto px-6">
-        <div className="grid grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-8 items-center justify-items-center">
-          {logos.map((logo, index) => (
-            <div key={index} className="flex items-center justify-center">
-              <img
-                src={logo.src}
-                alt={logo.alt}
-                className="h-12 w-auto object-contain grayscale hover:grayscale-0 transition-all"
-              />
-            </div>
-          ))}
-        </div>
+    <section className="relative w-screen left-1/2 right-1/2 -mx-[50vw] py-0 bg-white overflow-hidden scale-[0.7] origin-center">
+      <div className="inline-flex animate-scroll">
+        {/* 1セット目 */}
+        {logos.map((logo, index) => (
+          <div
+            key={`first-${index}`}
+            className="flex-shrink-0 flex items-center justify-center px-8"
+          >
+            <img
+              src={logo.src}
+              alt={logo.alt}
+              className="h-18 w-auto object-contain"
+            />
+          </div>
+        ))}
+        {/* 2セット目（シームレスなループのため） */}
+        {logos.map((logo, index) => (
+          <div
+            key={`second-${index}`}
+            className="flex-shrink-0 flex items-center justify-center px-8"
+          >
+            <img
+              src={logo.src}
+              alt={logo.alt}
+              className="h-18 w-auto object-contain"
+            />
+          </div>
+        ))}
       </div>
+
+      <style jsx>{`
+        @keyframes scroll {
+          0% {
+            transform: translateX(0);
+          }
+          100% {
+            transform: translateX(-50%);
+          }
+        }
+        .animate-scroll {
+          animation: scroll 40s linear infinite;
+          will-change: transform;
+        }
+        .animate-scroll:hover {
+          animation-play-state: paused;
+        }
+      `}</style>
     </section>
   )
 }

@@ -6,13 +6,19 @@ import Image from 'next/image'
 interface BreadcrumbProps {
   locale: string
   currentPage?: string
+  variant?: 'light' | 'dark' // light: 白文字/透明背景, dark: 黒文字/白背景
 }
 
-export default function Breadcrumb({ locale, currentPage }: BreadcrumbProps) {
+export default function Breadcrumb({ locale, currentPage, variant = 'dark' }: BreadcrumbProps) {
+  const isLight = variant === 'light'
+
   return (
-    <section className="bg-white border-b border-gray-100 pt-20">
+    <section
+      className={`${isLight ? '' : 'bg-[#fafafa] border-t border-[#eeeeee] pt-20'}`}
+      style={isLight ? { backgroundColor: 'transparent' } : undefined}
+    >
       <div className="max-w-7xl mx-auto px-6 py-3">
-        <ul className="flex items-center gap-2 text-sm">
+        <ul className="flex items-center gap-2 text-xs">
           {/* 企業サイト */}
           <li className="flex items-center gap-2">
             <Image
@@ -20,19 +26,19 @@ export default function Breadcrumb({ locale, currentPage }: BreadcrumbProps) {
               alt="icon"
               width={16}
               height={16}
-              className="w-4 h-4"
+              className={`w-4 h-4 ${isLight ? 'invert brightness-0' : ''}`}
               unoptimized
             />
             <Link
               href={`/${locale}/`}
-              className="text-gray-600 hover:text-blue-600 transition-colors"
+              className={`${isLight ? 'text-white hover:text-gray-300' : 'text-gray-600 hover:text-blue-600'} transition-colors`}
             >
               WealthPark企業サイト
             </Link>
           </li>
 
           {/* パイプ区切り */}
-          <li className="text-gray-400">|</li>
+          <li className={isLight ? 'text-white/60' : 'text-gray-400'}>|</li>
 
           {/* ビジネスサイト */}
           <li className="flex items-center gap-2">
@@ -41,26 +47,26 @@ export default function Breadcrumb({ locale, currentPage }: BreadcrumbProps) {
               alt="icon"
               width={16}
               height={16}
-              className="w-4 h-4"
+              className={`w-4 h-4 ${isLight ? 'invert brightness-0' : ''}`}
               unoptimized
             />
             {currentPage ? (
               <Link
                 href={`/${locale}/business`}
-                className="text-gray-600 hover:text-blue-600 transition-colors"
+                className={`${isLight ? 'text-white hover:text-gray-300' : 'text-gray-600 hover:text-blue-600'} transition-colors`}
               >
                 WealthParkビジネス
               </Link>
             ) : (
-              <span className="text-gray-600">WealthParkビジネス</span>
+              <span className={isLight ? 'text-white' : 'text-gray-600'}>WealthParkビジネス</span>
             )}
           </li>
 
           {/* 現在のページ（下層ページの場合） */}
           {currentPage && (
             <>
-              <li className="text-gray-400">›</li>
-              <li className="text-gray-900 font-medium">{currentPage}</li>
+              <li className={isLight ? 'text-white/60' : 'text-gray-400'}>›</li>
+              <li className={`${isLight ? 'text-white' : 'text-gray-900'} font-medium`}>{currentPage}</li>
             </>
           )}
         </ul>

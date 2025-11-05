@@ -20,8 +20,8 @@ export default async function BusinessPage({ params }: { params: Promise<{ local
   return (
     <>
       <BusinessHeader locale={localeKey} />
-      <Breadcrumb locale={localeKey} />
-      <main>
+      <main className="pt-header lg:pt-header-desktop">
+        <Breadcrumb locale={localeKey} variant="light" />
         <BusinessHero locale={localeKey} t={t.business.hero} />
         <ClientLogos />
         <TopBanners />
