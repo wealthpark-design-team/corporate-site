@@ -66,7 +66,7 @@ export default function BusinessHero({ locale, t }: BusinessHeroProps) {
       <div ref={vantaRef} className="fixed top-0 left-0 w-full h-screen -z-10" />
 
       {/* Heroコンテンツ */}
-      <section className="relative h-[calc(100vh-4rem)] lg:h-[calc(100vh-5.313rem)] px-6">
+      <section className="relative h-[calc(90vh-4rem)] lg:h-[calc(88vh-5.313rem)] px-6">
       {/* スクロールインジケーター - セクション内の右下 */}
       <div className="absolute bottom-8 right-6 md:right-12 z-20 flex flex-col items-center gap-4">
         <div className="writing-mode-vertical text-xs tracking-[0.3em] font-medium text-white rotate-180">
@@ -78,8 +78,8 @@ export default function BusinessHero({ locale, t }: BusinessHeroProps) {
       </div>
 
       <div className="max-w-6xl mx-auto relative z-10 flex items-center h-full">
-        <div className="max-w-4xl">
-          <h1 className="text-[50px] font-bold mb-10 leading-tight">
+        <div className="max-w-4xl w-full">
+          <h1 className="text-[30px] md:text-[50px] font-bold mb-10 leading-tight text-center lg:text-left">
             <span className="block text-white drop-shadow-lg">
               オーナーアプリで
             </span>
@@ -91,13 +91,13 @@ export default function BusinessHero({ locale, t }: BusinessHeroProps) {
             </span>
           </h1>
 
-          <div className="space-y-0 mb-10">
+          <div className="space-y-0 mb-10 text-center lg:text-left">
             <p className="text-[16px] text-white font-bold drop-shadow-md">{t.subtitle1}</p>
             <p className="text-[16px] text-white font-bold drop-shadow-md">{t.subtitle2}</p>
             <p className="text-[16px] text-white font-bold drop-shadow-md">{t.subtitle3}</p>
           </div>
 
-          <div className="mb-6">
+          <div className="mb-6 flex justify-center lg:justify-start">
             <img
               src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/wpb/wpb_no1_recognitions.png"
               alt="不動産オーナーと管理会社をつなぐ"
@@ -105,9 +105,9 @@ export default function BusinessHero({ locale, t }: BusinessHeroProps) {
             />
           </div>
 
-          <p className="text-sm text-white/90 mb-10 drop-shadow-md">{t.annotation}</p>
+          <p className="text-sm text-white/90 mb-10 drop-shadow-md text-center lg:text-left">{t.annotation}</p>
 
-          <div className="flex flex-col sm:flex-row items-start gap-4">
+          <div className="flex flex-col sm:flex-row items-center lg:items-start justify-center lg:justify-start gap-4">
             <a
               href="https://wealth-park.com/ja//business/download/form-001/"
               className="inline-flex items-center justify-center px-8 py-4 bg-white text-gray-900 text-base font-medium rounded-full hover:bg-gray-100 transition-all duration-200 shadow-lg hover:shadow-xl"

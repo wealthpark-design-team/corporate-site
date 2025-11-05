@@ -18,7 +18,7 @@ export default function Breadcrumb({ locale, currentPage, variant = 'dark' }: Br
       style={isLight ? { backgroundColor: 'transparent' } : undefined}
     >
       <div className="max-w-7xl mx-auto px-6 py-3">
-        <ul className="flex items-center gap-2 text-xs">
+        <ul className="flex items-center gap-2 text-xs lg:text-sm">
           {/* 企業サイト */}
           <li className="flex items-center gap-2">
             <Image
@@ -31,14 +31,14 @@ export default function Breadcrumb({ locale, currentPage, variant = 'dark' }: Br
             />
             <Link
               href={`/${locale}/`}
-              className={`${isLight ? 'text-white hover:text-gray-300' : 'text-gray-600 hover:text-blue-600'} transition-colors`}
+              className={`${isLight ? 'text-white hover:text-gray-300' : 'text-gray-600 hover:text-blue-600'} transition-colors text-xs lg:text-sm`}
             >
               WealthPark企業サイト
             </Link>
           </li>
 
           {/* パイプ区切り */}
-          <li className={isLight ? 'text-white/60' : 'text-gray-400'}>|</li>
+          <li className={`${isLight ? 'text-white/60' : 'text-gray-400'} text-xs lg:text-sm`}>|</li>
 
           {/* ビジネスサイト */}
           <li className="flex items-center gap-2">
@@ -53,20 +53,20 @@ export default function Breadcrumb({ locale, currentPage, variant = 'dark' }: Br
             {currentPage ? (
               <Link
                 href={`/${locale}/business`}
-                className={`${isLight ? 'text-white hover:text-gray-300' : 'text-gray-600 hover:text-blue-600'} transition-colors`}
+                className={`${isLight ? 'text-white hover:text-gray-300' : 'text-gray-600 hover:text-blue-600'} transition-colors text-xs lg:text-sm`}
               >
                 WealthParkビジネス
               </Link>
             ) : (
-              <span className={isLight ? 'text-white' : 'text-gray-600'}>WealthParkビジネス</span>
+              <span className={`${isLight ? 'text-white' : 'text-gray-600'} text-xs lg:text-sm`}>WealthParkビジネス</span>
             )}
           </li>
 
           {/* 現在のページ（下層ページの場合） */}
           {currentPage && (
             <>
-              <li className={isLight ? 'text-white/60' : 'text-gray-400'}>›</li>
-              <li className={`${isLight ? 'text-white' : 'text-gray-900'} font-medium`}>{currentPage}</li>
+              <li className={`${isLight ? 'text-white/60' : 'text-gray-400'} text-xs lg:text-sm`}>›</li>
+              <li className={`${isLight ? 'text-white' : 'text-gray-900'} font-medium text-xs lg:text-sm`}>{currentPage}</li>
             </>
           )}
         </ul>
