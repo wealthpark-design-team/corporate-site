@@ -6,7 +6,7 @@ import Partners from '@/components/Partners'
 import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 import { getTranslations, Locale } from '@/lib/i18n'
-import { getNewsPosts } from '@/lib/wordpress'
+import { getNewsPosts, getBlogPosts } from '@/lib/wordpress'
 
 export default async function Home({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params
@@ -15,6 +15,9 @@ export default async function Home({ params }: { params: Promise<{ locale: strin
 
   // WordPressからニュース記事を取得（最新5件）
   const newsData = await getNewsPosts(5, localeKey)
+
+  // WordPressからブログ記事を取得（最新6件）
+  const blogData = await getBlogPosts(6, localeKey)
 
   return (
     <>
@@ -28,7 +31,7 @@ export default async function Home({ params }: { params: Promise<{ locale: strin
 
         {/* 通常のセクション（背景ごとスクロール） */}
         <News locale={localeKey} t={t.news} news={newsData} />
-        <Blog locale={localeKey} t={t.blog} />
+        <Blog locale={localeKey} t={t.blog} blog={blogData} />
         <Partners locale={localeKey} />
       </main>
       <Footer locale={localeKey} />

@@ -3,6 +3,7 @@
 import Link from 'next/link'
 import Image from 'next/image'
 import { motion } from 'framer-motion'
+import { Post } from '@/lib/wordpress'
 
 type BlogTranslations = {
   title: string
@@ -10,52 +11,13 @@ type BlogTranslations = {
   allArticles: string
 }
 
-export default function Blog({ locale, t }: { locale: string; t: BlogTranslations }) {
-  // 全ブログ記事を統合（Newsと同じカードスタイルで表示）
-  const allBlogPosts = [
-    {
-      date: '2025.10.22',
-      category: 'プロダクト改善・新機能',
-      title: 'オーナー様の初回ログイン手続きの手間が 大幅に削減！「簡易アカウント発行機能」をリリースしました',
-      image: 'https://wealth-park.com/wp-content/uploads/2025/10/thumb-2.jpg',
-      link: 'https://wealth-park.com/ja/wealthpark-blog/simple-account-creation-feature/',
-    },
-    {
-      date: '2025.10.20',
-      category: 'プロダクト改善・新機能',
-      title: '管理会社様向けアプリ切り替えのお願い',
-      image: 'https://wealth-park.com/wp-content/uploads/2025/10/thumb_1.png',
-      link: 'https://wealth-park.com/ja/wealthpark-blog/management-app-migration/',
-    },
-    {
-      date: '2025.10.10',
-      category: 'プロダクト改善・新機能',
-      title: 'チャット内で担当者を検索できる新機能がリリースされました！',
-      image: 'https://wealth-park.com/wp-content/uploads/2025/10/thumb-1.jpg',
-      link: 'https://wealth-park.com/ja/wealthpark-blog/chat-agent-search/',
-    },
-    {
-      date: '2025.10.07',
-      category: 'プロダクト改善・新機能',
-      title: '管理終了後の部屋を削除する機能がリリースされました！',
-      image: 'https://wealth-park.com/wp-content/uploads/2025/10/image_002.jpg',
-      link: 'https://wealth-park.com/ja/wealthpark-blog/delete-room-after-management/',
-    },
-    {
-      date: '2025.10.06',
-      category: 'プロダクト改善・新機能',
-      title: 'ドキュメントのリンクが共有できる新機能がリリースされました！',
-      image: 'https://wealth-park.com/wp-content/uploads/2025/10/thumb.jpg',
-      link: 'https://wealth-park.com/ja/wealthpark-blog/document-link-sharing-released/',
-    },
-    {
-      date: '2025.09.19',
-      category: 'プロダクト改善・新機能',
-      title: '管理会社様向けチャットツール WealthChatがリニューアル「WPBポケット」登場！',
-      image: 'https://wealth-park.com/wp-content/uploads/2025/09/image_006-2.jpg',
-      link: 'https://wealth-park.com/ja/wealthpark-blog/wpb-pocket-new-app/',
-    },
-  ]
+type BlogProps = {
+  locale: string
+  t: BlogTranslations
+  blog: Post[]
+}
+
+export default function Blog({ locale, t, blog }: BlogProps) {
 
   return (
     <section className="py-20 md:py-28 lg:py-32 px-6 bg-gray-50">
@@ -75,7 +37,7 @@ export default function Blog({ locale, t }: { locale: string; t: BlogTranslation
 
         {/* カード型グリッドレイアウト */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-12">
-          {allBlogPosts.map((item, index) => (
+          {blog.map((item, index) => (
             <motion.div
               key={index}
               initial={{ opacity: 0, y: 30 }}
@@ -83,7 +45,7 @@ export default function Blog({ locale, t }: { locale: string; t: BlogTranslation
               viewport={{ once: true, margin: "-50px" }}
               transition={{ duration: 0.5, delay: index * 0.1, ease: "easeOut" }}
             >
-              <Link href={item.link} className="group block">
+              <Link href={`/${locale}/blog/${item.slug}`} className="group block">
               {index === 0 ? (
                 // 最新記事：モバイルもPCもカードデザイン
                 <div className="bg-white overflow-visible shadow-sm hover:shadow-xl transition-all duration-300 border border-gray-100 h-full flex flex-col relative">
