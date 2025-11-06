@@ -24,13 +24,13 @@ export default function Banners({ locale, t }: { locale: string; t: BannersTrans
           title: t.business.title,
           description: t.business.description,
           href: `/${locale}/business`,
-          image: 'https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/banner_wpb_ja_001.jpg'
+          image: '/images/banners/banner_wpb_ja_001.jpg'
         },
         {
           title: t.assetManagement.title,
           description: t.assetManagement.description,
           href: 'https://wealth-park.com/asset-management/',
-          image: 'https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/banner_wpam_ja_001.jpg'
+          image: '/images/banners/banner_wpam_ja_001.jpg'
         }
       ]
     },
@@ -41,7 +41,7 @@ export default function Banners({ locale, t }: { locale: string; t: BannersTrans
           title: t.investment.title,
           description: t.investment.description,
           href: 'https://wealthpark-alt.com/',
-          image: 'https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/banner_wealthpark-investment_002.jpg',
+          image: '/images/banners/banner_wealthpark-investment_002.jpg',
           external: true
         }
       ]
@@ -53,13 +53,13 @@ export default function Banners({ locale, t }: { locale: string; t: BannersTrans
           title: t.careers.title,
           description: t.careers.description,
           href: `/${locale}/careers`,
-          image: 'https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/banner_careers_003.jpg'
+          image: '/images/banners/banner_careers_003.jpg'
         },
         {
           title: t.lab.title,
           description: t.lab.description,
           href: 'https://wealthpark-lab.com/',
-          image: 'https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/banner_wp-lab_002.jpg',
+          image: '/images/banners/banner_wp-lab_002.jpg',
           external: true
         }
       ]
@@ -109,7 +109,6 @@ export default function Banners({ locale, t }: { locale: string; t: BannersTrans
                           width={96}
                           height={96}
                           className="w-full h-full object-cover"
-                          unoptimized
                         />
                       </div>
 

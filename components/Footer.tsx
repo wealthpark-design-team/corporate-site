@@ -24,42 +24,38 @@ export default function Footer({ locale }: { locale: string }) {
         <div className="py-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
           <Link href={`/${locale}/careers`} className="block hover:opacity-90 transition-opacity">
             <Image
-              src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/banner_careers.jpg"
+              src="/images/banners/banner_careers.jpg"
               alt="採用情報"
               width={400}
               height={200}
               className="w-full h-auto rounded-lg"
-              unoptimized
             />
           </Link>
           <Link href={`/${locale}/park`} className="block hover:opacity-90 transition-opacity">
             <Image
-              src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/banner_footer_park.png"
+              src="/images/banners/banner_footer_park.png"
               alt="Park"
               width={400}
               height={200}
               className="w-full h-auto rounded-lg"
-              unoptimized
             />
           </Link>
           <Link href="https://wealth-park.com/business/download/wpl-wp002-ja/" className="block hover:opacity-90 transition-opacity">
             <Image
-              src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/wpl/GRPS_002_500x200.jpg"
+              src="/images/other/GRPS_002_500x200.jpg"
               alt="WealthPark Global Residential PropTech Study 2022 Vol.2(日本語版)"
               width={400}
               height={200}
               className="w-full h-auto rounded-lg"
-              unoptimized
             />
           </Link>
           <Link href="https://wealthpark-lab.com/" target="_blank" rel="noopener noreferrer" className="block hover:opacity-90 transition-opacity">
             <Image
-              src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/banner_wp-lab_001.jpg"
+              src="/images/banners/banner_wp-lab_001.jpg"
               alt="WealthPark研究所"
               width={400}
               height={200}
               className="w-full h-auto rounded-lg"
-              unoptimized
             />
           </Link>
         </div>
@@ -70,12 +66,11 @@ export default function Footer({ locale }: { locale: string }) {
             {/* Left: Logo */}
             <div>
               <Image
-                src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/logo.svg"
+                src="/images/other/footer_logo_wp.svg"
                 alt="WealthPark"
                 width={80}
                 height={80}
                 className="mb-6 w-20 h-20"
-                unoptimized
               />
             </div>
 
@@ -84,10 +79,10 @@ export default function Footer({ locale }: { locale: string }) {
               <h4 className="font-bold text-sm mb-5 text-gray-900">サービス</h4>
               <ul className="space-y-3">
                 <li><Link href={`/${locale}/business`} className="text-sm text-gray-600 hover:text-[#1a1a1a] transition-colors">不動産管理会社向けサービス</Link></li>
-                <li><Link href="https://owner-app.wealth-park.com" target="_blank" className="text-sm text-gray-600 hover:text-[#1a1a1a] transition-colors inline-flex items-center gap-1">不動産オーナー向けサービス<Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/external_link.svg" alt="" width={12} height={12} unoptimized /></Link></li>
-                <li><Link href="https://wealthpark-ret.com/" target="_blank" className="text-sm text-gray-600 hover:text-[#1a1a1a] transition-colors inline-flex items-center gap-1">WealthPark RealEstate Technologies<Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/external_link.svg" alt="" width={12} height={12} unoptimized /></Link></li>
-                <li><Link href="https://wealthpark-alt.com/" target="_blank" className="text-sm text-gray-600 hover:text-[#1a1a1a] transition-colors inline-flex items-center gap-1">WealthPark Investment<Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/external_link.svg" alt="" width={12} height={12} unoptimized /></Link></li>
-                <li><Link href="https://wealthpark-lab.com/" target="_blank" className="text-sm text-gray-600 hover:text-[#1a1a1a] transition-colors inline-flex items-center gap-1">WealthPark研究所<Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/external_link.svg" alt="" width={12} height={12} unoptimized /></Link></li>
+                <li><Link href="https://owner-app.wealth-park.com" target="_blank" className="text-sm text-gray-600 hover:text-[#1a1a1a] transition-colors inline-flex items-center gap-1">不動産オーナー向けサービス<Image src="/images/icons/external_link.svg" alt="" width={12} height={12} /></Link></li>
+                <li><Link href="https://wealthpark-ret.com/" target="_blank" className="text-sm text-gray-600 hover:text-[#1a1a1a] transition-colors inline-flex items-center gap-1">WealthPark RealEstate Technologies<Image src="/images/icons/external_link.svg" alt="" width={12} height={12} /></Link></li>
+                <li><Link href="https://wealthpark-alt.com/" target="_blank" className="text-sm text-gray-600 hover:text-[#1a1a1a] transition-colors inline-flex items-center gap-1">WealthPark Investment<Image src="/images/icons/external_link.svg" alt="" width={12} height={12} /></Link></li>
+                <li><Link href="https://wealthpark-lab.com/" target="_blank" className="text-sm text-gray-600 hover:text-[#1a1a1a] transition-colors inline-flex items-center gap-1">WealthPark研究所<Image src="/images/icons/external_link.svg" alt="" width={12} height={12} /></Link></li>
                 <li><Link href="https://wealth-park.com/ja/wealthpark-blog" className="text-sm text-gray-600 hover:text-[#1a1a1a] transition-colors">WealthPark Blog</Link></li>
                 <li><Link href={`/${locale}/park`} className="text-sm text-gray-600 hover:text-[#1a1a1a] transition-colors">採用オウンドメディア「Park」</Link></li>
               </ul>
@@ -97,9 +92,9 @@ export default function Footer({ locale }: { locale: string }) {
             <div>
               <h4 className="font-bold text-sm mb-5 text-gray-900">製品</h4>
               <ul className="space-y-3">
-                <li><Link href="https://itunes.apple.com/jp/app/wealth-park-real-estate-investment/id1068127268" target="_blank" className="text-sm text-gray-600 hover:text-[#1a1a1a] transition-colors inline-flex items-center gap-1">App Store<Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/external_link.svg" alt="" width={12} height={12} unoptimized /></Link></li>
-                <li><Link href="https://play.google.com/store/apps/details?id=com.wealthpark.owner&hl=ja" target="_blank" className="text-sm text-gray-600 hover:text-[#1a1a1a] transition-colors inline-flex items-center gap-1">Google Play<Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/external_link.svg" alt="" width={12} height={12} unoptimized /></Link></li>
-                <li><Link href="https://owner.wealth-park.com/" target="_blank" className="text-sm text-gray-600 hover:text-[#1a1a1a] transition-colors inline-flex items-center gap-1">パソコン版WealthPark<Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/external_link.svg" alt="" width={12} height={12} unoptimized /></Link></li>
+                <li><Link href="https://itunes.apple.com/jp/app/wealth-park-real-estate-investment/id1068127268" target="_blank" className="text-sm text-gray-600 hover:text-[#1a1a1a] transition-colors inline-flex items-center gap-1">App Store<Image src="/images/icons/external_link.svg" alt="" width={12} height={12} /></Link></li>
+                <li><Link href="https://play.google.com/store/apps/details?id=com.wealthpark.owner&hl=ja" target="_blank" className="text-sm text-gray-600 hover:text-[#1a1a1a] transition-colors inline-flex items-center gap-1">Google Play<Image src="/images/icons/external_link.svg" alt="" width={12} height={12} /></Link></li>
+                <li><Link href="https://owner.wealth-park.com/" target="_blank" className="text-sm text-gray-600 hover:text-[#1a1a1a] transition-colors inline-flex items-center gap-1">パソコン版WealthPark<Image src="/images/icons/external_link.svg" alt="" width={12} height={12} /></Link></li>
               </ul>
             </div>
 
@@ -112,7 +107,7 @@ export default function Footer({ locale }: { locale: string }) {
                   <li><Link href={`/${locale}/corporate/company`} className="text-sm text-gray-600 hover:text-[#1a1a1a] transition-colors">会社概要</Link></li>
                   <li><Link href="https://wealth-park.com/ja/asset-management/company-profile/" className="text-sm text-gray-600 hover:text-[#1a1a1a] transition-colors">WealthPark RealEstate Technologiesについて</Link></li>
                   <li><Link href="https://wealth-park.com/ja/news" className="text-sm text-gray-600 hover:text-[#1a1a1a] transition-colors">ニュース</Link></li>
-                  <li><Link href="https://prtimes.jp/main/html/searchrlp/company_id/40576" target="_blank" className="text-sm text-gray-600 hover:text-[#1a1a1a] transition-colors inline-flex items-center gap-1">プレスリリース<Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/external_link.svg" alt="" width={12} height={12} unoptimized /></Link></li>
+                  <li><Link href="https://prtimes.jp/main/html/searchrlp/company_id/40576" target="_blank" className="text-sm text-gray-600 hover:text-[#1a1a1a] transition-colors inline-flex items-center gap-1">プレスリリース<Image src="/images/icons/external_link.svg" alt="" width={12} height={12} /></Link></li>
                   <li><Link href="https://wealth-park.com/ja/press-kit" className="text-sm text-gray-600 hover:text-[#1a1a1a] transition-colors">プレスキット</Link></li>
                   <li><Link href="https://wealth-park.com/ja/tag/event-report/" className="text-sm text-gray-600 hover:text-[#1a1a1a] transition-colors">イベント・セミナー</Link></li>
                   <li><Link href={`/${locale}/careers`} className="text-sm text-gray-600 hover:text-[#1a1a1a] transition-colors">採用</Link></li>
@@ -123,12 +118,11 @@ export default function Footer({ locale }: { locale: string }) {
               {/* ISMS Badge - Right aligned */}
               <div className="mt-auto">
                 <Image
-                  src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/logo_isms_2.png"
+                  src="/images/logos/logo_isms_2.png"
                   alt="ISMS IS 785972 / ISO 27001"
                   width={220}
                   height={60}
                   className="max-w-[110px] md:max-w-[147px] h-auto"
-                  unoptimized
                 />
                 <p className="text-xs text-gray-500 mt-1">IS 785972 / ISO 27001</p>
               </div>

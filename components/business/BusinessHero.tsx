@@ -83,7 +83,7 @@ export default function BusinessHero({ locale, t }: BusinessHeroProps) {
             <span className="block text-white drop-shadow-lg">
               オーナーアプリで
             </span>
-            <span className="block text-transparent drop-shadow-lg" style={{ WebkitTextStroke: '1px white' }}>
+            <span className="block bg-gradient-to-r from-blue-400 via-purple-500 to-orange-400 text-transparent bg-clip-text drop-shadow-lg">
               はじめよう
             </span>
             <span className="block text-white drop-shadow-lg">
@@ -99,13 +99,13 @@ export default function BusinessHero({ locale, t }: BusinessHeroProps) {
 
           <div className="mb-6 flex justify-center lg:justify-start">
             <img
-              src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/wpb/wpb_no1_recognitions.png"
+              src="/images/other/wpb_no1_recognitions.png"
               alt="不動産オーナーと管理会社をつなぐ"
               className="w-96 h-auto drop-shadow-xl"
             />
           </div>
 
-          <p className="text-sm text-white/90 mb-10 drop-shadow-md text-center lg:text-left">{t.annotation}</p>
+          <p className="text-[10px] text-white/90 mb-10 drop-shadow-md text-center lg:text-left">{t.annotation}</p>
 
           <div className="flex flex-col sm:flex-row items-center lg:items-start justify-center lg:justify-start gap-4">
             <a
@@ -121,7 +121,7 @@ export default function BusinessHero({ locale, t }: BusinessHeroProps) {
             </a>
             <a
               href={`tel:${t.phone.replace(/-/g, '')}`}
-              className="inline-flex items-center justify-center px-6 py-3 border-2 border-white text-white text-base font-medium rounded-md hover:bg-white hover:text-gray-900 transition-all duration-200"
+              className="inline-flex items-center justify-center px-6 py-3 border border-white text-white text-base font-medium rounded-md hover:bg-white hover:text-gray-900 transition-all duration-200"
             >
               {t.phone}
             </a>

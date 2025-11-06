@@ -6,42 +6,42 @@ import { motion } from 'framer-motion'
 
 export default function Partners({ locale }: { locale: string }) {
   const partners = [
-    { name: 'OWL', image: 'https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_owl.png' },
-    { name: 'あおぞら銀行', image: 'https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partner_aozora_bank_jp.png' },
-    { name: 'Asahi Kasei', image: 'https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_asahikasei.png' },
-    { name: 'HPM', image: 'https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_hpm.png' },
-    { name: 'MJ Home', image: 'https://wealth-park.com/wp-content/themes/wp-next-landing-page/business/img/clients_mj-home-new.png' },
-    { name: 'SBIインベストメント', image: 'https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partner_sbi_Investment.png' },
-    { name: 'Kochi House', image: 'https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_kochi-house.png' },
-    { name: 'Kosugi', image: 'https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_kosugi.png' },
-    { name: 'Sanwa', image: 'https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_sanwa.png' },
-    { name: 'jic', image: 'https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partner_jic.png' },
-    { name: 'J. Front Retailing', image: 'https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_jfr_logo_eibun.png' },
-    { name: 'Life Produce', image: 'https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_life-produce.png' },
-    { name: 'Takuto', image: 'https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_takuto.png' },
-    { name: 'Chuo Nittochi', image: 'https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_chuo-nittochi.png' },
-    { name: 'デジタルガレージ', image: 'https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partner_dg.png' },
-    { name: 'Tokyo Kaizyo', image: 'https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_tokyo-kaizyo.png' },
-    { name: 'Tokyu Fudousan', image: 'https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_TokyuFudousan.png' },
-    { name: 'Nine Holdings', image: 'https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_nine-holdings.png' },
-    { name: 'Nihon Agent', image: 'https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_nihon-agant.png' },
-    { name: '日本郵政キャピタル株式会社', image: 'https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partner_japan_post_capital_jp.png' },
-    { name: 'Hanshin Hankyu', image: 'https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_hanshin-hankyu.png' },
-    { name: 'Hirota', image: 'https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_hirota.png' },
-    { name: 'Visual Research', image: 'https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_visual-research.png' },
-    { name: 'みずほキャピタル', image: 'https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partner_mizuho_capital_jp.png' },
-    { name: 'Miyoshi', image: 'https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_miyoshi.png' },
-    { name: '横浜銀行', image: 'https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partner_hamagin.png' },
-    { name: 'W Juken', image: 'https://wealth-park.com/wp-content/themes/wp-next-landing-page/app/img/partnerships_watanabe.png' },
+    { name: 'OWL', image: '/images/partners/partnerships_owl.png' },
+    { name: 'あおぞら銀行', image: '/images/partners/partner_aozora_bank_jp.png' },
+    { name: 'Asahi Kasei', image: '/images/partners/partnerships_asahikasei.png' },
+    { name: 'HPM', image: '/images/partners/partnerships_hpm.png' },
+    { name: 'MJ Home', image: '/images/other/clients_mj-home-new.png' },
+    { name: 'SBIインベストメント', image: '/images/partners/partner_sbi_Investment.png' },
+    { name: 'Kochi House', image: '/images/partners/partnerships_kochi-house.png' },
+    { name: 'Kosugi', image: '/images/partners/partnerships_kosugi.png' },
+    { name: 'Sanwa', image: '/images/partners/partnerships_sanwa.png' },
+    { name: 'jic', image: '/images/partners/partner_jic.png' },
+    { name: 'J. Front Retailing', image: '/images/partners/partnerships_jfr_logo_eibun.png' },
+    { name: 'Life Produce', image: '/images/partners/partnerships_life-produce.png' },
+    { name: 'Takuto', image: '/images/partners/partnerships_takuto.png' },
+    { name: 'Chuo Nittochi', image: '/images/partners/partnerships_chuo-nittochi.png' },
+    { name: 'デジタルガレージ', image: '/images/partners/partner_dg.png' },
+    { name: 'Tokyo Kaizyo', image: '/images/partners/partnerships_tokyo-kaizyo.png' },
+    { name: 'Tokyu Fudousan', image: '/images/partners/partnerships_TokyuFudousan.png' },
+    { name: 'Nine Holdings', image: '/images/partners/partnerships_nine-holdings.png' },
+    { name: 'Nihon Agent', image: '/images/partners/partnerships_nihon-agant.png' },
+    { name: '日本郵政キャピタル株式会社', image: '/images/partners/partner_japan_post_capital_jp.png' },
+    { name: 'Hanshin Hankyu', image: '/images/partners/partnerships_hanshin-hankyu.png' },
+    { name: 'Hirota', image: '/images/partners/partnerships_hirota.png' },
+    { name: 'Visual Research', image: '/images/partners/partnerships_visual-research.png' },
+    { name: 'みずほキャピタル', image: '/images/partners/partner_mizuho_capital_jp.png' },
+    { name: 'Miyoshi', image: '/images/partners/partnerships_miyoshi.png' },
+    { name: '横浜銀行', image: '/images/partners/partner_hamagin.png' },
+    { name: 'W Juken', image: '/images/partners/partnerships_watanabe.png' },
   ]
 
   const media = [
-    { name: '全国賃貸住宅新聞', image: 'https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/app/media_logo_chintaijyutakushinbun.png', link: '' },
-    { name: 'commercial observer', image: 'https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/app/commercial_observer_jp.png', link: '' },
-    { name: 'signal', image: 'https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/app/media_logo_signal.png', link: 'https://signal.diamond.jp/' },
-    { name: 'techcrunch', image: 'https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/app/media_logo_tc.png', link: 'https://jp.techcrunch.com/' },
-    { name: 'TOKYO MX', image: 'https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/app/media_logo_tokyomx.png', link: '' },
-    { name: 'THE BRIDGE', image: 'https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/app/media_logo_thebridge.png', link: '' },
+    { name: '全国賃貸住宅新聞', image: '/images/other/media_logo_chintaijyutakushinbun.png', link: '' },
+    { name: 'commercial observer', image: '/images/other/commercial_observer_jp.png', link: '' },
+    { name: 'signal', image: '/images/other/media_logo_signal.png', link: 'https://signal.diamond.jp/' },
+    { name: 'techcrunch', image: '/images/other/media_logo_tc.png', link: 'https://jp.techcrunch.com/' },
+    { name: 'TOKYO MX', image: '/images/other/media_logo_tokyomx.png', link: '' },
+    { name: 'THE BRIDGE', image: '/images/other/media_logo_thebridge.png', link: '' },
   ]
 
   return (
@@ -78,7 +78,6 @@ export default function Partners({ locale }: { locale: string }) {
                   width={200}
                   height={80}
                   className="max-w-full h-auto object-contain"
-                  unoptimized
                 />
               </div>
             ))}
@@ -117,7 +116,6 @@ export default function Partners({ locale }: { locale: string }) {
                     width={200}
                     height={80}
                     className="max-w-full h-auto object-contain"
-                    unoptimized
                   />
                 </div>
               )

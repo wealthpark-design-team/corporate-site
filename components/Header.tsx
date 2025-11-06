@@ -294,13 +294,13 @@ export default function Header({ locale = 'ja' }: { locale?: string }) {
               </Link>
               <div className="flex gap-6 justify-center pt-4">
                 <Link href="https://www.facebook.com/WealthPark-Business-WealthPark%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A6%E3%82%A7%E3%83%AB%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2253775971335835/" target="_blank">
-                  <Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/ico_facebook.svg" alt="facebook" width={28} height={28} />
+                  <Image src="/images/icons/ico_facebook.svg" alt="facebook" width={28} height={28} />
                 </Link>
                 <Link href="https://www.linkedin.com/company/wealthpark/" target="_blank">
-                  <Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/ico_in.svg" alt="LinkedIn" width={28} height={28} />
+                  <Image src="/images/icons/ico_in.svg" alt="LinkedIn" width={28} height={28} />
                 </Link>
                 <Link href="https://www.youtube.com/channel/UCvTChmtXoEokx8vsWda8aNg" target="_blank">
-                  <Image src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/img/ico_youtube.svg" alt="YouTube" width={28} height={28} />
+                  <Image src="/images/icons/ico_youtube.svg" alt="YouTube" width={28} height={28} />
                 </Link>
               </div>
             </div>
