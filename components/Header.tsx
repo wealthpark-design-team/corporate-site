@@ -62,7 +62,7 @@ export default function Header({ locale = 'ja' }: { locale?: string }) {
                 </button>
                 <ul className="absolute left-1/2 -translate-x-1/2 top-full mt-2 bg-white shadow-xl rounded-lg py-2 min-w-[280px] opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 border border-gray-100 z-50">
                   <li><Link href="https://wealth-park.com/ja/news/" className="block px-6 py-3 text-gray-700 hover:bg-gray-50 text-sm">{t.newsLink}</Link></li>
-                  <li><Link href="https://wealth-park.com/ja/business/release-note" className="block px-6 py-3 text-gray-700 hover:bg-gray-50 text-sm">{t.productUpdates}</Link></li>
+                  <li><Link href={`/${locale}/business/release-note`} className="block px-6 py-3 text-gray-700 hover:bg-gray-50 text-sm">{t.productUpdates}</Link></li>
                   <li><Link href="https://prtimes.jp/main/html/searchrlp/company_id/40576" target="_blank" className="block px-6 py-3 text-gray-700 hover:bg-gray-50 text-sm">{t.pressRelease}</Link></li>
                 </ul>
               </li>
@@ -110,7 +110,7 @@ export default function Header({ locale = 'ja' }: { locale?: string }) {
                 </button>
                 <ul className="absolute left-1/2 -translate-x-1/2 top-full mt-2 bg-white shadow-xl rounded-lg py-2 min-w-[320px] opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 border border-gray-100 z-50">
                   <li className="px-6 py-2 text-xs text-gray-500 font-bold">{t.ownedMedia}</li>
-                  <li><Link href="https://wealth-park.com/ja/wealthpark-blog/" className="block px-6 py-3 text-gray-700 hover:bg-gray-50 text-sm">{t.blog}</Link></li>
+                  <li><Link href={`/${locale}/blog`} className="block px-6 py-3 text-gray-700 hover:bg-gray-50 text-sm">{t.blog}</Link></li>
                   <li><Link href="https://wealthpark-lab.com" target="_blank" className="block px-6 py-3 text-gray-700 hover:bg-gray-50 text-sm">{t.lab}</Link></li>
                   <li><Link href={`/${locale}/park`} className="block px-6 py-3 text-gray-700 hover:bg-gray-50 text-sm">{t.parkMedia}</Link></li>
                   <li className="border-t border-gray-200 mt-2 pt-2"></li>
@@ -222,7 +222,7 @@ export default function Header({ locale = 'ja' }: { locale?: string }) {
                 {openDropdown === 'news' && (
                   <ul className="pl-4 pb-2">
                     <li><Link href="https://wealth-park.com/ja/news/" className="block py-2 text-gray-300 text-sm hover:text-white transition-colors" onClick={() => setIsMenuOpen(false)}>ニュース</Link></li>
-                    <li><Link href="https://wealth-park.com/ja/business/release-note" className="block py-2 text-gray-300 text-sm hover:text-white transition-colors" onClick={() => setIsMenuOpen(false)}>プロダクト新機能・改善</Link></li>
+                    <li><Link href={`/${locale}/business/release-note`} className="block py-2 text-gray-300 text-sm hover:text-white transition-colors" onClick={() => setIsMenuOpen(false)}>プロダクト新機能・改善</Link></li>
                     <li><Link href="https://prtimes.jp/main/html/searchrlp/company_id/40576" target="_blank" className="block py-2 text-gray-300 text-sm hover:text-white transition-colors" onClick={() => setIsMenuOpen(false)}>プレスリリース</Link></li>
                   </ul>
                 )}
@@ -272,7 +272,7 @@ export default function Header({ locale = 'ja' }: { locale?: string }) {
                 {openDropdown === 'articles' && (
                   <ul className="pl-4 pb-2">
                     <li className="py-1 text-gray-400 text-xs font-bold">オウンドメディア</li>
-                    <li><Link href="https://wealth-park.com/ja/wealthpark-blog/" className="block py-2 text-gray-300 text-sm hover:text-white transition-colors" onClick={() => setIsMenuOpen(false)}>WealthParkブログ</Link></li>
+                    <li><Link href={`/${locale}/blog`} className="block py-2 text-gray-300 text-sm hover:text-white transition-colors" onClick={() => setIsMenuOpen(false)}>WealthParkブログ</Link></li>
                     <li><Link href="https://wealthpark-lab.com" target="_blank" className="block py-2 text-gray-300 text-sm hover:text-white transition-colors" onClick={() => setIsMenuOpen(false)}>WealthPark研究所</Link></li>
                     <li><Link href={`/${locale}/park`} className="block py-2 text-gray-300 text-sm hover:text-white transition-colors" onClick={() => setIsMenuOpen(false)}>採用オウンドメディア「Park」</Link></li>
                     <li className="py-1 text-gray-400 text-xs font-bold mt-2">特集</li>

@@ -28,17 +28,17 @@ export default function ClientLogos() {
 
   return (
     <section className="relative w-screen left-1/2 right-1/2 -ml-[50vw] -mr-[50vw] bg-white overflow-hidden">
-      <div className="inline-flex animate-scroll">
+      <div className="flex animate-scroll">
         {/* 1セット目 */}
         {logos.map((logo, index) => (
           <div
             key={`first-${index}`}
-            className="flex-shrink-0 flex items-center justify-center px-6 md:px-8"
+            className="flex-shrink-0 flex items-center justify-center px-6 md:px-8 h-[60px] md:h-[80px]"
           >
             <img
               src={logo.src}
               alt={logo.alt}
-              className="h-[60px] md:h-[72px] w-auto object-contain"
+              className="h-[60px] md:h-[80px] w-auto object-contain"
             />
           </div>
         ))}
@@ -46,12 +46,12 @@ export default function ClientLogos() {
         {logos.map((logo, index) => (
           <div
             key={`second-${index}`}
-            className="flex-shrink-0 flex items-center justify-center px-6 md:px-8"
+            className="flex-shrink-0 flex items-center justify-center px-6 md:px-8 h-[60px] md:h-[80px]"
           >
             <img
               src={logo.src}
               alt={logo.alt}
-              className="h-[60px] md:h-[72px] w-auto object-contain"
+              className="h-[60px] md:h-[80px] w-auto object-contain"
             />
           </div>
         ))}
@@ -59,12 +59,12 @@ export default function ClientLogos() {
         {logos.map((logo, index) => (
           <div
             key={`third-${index}`}
-            className="flex-shrink-0 flex items-center justify-center px-6 md:px-8"
+            className="flex-shrink-0 flex items-center justify-center px-6 md:px-8 h-[60px] md:h-[80px]"
           >
             <img
               src={logo.src}
               alt={logo.alt}
-              className="h-[60px] md:h-[72px] w-auto object-contain"
+              className="h-[60px] md:h-[80px] w-auto object-contain"
             />
           </div>
         ))}

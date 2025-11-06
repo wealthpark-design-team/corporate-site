@@ -110,7 +110,7 @@ export default function BusinessHeader({ locale = 'ja' }: { locale?: string }) {
               <ul className="absolute left-0 top-full mt-2 bg-white shadow-xl rounded-lg py-2 min-w-[260px] opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 border border-gray-100 z-50">
                 <li><Link href="https://wealth-park.com/ja/business/faq/" className="block px-6 py-3 text-gray-700 hover:bg-gray-50 text-sm">導入に関するよくある質問</Link></li>
                 <li><Link href="https://wealth-park.com/ja/help_owner" className="block px-6 py-3 text-gray-700 hover:bg-gray-50 text-sm">不動産オーナー向けサポートセンター</Link></li>
-                <li><Link href="https://wealth-park.com/ja/business/release-note" className="block px-6 py-3 text-gray-700 hover:bg-gray-50 text-sm">プロダクト改善・新機能</Link></li>
+                <li><Link href={`/${locale}/business/release-note`} className="block px-6 py-3 text-gray-700 hover:bg-gray-50 text-sm">プロダクト改善・新機能</Link></li>
               </ul>
             </li>
 
@@ -140,7 +140,7 @@ export default function BusinessHeader({ locale = 'ja' }: { locale?: string }) {
                 <li><Link href="https://wealth-park.com/ja/" target="_blank" className="block px-6 py-3 text-gray-700 hover:bg-gray-50 text-sm">企業サイトTOP</Link></li>
                 <li><Link href="https://wealth-park.com/ja/corporate/company/" target="_blank" className="block px-6 py-3 text-gray-700 hover:bg-gray-50 text-sm">会社概要</Link></li>
                 <li><Link href="https://wealth-park.com/ja/news/" target="_blank" className="block px-6 py-3 text-gray-700 hover:bg-gray-50 text-sm">ニュース</Link></li>
-                <li><Link href="https://wealth-park.com/ja/wealthpark-blog/" target="_blank" className="block px-6 py-3 text-gray-700 hover:bg-gray-50 text-sm">記事</Link></li>
+                <li><Link href={`/${locale}/blog`} className="block px-6 py-3 text-gray-700 hover:bg-gray-50 text-sm">記事</Link></li>
                 <li><Link href="https://wealth-park.com/ja/careers/" target="_blank" className="block px-6 py-3 text-gray-700 hover:bg-gray-50 text-sm">採用</Link></li>
                 <li><Link href="https://wealth-park.com/ja/corporate/contact/" target="_blank" className="block px-6 py-3 text-gray-700 hover:bg-gray-50 text-sm">お問い合わせ</Link></li>
               </ul>
@@ -309,7 +309,7 @@ export default function BusinessHeader({ locale = 'ja' }: { locale?: string }) {
                   <ul className="pl-4 pb-2">
                     <li><Link href="https://wealth-park.com/ja/business/faq/" className="block py-2 text-gray-300 text-sm hover:text-white transition-colors" onClick={() => setIsMenuOpen(false)}>導入に関するよくある質問</Link></li>
                     <li><Link href="https://wealth-park.com/ja/help_owner" className="block py-2 text-gray-300 text-sm hover:text-white transition-colors" onClick={() => setIsMenuOpen(false)}>不動産オーナー向けサポートセンター</Link></li>
-                    <li><Link href="https://wealth-park.com/ja/business/release-note" className="block py-2 text-gray-300 text-sm hover:text-white transition-colors" onClick={() => setIsMenuOpen(false)}>プロダクト改善・新機能</Link></li>
+                    <li><Link href={`/${locale}/business/release-note`} className="block py-2 text-gray-300 text-sm hover:text-white transition-colors" onClick={() => setIsMenuOpen(false)}>プロダクト改善・新機能</Link></li>
                   </ul>
                 )}
               </li>
@@ -330,7 +330,7 @@ export default function BusinessHeader({ locale = 'ja' }: { locale?: string }) {
                     <li><Link href="https://wealth-park.com/ja/" target="_blank" className="block py-2 text-gray-300 text-sm hover:text-white transition-colors" onClick={() => setIsMenuOpen(false)}>企業サイトTOP</Link></li>
                     <li><Link href="https://wealth-park.com/ja/corporate/company/" target="_blank" className="block py-2 text-gray-300 text-sm hover:text-white transition-colors" onClick={() => setIsMenuOpen(false)}>会社概要</Link></li>
                     <li><Link href="https://wealth-park.com/ja/news/" target="_blank" className="block py-2 text-gray-300 text-sm hover:text-white transition-colors" onClick={() => setIsMenuOpen(false)}>ニュース</Link></li>
-                    <li><Link href="https://wealth-park.com/ja/wealthpark-blog/" target="_blank" className="block py-2 text-gray-300 text-sm hover:text-white transition-colors" onClick={() => setIsMenuOpen(false)}>記事</Link></li>
+                    <li><Link href={`/${locale}/blog`} className="block py-2 text-gray-300 text-sm hover:text-white transition-colors" onClick={() => setIsMenuOpen(false)}>記事</Link></li>
                     <li><Link href="https://wealth-park.com/ja/careers/" target="_blank" className="block py-2 text-gray-300 text-sm hover:text-white transition-colors" onClick={() => setIsMenuOpen(false)}>採用</Link></li>
                     <li><Link href="https://wealth-park.com/ja/corporate/contact/" target="_blank" className="block py-2 text-gray-300 text-sm hover:text-white transition-colors" onClick={() => setIsMenuOpen(false)}>お問い合わせ</Link></li>
                   </ul>

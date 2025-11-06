@@ -196,7 +196,7 @@ export default function Blog({ locale, t }: { locale: string; t: BlogTranslation
 
         <div className="text-center mt-12">
           <Link
-            href="https://wealth-park.com/ja/wealthpark-blog/"
+            href={`/${locale}/blog`}
             className="inline-block text-sm text-gray-700 hover:text-[#1a1a1a] transition-colors font-medium"
           >
             {t.allArticles}

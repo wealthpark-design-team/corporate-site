@@ -75,8 +75,9 @@ const AUTH_CONFIG = {
 - 詳細: [多言語化ガイド](./docs/i18n-guide.md)
 
 ### WordPress連携（ヘッドレスCMS）
-- 既存WordPressからREST API経由でコンテンツ取得
+- 既存WordPress（https://wealth-park.com）から**REST API経由**でコンテンツ取得
 - ISR（3分キャッシュ）によるSEO対策
+- **Custom Post Type UI**プラグインで各投稿タイプのREST API公開を制御
 - 詳細: [WordPress連携ガイド](./docs/wordpress-integration.md)
 
 ### 認証機能
@@ -110,6 +111,9 @@ company/
 │   ├── layout.tsx         # ルートレイアウト
 │   └── robots.ts          # robots.txt生成（開発中のみ）
 ├── components/            # Reactコンポーネント
+│   ├── Header.tsx        # 企業ページ用ヘッダー
+│   ├── business/
+│   │   └── BusinessHeader.tsx  # ビジネス製品サイト用ヘッダー
 │   └── AuthWrapper.tsx   # 認証コンポーネント
 ├── lib/
 │   ├── auth.ts           # 認証設定
@@ -119,6 +123,32 @@ company/
 │   └── en.json
 └── docs/                 # ドキュメント
 ```
+
+## ページ構成とヘッダー
+
+### 基本構造
+このサイトは **企業サイト** が基本ですが、`/business` 配下のみ **製品サイト（WealthParkビジネス）** として別のヘッダーを使用します。
+
+### ヘッダーの使い分け
+
+#### 企業ページ（`Header.tsx`）
+- **使用ページ**: `/business` 配下を除く全ページ
+- **例**:
+  - `/ja/` - トップページ
+  - `/ja/corporate/company` - 会社概要
+  - `/ja/careers` - 採用
+  - `/ja/park` - 採用オウンドメディア
+  - `/ja/blog` - WealthParkブログ
+  - その他企業情報ページ
+
+#### ビジネス製品サイト（`BusinessHeader.tsx`）
+- **使用ページ**: `/business` 配下のみ
+- **例**:
+  - `/ja/business` - WealthParkビジネスTOP
+  - `/ja/business/release-note` - プロダクト改善・新機能
+
+#### 将来の展望
+`/business` 配下は将来的にサブドメイン（例: `business.wealth-park.com`）として切り出す可能性があります。
 
 ## ドキュメント
 

@@ -1,49 +1,15 @@
 import Image from 'next/image'
 import Link from 'next/link'
+import { Post } from '@/lib/wordpress'
+import { Locale } from '@/lib/i18n'
 
 interface ProductNewsProps {
   t: any
+  articles: Post[]
+  locale?: Locale
 }
 
-export default function ProductNews({ t }: ProductNewsProps) {
-  const news = [
-    {
-      date: '2025.10.22',
-      title: 'オーナー様の初回ログイン手続きの手間が 大幅に削減！「簡易アカウント発行機能」をリリースしました',
-      url: 'https://wealth-park.com/ja/wealthpark-blog/simple-account-creation-feature/',
-      image: 'https://wealth-park.com/wp-content/uploads/2025/10/thumb-2.jpg'
-    },
-    {
-      date: '2025.10.20',
-      title: '管理会社様向けアプリ切り替えのお願い',
-      url: 'https://wealth-park.com/ja/wealthpark-blog/management-app-migration/',
-      image: 'https://wealth-park.com/wp-content/uploads/2025/10/thumb_1.png'
-    },
-    {
-      date: '2025.10.10',
-      title: 'チャット内で担当者を検索できる新機能がリリースされました！',
-      url: 'https://wealth-park.com/ja/wealthpark-blog/chat-agent-search/',
-      image: 'https://wealth-park.com/wp-content/uploads/2025/10/thumb-1.jpg'
-    },
-    {
-      date: '2025.10.07',
-      title: '管理終了後の部屋を削除する機能がリリースされました！',
-      url: 'https://wealth-park.com/ja/wealthpark-blog/delete-room-after-management/',
-      image: 'https://wealth-park.com/wp-content/uploads/2025/10/image_002.jpg'
-    },
-    {
-      date: '2025.10.06',
-      title: 'ドキュメントのリンクが共有できる新機能がリリースされました！',
-      url: 'https://wealth-park.com/ja/wealthpark-blog/document-link-sharing-released/',
-      image: 'https://wealth-park.com/wp-content/uploads/2025/10/thumb.jpg'
-    },
-    {
-      date: '2025.09.19',
-      title: '管理会社様向けチャットツール WealthChatがリニューアル「WPBポケット」登場！',
-      url: 'https://wealth-park.com/ja/wealthpark-blog/wpb-pocket-new-app/',
-      image: 'https://wealth-park.com/wp-content/uploads/2025/09/image_006-2.jpg'
-    }
-  ]
+export default function ProductNews({ t, articles, locale = 'ja' }: ProductNewsProps) {
 
   return (
     <section className="py-20 bg-white">
@@ -51,20 +17,22 @@ export default function ProductNews({ t }: ProductNewsProps) {
         <h2 className="text-3xl font-bold text-center mb-12">{t.title}</h2>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {news.map((item, index) => (
-            <Link key={index} href={item.url} className="group">
+          {articles.map((item, index) => (
+            <Link key={index} href={`/${locale}/blog/${item.slug}`} className="group">
               <div className="bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 border border-gray-100 h-full flex flex-col">
                 {/* 画像 */}
-                <div className="overflow-hidden aspect-[16/10]">
-                  <Image
-                    src={item.image}
-                    alt={item.title}
-                    width={600}
-                    height={375}
-                    className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
-                    unoptimized
-                  />
-                </div>
+                {item.image && (
+                  <div className="overflow-hidden aspect-[16/10]">
+                    <Image
+                      src={item.image}
+                      alt={item.title}
+                      width={600}
+                      height={375}
+                      className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                      unoptimized
+                    />
+                  </div>
+                )}
 
                 {/* コンテンツ */}
                 <div className="p-6 flex-1 flex flex-col">
@@ -97,10 +65,18 @@ export default function ProductNews({ t }: ProductNewsProps) {
 
         <div className="text-center mt-12">
           <Link
-            href="https://wealth-park.com/ja/business/release-note/"
-            className="inline-block text-sm text-gray-700 hover:text-[#1a1a1a] transition-colors font-medium"
+            href={`/${locale}/business/release-note`}
+            className="inline-flex items-center gap-2 text-sm text-gray-700 hover:text-blue-600 transition-colors font-medium group"
           >
-            すべての記事 →
+            <span>すべての記事</span>
+            <svg
+              className="w-4 h-4 group-hover:translate-x-1 transition-transform"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
+            </svg>
           </Link>
         </div>
       </div>

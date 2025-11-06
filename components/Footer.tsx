@@ -83,7 +83,7 @@ export default function Footer({ locale }: { locale: string }) {
                 <li><Link href="https://wealthpark-ret.com/" target="_blank" className="text-sm text-gray-600 hover:text-[#1a1a1a] transition-colors inline-flex items-center gap-1">WealthPark RealEstate Technologies<Image src="/images/icons/external_link.svg" alt="" width={12} height={12} /></Link></li>
                 <li><Link href="https://wealthpark-alt.com/" target="_blank" className="text-sm text-gray-600 hover:text-[#1a1a1a] transition-colors inline-flex items-center gap-1">WealthPark Investment<Image src="/images/icons/external_link.svg" alt="" width={12} height={12} /></Link></li>
                 <li><Link href="https://wealthpark-lab.com/" target="_blank" className="text-sm text-gray-600 hover:text-[#1a1a1a] transition-colors inline-flex items-center gap-1">WealthPark研究所<Image src="/images/icons/external_link.svg" alt="" width={12} height={12} /></Link></li>
-                <li><Link href="https://wealth-park.com/ja/wealthpark-blog" className="text-sm text-gray-600 hover:text-[#1a1a1a] transition-colors">WealthPark Blog</Link></li>
+                <li><Link href={`/${locale}/blog`} className="text-sm text-gray-600 hover:text-[#1a1a1a] transition-colors">WealthPark Blog</Link></li>
                 <li><Link href={`/${locale}/park`} className="text-sm text-gray-600 hover:text-[#1a1a1a] transition-colors">採用オウンドメディア「Park」</Link></li>
               </ul>
             </div>
@@ -106,7 +106,7 @@ export default function Footer({ locale }: { locale: string }) {
                   <li><Link href={`/${locale}/`} className="text-sm text-gray-600 hover:text-[#1a1a1a] transition-colors">企業サイトTOP</Link></li>
                   <li><Link href={`/${locale}/corporate/company`} className="text-sm text-gray-600 hover:text-[#1a1a1a] transition-colors">会社概要</Link></li>
                   <li><Link href="https://wealth-park.com/ja/asset-management/company-profile/" className="text-sm text-gray-600 hover:text-[#1a1a1a] transition-colors">WealthPark RealEstate Technologiesについて</Link></li>
-                  <li><Link href="https://wealth-park.com/ja/news" className="text-sm text-gray-600 hover:text-[#1a1a1a] transition-colors">ニュース</Link></li>
+                  <li><Link href="https://wealth-park.com/ja/news/" target="_blank" className="text-sm text-gray-600 hover:text-[#1a1a1a] transition-colors">ニュース</Link></li>
                   <li><Link href="https://prtimes.jp/main/html/searchrlp/company_id/40576" target="_blank" className="text-sm text-gray-600 hover:text-[#1a1a1a] transition-colors inline-flex items-center gap-1">プレスリリース<Image src="/images/icons/external_link.svg" alt="" width={12} height={12} /></Link></li>
                   <li><Link href="https://wealth-park.com/ja/press-kit" className="text-sm text-gray-600 hover:text-[#1a1a1a] transition-colors">プレスキット</Link></li>
                   <li><Link href="https://wealth-park.com/ja/tag/event-report/" className="text-sm text-gray-600 hover:text-[#1a1a1a] transition-colors">イベント・セミナー</Link></li>

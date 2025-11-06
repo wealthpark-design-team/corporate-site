@@ -10,7 +10,7 @@ const config: Config = {
     extend: {
       spacing: {
         'header': '4rem', // 64px - モバイルヘッダーの高さ
-        'header-desktop': '5.313rem', // 85px - PCヘッダーの高さ
+        'header-desktop': '5rem', // 80px - PCヘッダーの高さ
       },
       keyframes: {
         float1: {

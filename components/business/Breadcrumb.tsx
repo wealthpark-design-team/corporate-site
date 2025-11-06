@@ -14,10 +14,9 @@ export default function Breadcrumb({ locale, currentPage, variant = 'dark' }: Br
 
   return (
     <section
-      className={`${isLight ? '' : 'bg-[#fafafa] border-t border-[#eeeeee] pt-20'}`}
-      style={isLight ? { backgroundColor: 'transparent' } : undefined}
+      className={`${isLight ? 'bg-white/10' : 'bg-[#fafafa] border-t border-[#eeeeee] pt-20'}`}
     >
-      <div className="max-w-7xl mx-auto px-6 py-3">
+      <div className="max-w-7xl mx-auto px-6 h-[30px] flex items-center">
         <ul className="flex items-center gap-2 text-xs lg:text-sm">
           {/* 企業サイト */}
           <li className="flex items-center gap-2">

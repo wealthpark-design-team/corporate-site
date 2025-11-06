@@ -62,15 +62,22 @@ export interface PostDetail {
  * @param postType - カスタム投稿タイプ名 ('park', 'news', 'wealthpark')
  * @param limit - 取得件数（デフォルト: 10）
  * @param locale - 言語コード ('ja', 'en')
+ * @param tags - タグIDの配列（オプション）
  * @returns Post型の配列
  */
 export async function getPosts(
   postType: string,
   limit: number = 10,
-  locale: string = 'ja'
+  locale: string = 'ja',
+  tags?: number[]
 ): Promise<Post[]> {
   try {
-    const url = `${WP_API_URL}/${postType}?per_page=${limit}&_embed&lang=${locale}`
+    let url = `${WP_API_URL}/${postType}?per_page=${limit}&_embed&lang=${locale}`
+
+    // タグフィルタリング
+    if (tags && tags.length > 0) {
+      url += `&tags=${tags.join(',')}`
+    }
 
     const res = await fetch(url, {
       next: { revalidate: 180 } // 3分キャッシュ（リロード連打防止）
@@ -105,17 +112,24 @@ export async function getParkPosts(limit: number = 10, locale: string = 'ja'): P
 }
 
 /**
- * ニュース記事を取得（REST API有効化後に使用）
+ * ニュース記事を取得
  */
 export async function getNewsPosts(limit: number = 10, locale: string = 'ja'): Promise<Post[]> {
   return getPosts('news', limit, locale)
 }
 
 /**
- * ブログ記事を取得（REST API有効化後に使用）
+ * ブログ記事を取得
  */
 export async function getBlogPosts(limit: number = 10, locale: string = 'ja'): Promise<Post[]> {
   return getPosts('wealthpark', limit, locale)
+}
+
+/**
+ * プロダクト改善・新機能の記事を取得（タグID: 86）
+ */
+export async function getProductNewsPosts(limit: number = 10, locale: string = 'ja'): Promise<Post[]> {
+  return getPosts('wealthpark', limit, locale, [86])
 }
 
 /**
@@ -171,6 +185,20 @@ export async function getPostBySlug(
  */
 export async function getParkPostBySlug(slug: string, locale: string = 'ja'): Promise<PostDetail | null> {
   return getPostBySlug('park', slug, locale)
+}
+
+/**
+ * ニュース記事の詳細を取得
+ */
+export async function getNewsPostBySlug(slug: string, locale: string = 'ja'): Promise<PostDetail | null> {
+  return getPostBySlug('news', slug, locale)
+}
+
+/**
+ * ブログ記事の詳細を取得
+ */
+export async function getBlogPostBySlug(slug: string, locale: string = 'ja'): Promise<PostDetail | null> {
+  return getPostBySlug('wealthpark', slug, locale)
 }
 
 // ヘルパー関数

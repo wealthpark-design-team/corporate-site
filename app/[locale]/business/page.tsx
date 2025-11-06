@@ -11,18 +11,21 @@ import ThreePoints from '@/components/business/ThreePoints'
 import FeaturesList from '@/components/business/FeaturesList'
 import ProductNews from '@/components/business/ProductNews'
 import { getTranslations, Locale } from '@/lib/i18n'
+import { getProductNewsPosts } from '@/lib/wordpress'
 
 export default async function BusinessPage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params
   const localeKey = locale as Locale
   const t = getTranslations(localeKey)
 
+  // WordPress から「プロダクト改善・新機能」タグの記事を最新6件取得
+  const newsArticles = await getProductNewsPosts(6, localeKey)
+
   return (
     <>
       <BusinessHeader locale={localeKey} />
-      <main className="pt-header lg:pt-header-desktop">
-        <Breadcrumb locale={localeKey} variant="light" />
-        <BusinessHero locale={localeKey} t={t.business.hero} />
+      <main>
+        <BusinessHero locale={localeKey} t={t.business.hero} breadcrumbLocale={localeKey} />
         <ClientLogos />
         <TopBanners />
         <Testimonials t={t.business.testimonials} />
@@ -30,7 +33,7 @@ export default async function BusinessPage({ params }: { params: Promise<{ local
         <AboutSection t={t.business.about} />
         <ThreePoints t={t.business.points} />
         <FeaturesList t={t.business.features} />
-        <ProductNews t={t.business.productNews} />
+        <ProductNews t={t.business.productNews} articles={newsArticles} locale={localeKey} />
       </main>
       <Footer locale={localeKey} />
     </>
