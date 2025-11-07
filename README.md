@@ -5,6 +5,7 @@ WealthPark株式会社のコーポレートサイト
 ## 技術スタック
 
 - **フレームワーク**: Next.js 16 (App Router)
+- **UIライブラリ**: React 19
 - **言語**: TypeScript
 - **スタイリング**: Tailwind CSS
 - **ホスティング**: Vercel（開発環境）→ Kinsta（本番環境予定）

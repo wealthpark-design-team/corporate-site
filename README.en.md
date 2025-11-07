@@ -5,6 +5,7 @@ Corporate website for WealthPark Inc.
 ## Tech Stack
 
 - **Framework**: Next.js 16 (App Router)
+- **UI Library**: React 19
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
 - **Hosting**: Vercel (Development) → Kinsta (Production planned)
