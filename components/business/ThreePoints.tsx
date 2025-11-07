@@ -40,6 +40,7 @@ export default function ThreePoints({ t }: ThreePointsProps) {
               <img
                 src={point.image}
                 alt={point.title}
+                loading="lazy"
                 className="w-[70%] h-auto rounded-lg mx-auto"
               />
             </div>

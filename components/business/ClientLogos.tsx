@@ -38,6 +38,7 @@ export default function ClientLogos() {
             <img
               src={logo.src}
               alt={logo.alt}
+              loading="lazy"
               className="h-[60px] md:h-[80px] w-auto object-contain"
             />
           </div>
@@ -51,6 +52,7 @@ export default function ClientLogos() {
             <img
               src={logo.src}
               alt={logo.alt}
+              loading="lazy"
               className="h-[60px] md:h-[80px] w-auto object-contain"
             />
           </div>
@@ -64,6 +66,7 @@ export default function ClientLogos() {
             <img
               src={logo.src}
               alt={logo.alt}
+              loading="lazy"
               className="h-[60px] md:h-[80px] w-auto object-contain"
             />
           </div>

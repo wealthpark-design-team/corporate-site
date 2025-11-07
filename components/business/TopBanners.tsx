@@ -35,6 +35,7 @@ export default function TopBanners() {
               <img
                 src={banner.image}
                 alt={banner.alt}
+                loading="lazy"
                 className="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-300"
               />
             </a>

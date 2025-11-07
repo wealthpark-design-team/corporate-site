@@ -64,11 +64,10 @@ export default function BusinessHero({ locale, t, breadcrumbLocale }: BusinessHe
 
   return (
     <>
-      {/* Vanta.js WAVES 背景 - 画面全体に固定表示 */}
-      <div ref={vantaRef} className="fixed top-0 left-0 w-full h-screen -z-10" />
-
       {/* Heroコンテンツ */}
       <section className="relative h-[calc(100vh-80px)]">
+      {/* Vanta.js WAVES 背景 - Heroセクション内のみ表示 */}
+      <div ref={vantaRef} className="absolute top-0 left-0 w-full h-full -z-10" />
       {/* Breadcrumb - 上から80px（ヘッダー分）の位置に配置 */}
       <div className="absolute top-0 left-0 right-0 pt-header-desktop z-30">
         <Breadcrumb locale={breadcrumbLocale} variant="light" />

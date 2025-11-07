@@ -136,6 +136,7 @@ export default function CaseStudyCarousel({ t }: CaseStudyCarouselProps) {
                     <img
                       src={caseStudy.image}
                       alt={caseStudy.company}
+                      loading="lazy"
                       className="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-300"
                       draggable={false}
                     />

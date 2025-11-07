@@ -17,6 +17,7 @@ export default function AboutSection({ t }: AboutSectionProps) {
             <img
               src="https://wealth-park.com/wp-content/themes/wp-next-landing-page/business/img/il_about-wpb.svg"
               alt="WealthParkビジネスで実現する、不動産管理のDX"
+              loading="lazy"
               className="w-full max-w-3xl mx-auto"
             />
           </div>
@@ -30,6 +31,7 @@ export default function AboutSection({ t }: AboutSectionProps) {
                 frameBorder="0"
                 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                 allowFullScreen
+                loading="lazy"
                 className="w-full h-full"
               />
             </div>
