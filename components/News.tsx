@@ -93,7 +93,7 @@ export default function News({ locale, t, news }: NewsProps) {
 
         <div className="text-center mt-12">
           <Link
-            href="https://wealth-park.com/ja/news/"
+            href={`/${locale}/news`}
             className="inline-block text-sm text-gray-700 hover:text-[#1a1a1a] transition-colors font-medium"
           >
             {t.allArticles}
