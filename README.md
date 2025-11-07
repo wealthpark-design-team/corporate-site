@@ -103,6 +103,102 @@ const AUTH_CONFIG = {
 - **ドメイン**: wealth-park.com
 - **状態**: 認証解除 + インデックス許可
 
+## インフラ情報（Kinsta）
+
+### 契約プラン
+- **プラン名**: WP 5 Visits Monthly
+- **料金**: 115 USD/月
+- **次回請求日**: 2025年11月12日
+
+### プラン仕様
+- **ディスク容量**: 30 GB
+- **WordPressサイト数**: 5件まで
+- **訪問数**: 125,000回/月
+- **CDN転送量**: 500 GB/月
+
+### 現在の利用状況（2024年10月12日〜11月12日）
+- **訪問数**: 122,216 / 125,000
+- **CDN転送量**: 6.94 MB / 500 GB
+- **ディスク使用状況**: 7.31 GB / 30 GB
+- **WordPressサイト**: 3 / 5
+
+### 利用可能なアドオン
+- **ディスク容量の拡張**: 追加ストレージ購入可能
+- **WordPressサイト管理枠の拡張**: サイト数上限引き上げ
+- **外部バックアップ**: 外部サービスでバックアップ可能
+- **PHPパフォーマンス**: メモリプール増強（10ドル/月/512 MB）
+
+### Kinstaでの本番環境構成（Next.js + WordPress）
+
+#### 必要なサービス
+このNext.jsサイトをKinstaで本番運用する場合、以下2つのサービスが必要：
+
+1. **WordPress Hosting（現在契約中）**
+   - 料金: 115 USD/月
+   - 用途: ヘッドレスCMS（REST API提供）
+   - ドメイン: `wp.wealth-park.com`
+
+2. **Application Hosting（追加契約が必要）**
+   - 料金: 7〜30 USD/月（プランによる）
+   - 用途: Next.jsサイトのホスティング
+   - ドメイン: `wealth-park.com`
+
+#### 合計コスト
+```
+WordPress Hosting: 115 USD/月
+Application Hosting: 7〜30 USD/月
+─────────────────────────────
+合計: 122〜145 USD/月
+```
+
+#### 本番環境の構成図
+```
+┌─────────────────────────────┐
+│ Kinsta WordPress Hosting    │
+│ wp.wealth-park.com          │
+│ （ヘッドレスCMS）            │
+│  - 記事コンテンツ管理        │
+│  - REST API提供              │
+└─────────────────────────────┘
+         ↓ REST API
+┌─────────────────────────────┐
+│ Kinsta Application Hosting  │
+│ wealth-park.com             │
+│ （Next.js フロントエンド）   │
+│  - ユーザー向けサイト        │
+└─────────────────────────────┘
+```
+
+#### ダウンタイムを最小化した移行フロー
+
+1. **新しいWordPressサイトを作成**（WordPressサイト枠を1つ使用）
+   - 現在の本番WordPressデータをコピー
+   - ドメイン: `staging.wealth-park.com`（仮）
+
+2. **Application Hostingで Next.jsサイトを作成**
+   - GitHub連携で自動デプロイ
+   - 環境変数: `NEXT_PUBLIC_WP_API_URL=https://staging.wealth-park.com/wp-json/wp/v2`
+   - ドメイン: `next-staging.wealth-park.com`（仮）
+
+3. **ステージング環境で動作確認**
+   - 完全にテストして問題ないことを確認
+
+4. **本番環境へ切り替え**
+   - 旧WordPress: `wealth-park.com` → `old.wealth-park.com`（バックアップ）
+   - 新WordPress: `staging.wealth-park.com` → `wp.wealth-park.com`
+   - Next.js: `next-staging.wealth-park.com` → `wealth-park.com`
+   - 環境変数更新: `NEXT_PUBLIC_WP_API_URL=https://wp.wealth-park.com/wp-json/wp/v2`
+
+5. **安定稼働確認後**
+   - 旧WordPressサイトを削除（1ヶ月後を目安）
+   - コスト最適化完了
+
+#### 注意点
+- WordPress Hostingだけでは**Next.jsは動作しない**（PHPベースのWordPress専用）
+- Next.jsをKinstaで動かすには**Application Hostingの追加契約が必須**
+- Application Hostingは**WordPress Hostingとは別料金**
+- 切り戻しが必要な場合に備え、移行後1ヶ月は旧環境を残すことを推奨
+
 ## プロジェクト構造
 
 ```
